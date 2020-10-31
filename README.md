@@ -1,5 +1,5 @@
 # FLOYDTRACES_PUBLIC
-A public repository containing code and data from the paper "Using Mobile Device Traces to Improve Near-Real Time Data Collection During the George Floyd Protests"
+A public repository containing code and data from the paper ["Using Mobile Device Traces to Improve Near-Real Time Data Collection During the George Floyd Protests"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3621731)
 
 Get the protests data [here](https://www.dropbox.com/s/vv5qhq68dtsx9cu/floydDeviceTraces_public.csv.gz?dl=0).
 
