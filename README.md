@@ -1,12 +1,12 @@
 # FLOYDTRACES_PUBLIC
 A public repository containing code and data from the paper "Using Mobile Device Traces to Improve Near-Real Time Data Collection During the George Floyd Protests"
 
-Get the protests data (here)[https://www.dropbox.com/s/vv5qhq68dtsx9cu/floydDeviceTraces_public.csv.gz?dl=0].
+Get the protests data [here](https://www.dropbox.com/s/vv5qhq68dtsx9cu/floydDeviceTraces_public.csv.gz?dl=0).
 
 
 ## CODE
 
-This code is a work in progress and is not meant to run out of the box. It is made available to facilitate further research and provide insight into how the result from the paper and the public data were produced. The scripts below builds on code from (here)[https://colab.research.google.com/drive/1qqLRxehVZr1OBpnbHRRyXPWo1Q98dnxA?usp=sharing] and (this paper)[https://www.pnas.org/content/117/33/19837/tab-figures-data]. We thank David Holtz for sharing the code for the latter and SafeGraph for their support. 
+This code is a work in progress and is not meant to run out of the box. It is made available to facilitate further research and provide insight into how the result from the paper and the public data were produced. The scripts below builds on code from [here](https://colab.research.google.com/drive/1qqLRxehVZr1OBpnbHRRyXPWo1Q98dnxA?usp=sharing) and [this paper](https://www.pnas.org/content/117/33/19837/tab-figures-data). We thank David Holtz for sharing the code for the latter and SafeGraph for their support. 
 
 ### R 
 * *programs.Rproj*: open project in RStudio to start
