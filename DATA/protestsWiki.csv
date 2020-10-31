@@ -1,0 +1,683 @@
+city
+Fairbanks
+Anchorage
+Juneau
+Copenhagen
+Belfast
+"Manchester, England"
+Liverpool
+Dublin
+Berlin
+Amsterdam
+Red Deer
+Saskatoon
+London
+Cardiff
+Calgary
+Vancouver
+Munich
+Spokane
+Bellevue
+Seattle
+Great Falls
+Bemidji
+Zurich
+Tacoma
+Olympia
+Fargo
+Missoula
+Duluth
+Helena
+Marquette
+Greater Sudbury
+Richland
+Pasco
+Moncton
+Walla Walla
+Fredericton
+Bozeman
+Pendleton
+St. Cloud
+"Portland, OR"
+Montreal
+Minneapolis
+St. Paul
+Wausau
+Salem
+Potsdam
+Halifax
+"Albany, OR"
+Corvallis
+Burlington
+Belfast
+Peterborough
+Prineville
+Appleton
+Montpelier
+Rapid City
+Bend
+Eugene
+Conway
+Toronto
+"Portland, ME"
+Boise
+Sioux Falls
+Jackson
+Oswego
+"Dover, NH"
+Rochester
+Utica
+Madison
+Milwaukee
+Syracuse
+Flint
+"Manchester, NH"
+Grand Rapids
+Buffalo
+Brattleboro
+Schenectady
+Lansing
+"Albany, NY"
+Waterloo
+Boston
+Detroit
+Ann Arbor
+Ypsilanti
+Erie
+"Springfield, MA"
+Binghamton
+Ames
+Cedar Rapids
+Kingston
+Chicago
+Providence
+Hartford
+Naperville
+New Paltz
+Poughkeepsie
+South Bend
+Cape Cod
+Iowa City
+Toledo
+Des Moines
+Hammond
+Middletown
+Davenport
+Beacon
+Newburgh
+Cleveland
+Middletown
+Scranton
+"Bowling Green, OH"
+Monroe
+New Haven
+Peekskill
+Warwick
+Omaha
+Wilkes-Barre
+Hermitage
+Ogden
+Sharon
+Cheyenne
+Westport
+Youngstown
+Nyack
+Nanuet
+Akron
+Fort Wayne
+Stamford
+White Plains
+New Castle
+Stroudsburg
+Yonkers
+Riverhead
+Paterson
+Englewood
+Butler
+Commack
+Wooster
+Eureka
+Glen Ridge
+Lincoln
+Canton
+Morristown
+State College
+"Manhattan, NY"
+Plainview
+Salt Lake City
+Mansfield
+Mineola
+Millburn
+"Newark, NJ"
+Garden City
+Jersey City
+West Islip
+"Brooklyn, NY"
+Easton
+Peoria
+Bethlehem
+Allentown
+Fort Collins
+Marion
+"Staten Island, NY"
+"New Brunswick, NJ"
+Pittsburgh
+Hollidaysburg
+South Brunswick
+Doylestown
+Greensburg
+Long Branch
+"Delaware, OH"
+Harrisburg
+Provo
+Asbury Park
+Trenton
+Red Bluff
+Champaign–Urbana
+"Newark, OH"
+Lancaster
+Boulder
+Columbus
+Philadelphia
+Zanesville
+"Springfield, OH"
+Camden
+Haddonfield
+"Springfield, IL"
+Indianapolis
+Dayton
+"Wilmington, DE"
+Denver
+Aurora
+Reno
+Hamilton
+Atlantic City
+Fairmont
+Baltimore
+"Columbia, MD"
+"Dover, DE"
+Cincinnati
+Kansas City
+Bethesda
+Annapolis
+Lawrence
+"Washington, DC"
+Colorado Springs
+Manassas
+Portsmouth
+St. Louis
+Sacramento
+Harrisonburg
+Santa Rosa
+"Charleston, WV"
+Louisville
+Staunton
+Vallejo
+Lexington
+Oakland
+San Francisco
+Wichita
+Modesto
+Richmond
+Menlo Park
+Palo Alto
+Lynchburg
+San Jose
+Cape Girardeau
+Roanoke
+"Bowling Green, KY"
+Santa Cruz
+Hampton Roads
+Fresno
+Las Vegas
+Nashville
+Tulsa
+Winston-Salem
+Durham
+Knoxville
+High Point
+Jonesboro
+Raleigh
+Tokyo
+Santa Fe
+Newton
+Asheville
+Oklahoma City
+Fort Smith
+Bakersfield
+San Luis Obispo
+Charlotte
+Amarillo
+Flagstaff
+Memphis
+Albuquerque
+Fayetteville
+Chattanooga
+Greenville
+Little Rock
+Prescott
+Santa Barbara
+Oxford
+"Wilmington, NC"
+Oxnard
+Thousand Oaks
+Glendora
+Fontana
+Los Angeles
+Walnut
+Santa Monica
+"Columbia, SC"
+Riverside
+Athens
+Palm Springs
+Orange
+Atlanta
+Myrtle Beach
+Huntington Beach
+Lubbock
+Birmingham
+Scottsdale
+Temecula
+Augusta
+Phoenix
+San Clemente
+Hoover
+Frisco
+Macon
+"Charleston, SC"
+Dallas
+La Mesa
+Fort Worth
+San Diego
+Yuma
+Auburn
+Shreveport
+Tucson
+Savannah
+Tel Aviv
+Jerusalem
+El Paso
+Petal
+Baton Rouge
+Tallahassee
+Pensacola
+Jacksonville
+Austin
+Lafayette
+Lake Charles
+New Orleans
+Houston
+Gainesville
+San Antonio
+Daytona Beach
+Orlando
+Windermere
+Lakeland
+Temple Terrace
+Tampa
+St. Petersburg
+West Palm Beach
+Lake Worth Beach
+Fort Lauderdale
+Miami
+Coral Gables
+Honolulu
+Kahului
+Rio de Janeiro
+Perth
+Auckland
+Wellington
+Christchurch
+Dunedin
+Bordeaux
+Paris
+Redmond
+Selinsgrove
+The Hague
+Sydney
+Groningen
+Athens
+Thessaloniki
+Barcelona
+Bratislava
+Fairbanks
+Anchorage
+Juneau
+Copenhagen
+Belfast
+"Manchester, England"
+Liverpool
+Dublin
+Berlin
+Amsterdam
+Red Deer
+Saskatoon
+London
+Cardiff
+Calgary
+Vancouver
+Munich
+Spokane
+Bellevue
+Seattle
+Great Falls
+Bemidji
+Zurich
+Tacoma
+Olympia
+Fargo
+Missoula
+Duluth
+Helena
+Marquette
+Greater Sudbury
+Richland
+Pasco
+Moncton
+Walla Walla
+Fredericton
+Bozeman
+Pendleton
+St. Cloud
+"Portland, OR"
+Montreal
+Minneapolis
+St. Paul
+Wausau
+Salem
+Potsdam
+Halifax
+"Albany, OR"
+Corvallis
+Burlington
+Belfast
+Peterborough
+Prineville
+Appleton
+Montpelier
+Rapid City
+Bend
+Eugene
+Conway
+Toronto
+"Portland, ME"
+Boise
+Sioux Falls
+Jackson
+Oswego
+"Dover, NH"
+Rochester
+Utica
+Madison
+Milwaukee
+Syracuse
+Flint
+"Manchester, NH"
+Grand Rapids
+Buffalo
+Brattleboro
+Schenectady
+Lansing
+"Albany, NY"
+Waterloo
+Boston
+Detroit
+Ann Arbor
+Ypsilanti
+Erie
+"Springfield, MA"
+Binghamton
+Ames
+Cedar Rapids
+Kingston
+Chicago
+Providence
+Hartford
+Naperville
+New Paltz
+Poughkeepsie
+South Bend
+Cape Cod
+Iowa City
+Toledo
+Des Moines
+Hammond
+Middletown
+Davenport
+Beacon
+Newburgh
+Cleveland
+Middletown
+Scranton
+"Bowling Green, OH"
+Monroe
+New Haven
+Peekskill
+Warwick
+Omaha
+Wilkes-Barre
+Hermitage
+Ogden
+Sharon
+Cheyenne
+Westport
+Youngstown
+Nyack
+Nanuet
+Akron
+Fort Wayne
+Stamford
+White Plains
+New Castle
+Stroudsburg
+Yonkers
+Riverhead
+Paterson
+Englewood
+Butler
+Commack
+Wooster
+Eureka
+Glen Ridge
+Lincoln
+Canton
+Morristown
+State College
+"Manhattan, NY"
+Plainview
+Salt Lake City
+Mansfield
+Mineola
+Millburn
+"Newark, NJ"
+Garden City
+Jersey City
+West Islip
+"Brooklyn, NY"
+Easton
+Peoria
+Bethlehem
+Allentown
+Fort Collins
+Marion
+"Staten Island, NY"
+"New Brunswick, NJ"
+Pittsburgh
+Hollidaysburg
+South Brunswick
+Doylestown
+Greensburg
+Long Branch
+"Delaware, OH"
+Harrisburg
+Provo
+Asbury Park
+Trenton
+Red Bluff
+Champaign–Urbana
+"Newark, OH"
+Lancaster
+Boulder
+Columbus
+Philadelphia
+Zanesville
+"Springfield, OH"
+Camden
+Haddonfield
+"Springfield, IL"
+Indianapolis
+Dayton
+"Wilmington, DE"
+Denver
+Aurora
+Reno
+Hamilton
+Atlantic City
+Fairmont
+Baltimore
+"Columbia, MD"
+"Dover, DE"
+Cincinnati
+Kansas City
+Bethesda
+Annapolis
+Lawrence
+"Washington, DC"
+Colorado Springs
+Manassas
+Portsmouth
+St. Louis
+Sacramento
+Harrisonburg
+Santa Rosa
+"Charleston, WV"
+Louisville
+Staunton
+Vallejo
+Lexington
+Oakland
+San Francisco
+Wichita
+Modesto
+Richmond
+Menlo Park
+Palo Alto
+Lynchburg
+San Jose
+Cape Girardeau
+Roanoke
+"Bowling Green, KY"
+Santa Cruz
+Hampton Roads
+Fresno
+Las Vegas
+Nashville
+Tulsa
+Winston-Salem
+Durham
+Knoxville
+High Point
+Jonesboro
+Raleigh
+Tokyo
+Santa Fe
+Newton
+Asheville
+Oklahoma City
+Fort Smith
+Bakersfield
+San Luis Obispo
+Charlotte
+Amarillo
+Flagstaff
+Memphis
+Albuquerque
+Fayetteville
+Chattanooga
+Greenville
+Little Rock
+Prescott
+Santa Barbara
+Oxford
+"Wilmington, NC"
+Oxnard
+Thousand Oaks
+Glendora
+Fontana
+Los Angeles
+Walnut
+Santa Monica
+"Columbia, SC"
+Riverside
+Athens
+Palm Springs
+Orange
+Atlanta
+Myrtle Beach
+Huntington Beach
+Lubbock
+Birmingham
+Scottsdale
+Temecula
+Augusta
+Phoenix
+San Clemente
+Hoover
+Frisco
+Macon
+"Charleston, SC"
+Dallas
+La Mesa
+Fort Worth
+San Diego
+Yuma
+Auburn
+Shreveport
+Tucson
+Savannah
+Tel Aviv
+Jerusalem
+El Paso
+Petal
+Baton Rouge
+Tallahassee
+Pensacola
+Jacksonville
+Austin
+Lafayette
+Lake Charles
+New Orleans
+Houston
+Gainesville
+San Antonio
+Daytona Beach
+Orlando
+Windermere
+Lakeland
+Temple Terrace
+Tampa
+St. Petersburg
+West Palm Beach
+Lake Worth Beach
+Fort Lauderdale
+Miami
+Coral Gables
+Honolulu
+Kahului
+Rio de Janeiro
+Perth
+Auckland
+Wellington
+Christchurch
+Dunedin
+Bordeaux
+Paris
+Redmond
+Selinsgrove
+The Hague
+Sydney
+Groningen
+Athens
+Thessaloniki
+Barcelona
+Bratislava

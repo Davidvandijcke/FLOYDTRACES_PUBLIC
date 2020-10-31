@@ -1,0 +1,310 @@
+City,State,Date
+Anniston,Alabama,2020-06-01
+Ashland,Alabama,2020-06-02
+Auburn,Alabama,2020-05-31
+Birmingham,Alabama,2020-05-31
+Birmingham,Alabama,2020-06-01
+Birmingham,Alabama,2020-06-02
+Dothan,Alabama,2020-05-31
+Hoover,Alabama,2020-05-30
+Huntsville,Alabama,2020-05-30
+Huntsville,Alabama,2020-06-01
+Jacksonville,Alabama,2020-06-01
+Mobile,Alabama,2020-05-31
+Montgomery,Alabama,2020-05-30
+Opelika,Alabama,2020-05-30
+Troy,Alabama,2020-05-29
+Tuscaloosa,Alabama,2020-05-31
+Tuscaloosa,Alabama,2020-06-03
+Anchorage,Alaska,2020-05-30
+Bethel,Alaska,2020-06-02
+Fairbanks,Alaska,2020-05-30
+Haines,Alaska,2020-06-02
+Homer,Alaska,2020-06-01
+Homer,Alaska,2020-06-02
+Juneau,Alaska,2020-05-30
+Ketchikan,Alaska,2020-06-03
+Kodiak,Alaska,2020-06-04
+Kotzebue,Alaska,2020-06-02
+Sitka,Alaska,2020-06-01
+Flagstaff,Arizona,2020-05-29
+Flagstaff,Arizona,2020-05-30
+Phoenix,Arizona,2020-05-28
+Phoenix,Arizona,2020-05-29
+Kingman,Arizona,NA
+Lake Havasu City,Arizona,2020-06-03
+Prescott,Arizona,2020-05-30
+Scottsdale,Arizona,NA
+Tucson,Arizona,2020-05-30
+Yuma,Arizona,2020-05-30
+Bentonville,Arkansas,2020-06-01
+Conway,Arkansas,2020-05-31
+Fayetteville,Arkansas,2020-05-30
+Fayetteville,Arkansas,2020-06-02
+Fort Smith,Arkansas,2020-05-31
+Jonesboro,Arkansas,2020-05-31
+Jonesboro,Arkansas,2020-06-01
+Little Rock,Arkansas,2020-05-30
+Texarkana,Arkansas,2020-05-30
+Diamond Bar,California,2020-06-04
+Fort Collins,Colorado,2020-05-28
+Fort Collins,Colorado,2020-06-01
+Glenwood Springs,Colorado,2020-06-01
+Bridgeport,Connecticut,2020-05-30
+Danbury,Connecticut,2020-06-03
+Enfield,Connecticut,2020-06-04
+Fairfield,Connecticut,2020-06-02
+Greenwich,Connecticut,2020-06-01
+Hartford,Connecticut,2020-05-29
+Hartford,Connecticut,2020-05-30
+New Canaan,Connecticut,2020-06-04
+New Haven,Connecticut,2020-05-31
+New Haven,Connecticut,2020-06-05
+New London,Connecticut,2020-05-30
+Middletown,Connecticut,2020-05-30
+Stamford,Connecticut,2020-05-31
+Stratford,Connecticut,2020-05-30
+Waterbury,Connecticut,NA
+Westport,Connecticut,2020-05-31
+Dover,Delaware,2020-05-31
+Rehoboth Beach,Delaware,2020-06-01
+Rehoboth Beach,Delaware,2020-06-05
+Wilmington,Delaware,2020-05-30
+Wilmington,Delaware,2020-05-31
+Washington,D.C.,2020-05-29
+Washington,D.C.,2020-05-30
+Washington,D.C.,2020-06-01
+Washington,D.C.,2020-06-03
+Tamuning,Guam,NA
+Hilo,Hawaii,2020-05-30
+Hilo,Hawaii,2020-06-02
+Honolulu,Hawaii,2020-05-30
+Honolulu,Hawaii,2020-06-05
+Kailua-Kona,Hawaii,2020-05-29
+Kailua-Kona,Hawaii,2020-05-31
+Boise,Idaho,2020-05-30
+Boise,Idaho,2020-05-31
+Boise,Idaho,2020-06-01
+Coeur d’Alene,Idaho,2020-06-02
+Idaho Falls,Idaho,2020-05-30
+Pocatello,Idaho,2020-06-03
+Sandpoint,Idaho,2020-06-04
+Twin Falls,Idaho,2020-06-02
+Anderson,Indiana,2020-05-30
+Carmel,Indiana,2020-06-01
+Evansville,Indiana,2020-05-30
+Fort Wayne,Indiana,2020-05-29
+Hammond,Indiana,2020-05-30
+Indianapolis,Indiana,2020-05-30
+Kokomo,Indiana,2020-05-30
+Kokomo,Indiana,2020-06-01
+Lafayette,Indiana,2020-05-31
+Marion,Indiana,2020-05-29
+Marion,Indiana,2020-05-30
+Marion,Indiana,2020-05-31
+Muncie,Indiana,2020-06-04
+South Bend,Indiana,2020-05-30
+Warsaw,Indiana,2020-06-04
+Ames,Iowa,2020-05-30
+Cedar Rapids,Iowa,2020-05-29
+Davenport,Iowa,2020-05-30
+Davenport,Iowa,2020-05-31
+Decorah,Iowa,2020-05-31
+Des Moines,Iowa,2020-05-29
+Des Moines,Iowa,2020-05-30
+Dubuque,Iowa,2020-06-01
+Iowa City,Iowa,2020-05-30
+Sioux City,Iowa,2020-05-29
+Watferloo,Iowa,2020-05-29
+Coffeyville,Kansas,2020-06-04
+Derby,Kansas,NA
+Fort Scott,Kansas,2020-05-31
+Great Bend,Kansas,2020-06-01
+Lawrence,Kansas,2020-05-31
+Kansas City,Kansas,2020-05-30
+Manhattan,Kansas,2020-05-30
+Manhattan,Kansas,2020-06-01
+Topeka,Kansas,2020-05-30
+Wichita,Kansas,2020-05-30
+Bowling Green,Kentucky,2020-05-29
+Covington,Kentucky,2020-05-31
+Lexington,Kentucky,2020-05-31
+Louisville,Kentucky,2020-05-28
+Louisville,Kentucky,2020-05-29
+Louisville,Kentucky,2020-05-30
+Louisville,Kentucky,2020-06-01
+Alexandria,Louisiana,2020-05-31
+Baton Rouge,Louisiana,2020-05-30
+Baton Rouge,Louisiana,2020-05-31
+Baton Rouge,Louisiana,2020-06-01
+Baton Rouge,Louisiana,2020-06-02
+Lafayette,Louisiana,2020-05-31
+Lake Charles,Louisiana,2020-05-31
+Monroe,Louisiana,2020-05-31
+New Iberia,Louisiana,2020-05-30
+New Orleans,Louisiana,2020-05-29
+New Orleans,Louisiana,2020-05-30
+New Orleans,Louisiana,2020-05-31
+New Orleans,Louisiana,2020-06-02
+Shreveport,Louisiana,2020-05-31
+Bangor,Maine,2020-05-31
+Bangor,Maine,2020-06-01
+Belfast,Maine,2020-05-31
+Camden,Maine,2020-06-03
+Lewiston,Maine,2020-06-01
+Portland,Maine,2020-05-29
+Biloxi,Mississippi,2020-05-30
+Biloxi,Mississippi,2020-05-31
+Hattiesburg,Mississippi,NA
+Jackson,Mississippi,2020-05-29
+Oxford,Mississippi,NA
+Petal,Mississippi,2020-05-28
+Petal,Mississippi,2020-06-02
+Tupelo,Mississippi,2020-05-30
+Cape Girardeau,Missouri,2020-05-31
+Kansas City,Missouri,2020-05-29
+Springfield,Missouri,2020-05-30
+St. Louis,Missouri,2020-05-30
+St. Louis,Missouri,2020-06-01
+Billings,Montana,2020-05-30
+Billings,Montana,2020-05-31
+Bozeman,Montana,2020-05-31
+Great Falls,Montana,2020-05-31
+Havre,Montana,2020-05-31
+Helena,Montana,2020-05-31
+Missoula,Montana,2020-05-29
+Chadron,Nebraska,2020-06-03
+Grand Island,Nebraska,2020-06-01
+Harvard,Nebraska,2020-06-02
+Kearney,Nebraska,2020-05-30
+Kearney,Nebraska,2020-05-31
+Lincoln,Nebraska,2020-05-29
+Lincoln,Nebraska,2020-05-31
+Norfolk,Nebraska,2020-06-03
+Omaha,Nebraska,2020-05-29
+Omaha,Nebraska,2020-06-01
+Elko,Nevada,2020-06-04
+Las Vegas,Nevada,2020-05-29
+Las Vegas,Nevada,2020-06-02
+Reno,Nevada,2020-05-30
+Bristol,New Hampshire,2020-06-03
+Conway,New Hampshire,2020-05-31
+Dover,New Hampshire,2020-06-01
+Dublin,New Hampshire,2020-05-30
+Keene,New Hampshire,2020-05-30
+Manchester,New Hampshire,2020-05-30
+Peterborough,New Hampshire,2020-05-30
+Albuquerque,New Mexico,2020-05-28
+Carlsbad,New Mexico,2020-05-30
+Farmington,New Mexico,2020-06-01
+Las Cruces,New Mexico,2020-05-30
+Roswell,New Mexico,2020-05-30
+Santa Fe,New Mexico,NA
+Asheville,North Carolina,2020-05-31
+Asheville,North Carolina,2020-06-02
+Beaufort,North Carolina,2020-06-02
+Chapel Hill,North Carolina,2020-06-03
+Chapel Hill,North Carolina,2020-06-05
+Charlotte,North Carolina,2020-05-29
+Charlotte,North Carolina,2020-05-30
+Dunn,North Carolina,2020-06-04
+Durham,North Carolina,2020-05-30
+Durham,North Carolina,2020-06-01
+Fayetteville,North Carolina,2020-05-30
+Goldsboro,North Carolina,2020-05-31
+Greensboro,North Carolina,2020-05-30
+Greensboro,North Carolina,2020-06-01
+Greenville,North Carolina,2020-05-31
+High Point,North Carolina,2020-05-31
+High Point,North Carolina,2020-06-01
+Morehead City,North Carolina,2020-05-31
+Morehead City,North Carolina,2020-06-05
+Newton,North Carolina,2020-06-01
+Raleigh,North Carolina,2020-05-30
+Raleigh,North Carolina,2020-05-31
+Raleigh,North Carolina,2020-06-01
+Wilmington,North Carolina,2020-05-31
+Winston-Salem,North Carolina,2020-05-31
+Bismarck,North Dakota,2020-05-30
+Dickinson,North Dakota,2020-06-02
+Fargo,North Dakota,2020-05-30
+Grand Forks,North Dakota,2020-06-04
+Minot,North Dakota,2020-05-31
+Saipan,Northern Mariana Islands,NA
+Enid,Oklahoma,2020-06-02
+Lawton,Oklahoma,2020-05-31
+Norman,Oklahoma,2020-06-01
+Oklahoma City,Oklahoma,2020-05-30
+Tulsa,Oklahoma,2020-05-30
+Loíza,Puerto Rico,2020-06-01
+San Juan,Puerto Rico,2020-06-02
+Providence,Rhode Island,2020-05-30
+Providence,Rhode Island,2020-06-01
+Providence,Rhode Island,2020-06-02
+Newport,Rhode Island,2020-06-01
+Charleston,South Carolina,NA
+Columbia,South Carolina,2020-05-30
+Greenville,South Carolina,2020-05-30
+Myrtle Beach,South Carolina,2020-05-31
+Mitchell,South Dakota,2020-06-03
+Pierre,South Dakota,2020-06-04
+Pine Ridge,South Dakota,2020-06-04
+Rapid City,South Dakota,2020-05-29
+Rapid City,South Dakota,2020-06-03
+Sioux Falls,South Dakota,2020-05-31
+Sioux Falls,South Dakota,2020-06-01
+Chattanooga,Tennessee,2020-05-30
+Chattanooga,Tennessee,2020-05-31
+Chattanooga,Tennessee,2020-06-03
+Jackson,Tennessee,2020-05-30
+Knoxville,Tennessee,NA
+Memphis,Tennessee,2020-05-27
+Memphis,Tennessee,2020-05-31
+Memphis,Tennessee,2020-06-01
+Murfreesboro,Tennessee,2020-05-31
+Nashville,Tennessee,NA
+Frederiksted,U.S. Virgin Islands,2020-06-04
+Cedar City,Utah,2020-05-31
+Ogden,Utah,NA
+Provo,Utah,2020-05-30
+Saint George,Utah,2020-05-30
+Salt Lake City,Utah,NA
+Brattleboro,Vermont,2020-05-30
+Burlington,Vermont,2020-05-30
+Middlebury,Vermont,2020-05-30
+Montpelier,Vermont,2020-05-30
+St. Albans,Vermont,2020-06-02
+St. Johnsbury,Vermont,2020-06-03
+Beckley,West Virginia,2020-05-31
+Charleston,West Virginia,2020-05-30
+Charleston,West Virginia,2020-05-31
+Huntington,West Virginia,2020-05-30
+Fairmont,West Virginia,2020-05-30
+Morgantown,West Virginia,2020-05-30
+Wheeling,West Virginia,2020-05-31
+Appleton,Wisconsin,2020-05-30
+Eau Claire,Wisconsin,2020-05-31
+Green Bay,Wisconsin,2020-05-30
+Green Bay,Wisconsin,2020-05-31
+La Crosse,Wisconsin,2020-05-29
+Madison,Wisconsin,2020-05-30
+Marinette,Wisconsin,2020-06-03
+Milwaukee,Wisconsin,2020-05-29
+Wausau,Wisconsin,2020-05-29
+Casper,Wyoming,NA
+Cheyenne,Wyoming,2020-05-29
+Cheyenne,Wyoming,2020-05-30
+Gillette,Wyoming,2020-06-02
+Jackson,Wyoming,2020-05-31
+Laramie,Wyoming,2020-06-02
+Laramie,Wyoming,2020-06-04
+Riverton,Wyoming,2020-06-01
+Rock Springs,Wyoming,NA
+Anniston,Alabama,2020-06-02
+Washington,D.C.,2020-05-31
+Kansas City,Kansas,2020-05-31
+Springfield,Missouri,2020-05-31
+Oklahoma City,Oklahoma,2020-05-31
+Appleton,Wisconsin,2020-05-31
+La Crosse,Wisconsin,2020-05-30
+Cheyenne,Wyoming,2020-05-31

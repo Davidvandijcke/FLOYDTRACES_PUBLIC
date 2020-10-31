@@ -1,0 +1,3873 @@
+City,State,Date,Protest
+Albuquerque,New Mexico,2020-05-26,0
+Albuquerque,New Mexico,2020-05-27,1
+Albuquerque,New Mexico,2020-05-28,1
+Albuquerque,New Mexico,2020-05-29,1
+Albuquerque,New Mexico,2020-05-30,1
+Albuquerque,New Mexico,2020-05-31,1
+Albuquerque,New Mexico,2020-06-01,1
+Albuquerque,New Mexico,2020-06-02,0
+Albuquerque,New Mexico,2020-06-03,0
+Albuquerque,New Mexico,2020-06-04,0
+Albuquerque,New Mexico,2020-06-05,0
+Alexandria,Louisiana,2020-05-26,0
+Alexandria,Louisiana,2020-05-27,0
+Alexandria,Louisiana,2020-05-28,0
+Alexandria,Louisiana,2020-05-29,0
+Alexandria,Louisiana,2020-05-30,0
+Alexandria,Louisiana,2020-05-31,1
+Alexandria,Louisiana,2020-06-01,0
+Alexandria,Louisiana,2020-06-02,0
+Alexandria,Louisiana,2020-06-03,0
+Alexandria,Louisiana,2020-06-04,0
+Alexandria,Louisiana,2020-06-05,0
+Ames,Iowa,2020-05-26,0
+Ames,Iowa,2020-05-27,0
+Ames,Iowa,2020-05-28,0
+Ames,Iowa,2020-05-29,0
+Ames,Iowa,2020-05-30,1
+Ames,Iowa,2020-05-31,0
+Ames,Iowa,2020-06-01,0
+Ames,Iowa,2020-06-02,0
+Ames,Iowa,2020-06-03,0
+Ames,Iowa,2020-06-04,0
+Ames,Iowa,2020-06-05,0
+Anaheim,California,2020-05-26,0
+Anaheim,California,2020-05-27,0
+Anaheim,California,2020-05-28,0
+Anaheim,California,2020-05-29,0
+Anaheim,California,2020-05-30,0
+Anaheim,California,2020-05-31,0
+Anaheim,California,2020-06-01,1
+Anaheim,California,2020-06-02,0
+Anaheim,California,2020-06-03,0
+Anaheim,California,2020-06-04,0
+Anaheim,California,2020-06-05,0
+Anchorage,Alaska,2020-05-26,0
+Anchorage,Alaska,2020-05-27,0
+Anchorage,Alaska,2020-05-28,0
+Anchorage,Alaska,2020-05-29,0
+Anchorage,Alaska,2020-05-30,1
+Anchorage,Alaska,2020-05-31,0
+Anchorage,Alaska,2020-06-01,0
+Anchorage,Alaska,2020-06-02,0
+Anchorage,Alaska,2020-06-03,0
+Anchorage,Alaska,2020-06-04,0
+Anchorage,Alaska,2020-06-05,0
+Anderson,Indiana,2020-05-26,0
+Anderson,Indiana,2020-05-27,0
+Anderson,Indiana,2020-05-28,0
+Anderson,Indiana,2020-05-29,0
+Anderson,Indiana,2020-05-30,1
+Anderson,Indiana,2020-05-31,0
+Anderson,Indiana,2020-06-01,0
+Anderson,Indiana,2020-06-02,0
+Anderson,Indiana,2020-06-03,0
+Anderson,Indiana,2020-06-04,0
+Anderson,Indiana,2020-06-05,0
+Anniston,Alabama,2020-05-26,0
+Anniston,Alabama,2020-05-27,0
+Anniston,Alabama,2020-05-28,0
+Anniston,Alabama,2020-05-29,0
+Anniston,Alabama,2020-05-30,0
+Anniston,Alabama,2020-05-31,0
+Anniston,Alabama,2020-06-01,1
+Anniston,Alabama,2020-06-02,1
+Anniston,Alabama,2020-06-03,0
+Anniston,Alabama,2020-06-04,0
+Anniston,Alabama,2020-06-05,0
+Apple Valley,California,2020-05-26,0
+Apple Valley,California,2020-05-27,0
+Apple Valley,California,2020-05-28,0
+Apple Valley,California,2020-05-29,0
+Apple Valley,California,2020-05-30,0
+Apple Valley,California,2020-05-31,0
+Apple Valley,California,2020-06-01,0
+Apple Valley,California,2020-06-02,0
+Apple Valley,California,2020-06-03,1
+Apple Valley,California,2020-06-04,0
+Apple Valley,California,2020-06-05,0
+Appleton,Wisconsin,2020-05-26,0
+Appleton,Wisconsin,2020-05-27,0
+Appleton,Wisconsin,2020-05-28,0
+Appleton,Wisconsin,2020-05-29,0
+Appleton,Wisconsin,2020-05-30,1
+Appleton,Wisconsin,2020-05-31,1
+Appleton,Wisconsin,2020-06-01,0
+Appleton,Wisconsin,2020-06-02,0
+Appleton,Wisconsin,2020-06-03,0
+Appleton,Wisconsin,2020-06-04,0
+Appleton,Wisconsin,2020-06-05,0
+Asheville,North Carolina,2020-05-26,0
+Asheville,North Carolina,2020-05-27,0
+Asheville,North Carolina,2020-05-28,0
+Asheville,North Carolina,2020-05-29,0
+Asheville,North Carolina,2020-05-30,0
+Asheville,North Carolina,2020-05-31,1
+Asheville,North Carolina,2020-06-01,0
+Asheville,North Carolina,2020-06-02,1
+Asheville,North Carolina,2020-06-03,0
+Asheville,North Carolina,2020-06-04,0
+Asheville,North Carolina,2020-06-05,0
+Ashland,Alabama,2020-05-26,0
+Ashland,Alabama,2020-05-27,0
+Ashland,Alabama,2020-05-28,0
+Ashland,Alabama,2020-05-29,0
+Ashland,Alabama,2020-05-30,0
+Ashland,Alabama,2020-05-31,0
+Ashland,Alabama,2020-06-01,0
+Ashland,Alabama,2020-06-02,1
+Ashland,Alabama,2020-06-03,0
+Ashland,Alabama,2020-06-04,0
+Ashland,Alabama,2020-06-05,0
+Atlanta,Georgia,2020-05-26,0
+Atlanta,Georgia,2020-05-27,1
+Atlanta,Georgia,2020-05-28,1
+Atlanta,Georgia,2020-05-29,1
+Atlanta,Georgia,2020-05-30,1
+Atlanta,Georgia,2020-05-31,1
+Atlanta,Georgia,2020-06-01,0
+Atlanta,Georgia,2020-06-02,0
+Atlanta,Georgia,2020-06-03,1
+Atlanta,Georgia,2020-06-04,0
+Atlanta,Georgia,2020-06-05,0
+Auburn,Alabama,2020-05-26,0
+Auburn,Alabama,2020-05-27,0
+Auburn,Alabama,2020-05-28,0
+Auburn,Alabama,2020-05-29,0
+Auburn,Alabama,2020-05-30,0
+Auburn,Alabama,2020-05-31,1
+Auburn,Alabama,2020-06-01,0
+Auburn,Alabama,2020-06-02,0
+Auburn,Alabama,2020-06-03,0
+Auburn,Alabama,2020-06-04,0
+Auburn,Alabama,2020-06-05,0
+Aurora,Illinois,2020-05-26,0
+Aurora,Illinois,2020-05-27,0
+Aurora,Illinois,2020-05-28,0
+Aurora,Illinois,2020-05-29,0
+Aurora,Illinois,2020-05-30,0
+Aurora,Illinois,2020-05-31,1
+Aurora,Illinois,2020-06-01,0
+Aurora,Illinois,2020-06-02,0
+Aurora,Illinois,2020-06-03,0
+Aurora,Illinois,2020-06-04,0
+Aurora,Illinois,2020-06-05,0
+Austin,Texas,2020-05-26,0
+Austin,Texas,2020-05-27,1
+Austin,Texas,2020-05-28,1
+Austin,Texas,2020-05-29,1
+Austin,Texas,2020-05-30,1
+Austin,Texas,2020-05-31,1
+Austin,Texas,2020-06-01,0
+Austin,Texas,2020-06-02,0
+Austin,Texas,2020-06-03,0
+Austin,Texas,2020-06-04,0
+Austin,Texas,2020-06-05,0
+Bakersfield,California,2020-05-26,0
+Bakersfield,California,2020-05-27,0
+Bakersfield,California,2020-05-28,0
+Bakersfield,California,2020-05-29,0
+Bakersfield,California,2020-05-30,1
+Bakersfield,California,2020-05-31,0
+Bakersfield,California,2020-06-01,0
+Bakersfield,California,2020-06-02,0
+Bakersfield,California,2020-06-03,0
+Bakersfield,California,2020-06-04,0
+Bakersfield,California,2020-06-05,0
+Baltimore,Maryland,2020-05-26,0
+Baltimore,Maryland,2020-05-27,0
+Baltimore,Maryland,2020-05-28,0
+Baltimore,Maryland,2020-05-29,0
+Baltimore,Maryland,2020-05-30,1
+Baltimore,Maryland,2020-05-31,0
+Baltimore,Maryland,2020-06-01,1
+Baltimore,Maryland,2020-06-02,0
+Baltimore,Maryland,2020-06-03,0
+Baltimore,Maryland,2020-06-04,0
+Baltimore,Maryland,2020-06-05,0
+Bangor,Maine,2020-05-26,0
+Bangor,Maine,2020-05-27,0
+Bangor,Maine,2020-05-28,0
+Bangor,Maine,2020-05-29,0
+Bangor,Maine,2020-05-30,0
+Bangor,Maine,2020-05-31,1
+Bangor,Maine,2020-06-01,1
+Bangor,Maine,2020-06-02,0
+Bangor,Maine,2020-06-03,0
+Bangor,Maine,2020-06-04,0
+Bangor,Maine,2020-06-05,0
+Baton Rouge,Louisiana,2020-05-26,0
+Baton Rouge,Louisiana,2020-05-27,0
+Baton Rouge,Louisiana,2020-05-28,0
+Baton Rouge,Louisiana,2020-05-29,0
+Baton Rouge,Louisiana,2020-05-30,1
+Baton Rouge,Louisiana,2020-05-31,1
+Baton Rouge,Louisiana,2020-06-01,1
+Baton Rouge,Louisiana,2020-06-02,1
+Baton Rouge,Louisiana,2020-06-03,0
+Baton Rouge,Louisiana,2020-06-04,0
+Baton Rouge,Louisiana,2020-06-05,0
+Beaufort,North Carolina,2020-05-26,0
+Beaufort,North Carolina,2020-05-27,0
+Beaufort,North Carolina,2020-05-28,0
+Beaufort,North Carolina,2020-05-29,0
+Beaufort,North Carolina,2020-05-30,0
+Beaufort,North Carolina,2020-05-31,0
+Beaufort,North Carolina,2020-06-01,0
+Beaufort,North Carolina,2020-06-02,1
+Beaufort,North Carolina,2020-06-03,0
+Beaufort,North Carolina,2020-06-04,0
+Beaufort,North Carolina,2020-06-05,0
+Beaver Dam,Wisconsin,2020-05-26,0
+Beaver Dam,Wisconsin,2020-05-27,0
+Beaver Dam,Wisconsin,2020-05-28,0
+Beaver Dam,Wisconsin,2020-05-29,0
+Beaver Dam,Wisconsin,2020-05-30,0
+Beaver Dam,Wisconsin,2020-05-31,0
+Beaver Dam,Wisconsin,2020-06-01,0
+Beaver Dam,Wisconsin,2020-06-02,0
+Beaver Dam,Wisconsin,2020-06-03,1
+Beaver Dam,Wisconsin,2020-06-04,0
+Beaver Dam,Wisconsin,2020-06-05,0
+Beckley,West Virginia,2020-05-26,0
+Beckley,West Virginia,2020-05-27,0
+Beckley,West Virginia,2020-05-28,0
+Beckley,West Virginia,2020-05-29,0
+Beckley,West Virginia,2020-05-30,0
+Beckley,West Virginia,2020-05-31,1
+Beckley,West Virginia,2020-06-01,0
+Beckley,West Virginia,2020-06-02,0
+Beckley,West Virginia,2020-06-03,0
+Beckley,West Virginia,2020-06-04,0
+Beckley,West Virginia,2020-06-05,0
+Belfast,Maine,2020-05-26,0
+Belfast,Maine,2020-05-27,0
+Belfast,Maine,2020-05-28,0
+Belfast,Maine,2020-05-29,0
+Belfast,Maine,2020-05-30,0
+Belfast,Maine,2020-05-31,1
+Belfast,Maine,2020-06-01,0
+Belfast,Maine,2020-06-02,0
+Belfast,Maine,2020-06-03,0
+Belfast,Maine,2020-06-04,0
+Belfast,Maine,2020-06-05,0
+Bentonville,Arkansas,2020-05-26,0
+Bentonville,Arkansas,2020-05-27,0
+Bentonville,Arkansas,2020-05-28,0
+Bentonville,Arkansas,2020-05-29,0
+Bentonville,Arkansas,2020-05-30,0
+Bentonville,Arkansas,2020-05-31,0
+Bentonville,Arkansas,2020-06-01,1
+Bentonville,Arkansas,2020-06-02,0
+Bentonville,Arkansas,2020-06-03,0
+Bentonville,Arkansas,2020-06-04,0
+Bentonville,Arkansas,2020-06-05,0
+Bethel,Alaska,2020-05-26,0
+Bethel,Alaska,2020-05-27,0
+Bethel,Alaska,2020-05-28,0
+Bethel,Alaska,2020-05-29,0
+Bethel,Alaska,2020-05-30,0
+Bethel,Alaska,2020-05-31,0
+Bethel,Alaska,2020-06-01,0
+Bethel,Alaska,2020-06-02,1
+Bethel,Alaska,2020-06-03,0
+Bethel,Alaska,2020-06-04,0
+Bethel,Alaska,2020-06-05,0
+Bethesda,Maryland,2020-05-26,0
+Bethesda,Maryland,2020-05-27,0
+Bethesda,Maryland,2020-05-28,0
+Bethesda,Maryland,2020-05-29,0
+Bethesda,Maryland,2020-05-30,0
+Bethesda,Maryland,2020-05-31,0
+Bethesda,Maryland,2020-06-01,0
+Bethesda,Maryland,2020-06-02,1
+Bethesda,Maryland,2020-06-03,0
+Bethesda,Maryland,2020-06-04,0
+Bethesda,Maryland,2020-06-05,0
+Big Rapids,Michigan,2020-05-26,0
+Big Rapids,Michigan,2020-05-27,0
+Big Rapids,Michigan,2020-05-28,0
+Big Rapids,Michigan,2020-05-29,0
+Big Rapids,Michigan,2020-05-30,0
+Big Rapids,Michigan,2020-05-31,0
+Big Rapids,Michigan,2020-06-01,0
+Big Rapids,Michigan,2020-06-02,0
+Big Rapids,Michigan,2020-06-03,1
+Big Rapids,Michigan,2020-06-04,0
+Big Rapids,Michigan,2020-06-05,0
+Billings,Montana,2020-05-26,0
+Billings,Montana,2020-05-27,0
+Billings,Montana,2020-05-28,0
+Billings,Montana,2020-05-29,0
+Billings,Montana,2020-05-30,1
+Billings,Montana,2020-05-31,1
+Billings,Montana,2020-06-01,0
+Billings,Montana,2020-06-02,0
+Billings,Montana,2020-06-03,0
+Billings,Montana,2020-06-04,0
+Billings,Montana,2020-06-05,0
+Biloxi,Mississippi,2020-05-26,0
+Biloxi,Mississippi,2020-05-27,0
+Biloxi,Mississippi,2020-05-28,0
+Biloxi,Mississippi,2020-05-29,0
+Biloxi,Mississippi,2020-05-30,1
+Biloxi,Mississippi,2020-05-31,1
+Biloxi,Mississippi,2020-06-01,0
+Biloxi,Mississippi,2020-06-02,0
+Biloxi,Mississippi,2020-06-03,0
+Biloxi,Mississippi,2020-06-04,0
+Biloxi,Mississippi,2020-06-05,0
+Binghamton,New York,2020-05-26,0
+Binghamton,New York,2020-05-27,0
+Binghamton,New York,2020-05-28,0
+Binghamton,New York,2020-05-29,0
+Binghamton,New York,2020-05-30,0
+Binghamton,New York,2020-05-31,0
+Binghamton,New York,2020-06-01,0
+Binghamton,New York,2020-06-02,1
+Binghamton,New York,2020-06-03,0
+Binghamton,New York,2020-06-04,0
+Binghamton,New York,2020-06-05,0
+Birmingham,Alabama,2020-05-26,0
+Birmingham,Alabama,2020-05-27,0
+Birmingham,Alabama,2020-05-28,0
+Birmingham,Alabama,2020-05-29,0
+Birmingham,Alabama,2020-05-30,0
+Birmingham,Alabama,2020-05-31,1
+Birmingham,Alabama,2020-06-01,1
+Birmingham,Alabama,2020-06-02,1
+Birmingham,Alabama,2020-06-03,0
+Birmingham,Alabama,2020-06-04,0
+Birmingham,Alabama,2020-06-05,0
+Bismarck,North Dakota,2020-05-26,0
+Bismarck,North Dakota,2020-05-27,0
+Bismarck,North Dakota,2020-05-28,0
+Bismarck,North Dakota,2020-05-29,0
+Bismarck,North Dakota,2020-05-30,1
+Bismarck,North Dakota,2020-05-31,0
+Bismarck,North Dakota,2020-06-01,0
+Bismarck,North Dakota,2020-06-02,0
+Bismarck,North Dakota,2020-06-03,0
+Bismarck,North Dakota,2020-06-04,0
+Bismarck,North Dakota,2020-06-05,0
+Boise,Idaho,2020-05-26,0
+Boise,Idaho,2020-05-27,0
+Boise,Idaho,2020-05-28,0
+Boise,Idaho,2020-05-29,0
+Boise,Idaho,2020-05-30,1
+Boise,Idaho,2020-05-31,1
+Boise,Idaho,2020-06-01,1
+Boise,Idaho,2020-06-02,1
+Boise,Idaho,2020-06-03,1
+Boise,Idaho,2020-06-04,0
+Boise,Idaho,2020-06-05,0
+Boston,Massachusetts,2020-05-26,0
+Boston,Massachusetts,2020-05-27,1
+Boston,Massachusetts,2020-05-28,1
+Boston,Massachusetts,2020-05-29,1
+Boston,Massachusetts,2020-05-30,1
+Boston,Massachusetts,2020-05-31,1
+Boston,Massachusetts,2020-06-01,0
+Boston,Massachusetts,2020-06-02,1
+Boston,Massachusetts,2020-06-03,1
+Boston,Massachusetts,2020-06-04,0
+Boston,Massachusetts,2020-06-05,0
+Bowling Green,Kentucky,2020-05-26,0
+Bowling Green,Kentucky,2020-05-27,0
+Bowling Green,Kentucky,2020-05-28,0
+Bowling Green,Kentucky,2020-05-29,1
+Bowling Green,Kentucky,2020-05-30,0
+Bowling Green,Kentucky,2020-05-31,0
+Bowling Green,Kentucky,2020-06-01,0
+Bowling Green,Kentucky,2020-06-02,0
+Bowling Green,Kentucky,2020-06-03,0
+Bowling Green,Kentucky,2020-06-04,0
+Bowling Green,Kentucky,2020-06-05,0
+Bozeman,Montana,2020-05-26,0
+Bozeman,Montana,2020-05-27,0
+Bozeman,Montana,2020-05-28,0
+Bozeman,Montana,2020-05-29,0
+Bozeman,Montana,2020-05-30,0
+Bozeman,Montana,2020-05-31,1
+Bozeman,Montana,2020-06-01,0
+Bozeman,Montana,2020-06-02,0
+Bozeman,Montana,2020-06-03,0
+Bozeman,Montana,2020-06-04,0
+Bozeman,Montana,2020-06-05,0
+Brattleboro,Vermont,2020-05-26,0
+Brattleboro,Vermont,2020-05-27,0
+Brattleboro,Vermont,2020-05-28,0
+Brattleboro,Vermont,2020-05-29,0
+Brattleboro,Vermont,2020-05-30,1
+Brattleboro,Vermont,2020-05-31,1
+Brattleboro,Vermont,2020-06-01,0
+Brattleboro,Vermont,2020-06-02,0
+Brattleboro,Vermont,2020-06-03,0
+Brattleboro,Vermont,2020-06-04,0
+Brattleboro,Vermont,2020-06-05,0
+Bridgeport,Connecticut,2020-05-26,0
+Bridgeport,Connecticut,2020-05-27,0
+Bridgeport,Connecticut,2020-05-28,0
+Bridgeport,Connecticut,2020-05-29,0
+Bridgeport,Connecticut,2020-05-30,1
+Bridgeport,Connecticut,2020-05-31,0
+Bridgeport,Connecticut,2020-06-01,0
+Bridgeport,Connecticut,2020-06-02,0
+Bridgeport,Connecticut,2020-06-03,0
+Bridgeport,Connecticut,2020-06-04,0
+Bridgeport,Connecticut,2020-06-05,0
+Bristol,New Hampshire,2020-05-26,0
+Bristol,New Hampshire,2020-05-27,0
+Bristol,New Hampshire,2020-05-28,0
+Bristol,New Hampshire,2020-05-29,0
+Bristol,New Hampshire,2020-05-30,0
+Bristol,New Hampshire,2020-05-31,0
+Bristol,New Hampshire,2020-06-01,0
+Bristol,New Hampshire,2020-06-02,0
+Bristol,New Hampshire,2020-06-03,1
+Bristol,New Hampshire,2020-06-04,0
+Bristol,New Hampshire,2020-06-05,0
+Brownsville,Texas,2020-05-26,0
+Brownsville,Texas,2020-05-27,0
+Brownsville,Texas,2020-05-28,0
+Brownsville,Texas,2020-05-29,0
+Brownsville,Texas,2020-05-30,0
+Brownsville,Texas,2020-05-31,0
+Brownsville,Texas,2020-06-01,0
+Brownsville,Texas,2020-06-02,0
+Brownsville,Texas,2020-06-03,1
+Brownsville,Texas,2020-06-04,0
+Brownsville,Texas,2020-06-05,0
+Brownwood,Texas,2020-05-26,0
+Brownwood,Texas,2020-05-27,0
+Brownwood,Texas,2020-05-28,0
+Brownwood,Texas,2020-05-29,0
+Brownwood,Texas,2020-05-30,0
+Brownwood,Texas,2020-05-31,0
+Brownwood,Texas,2020-06-01,1
+Brownwood,Texas,2020-06-02,0
+Brownwood,Texas,2020-06-03,0
+Brownwood,Texas,2020-06-04,0
+Brownwood,Texas,2020-06-05,0
+Brunswick,Maine,2020-05-26,0
+Brunswick,Maine,2020-05-27,0
+Brunswick,Maine,2020-05-28,0
+Brunswick,Maine,2020-05-29,0
+Brunswick,Maine,2020-05-30,0
+Brunswick,Maine,2020-05-31,0
+Brunswick,Maine,2020-06-01,0
+Brunswick,Maine,2020-06-02,0
+Brunswick,Maine,2020-06-03,1
+Brunswick,Maine,2020-06-04,0
+Brunswick,Maine,2020-06-05,0
+Buffalo,New York,2020-05-26,0
+Buffalo,New York,2020-05-27,1
+Buffalo,New York,2020-05-28,1
+Buffalo,New York,2020-05-29,1
+Buffalo,New York,2020-05-30,1
+Buffalo,New York,2020-05-31,1
+Buffalo,New York,2020-06-01,1
+Buffalo,New York,2020-06-02,0
+Buffalo,New York,2020-06-03,0
+Buffalo,New York,2020-06-04,0
+Buffalo,New York,2020-06-05,0
+Burlington,Vermont,2020-05-26,0
+Burlington,Vermont,2020-05-27,0
+Burlington,Vermont,2020-05-28,0
+Burlington,Vermont,2020-05-29,0
+Burlington,Vermont,2020-05-30,1
+Burlington,Vermont,2020-05-31,0
+Burlington,Vermont,2020-06-01,0
+Burlington,Vermont,2020-06-02,0
+Burlington,Vermont,2020-06-03,0
+Burlington,Vermont,2020-06-04,0
+Burlington,Vermont,2020-06-05,0
+Burlington,Washington,2020-05-26,0
+Burlington,Washington,2020-05-27,0
+Burlington,Washington,2020-05-28,0
+Burlington,Washington,2020-05-29,0
+Burlington,Washington,2020-05-30,0
+Burlington,Washington,2020-05-31,0
+Burlington,Washington,2020-06-01,0
+Burlington,Washington,2020-06-02,0
+Burlington,Washington,2020-06-03,0
+Burlington,Washington,2020-06-04,1
+Burlington,Washington,2020-06-05,0
+Camden,Maine,2020-05-26,0
+Camden,Maine,2020-05-27,0
+Camden,Maine,2020-05-28,0
+Camden,Maine,2020-05-29,0
+Camden,Maine,2020-05-30,0
+Camden,Maine,2020-05-31,0
+Camden,Maine,2020-06-01,0
+Camden,Maine,2020-06-02,0
+Camden,Maine,2020-06-03,1
+Camden,Maine,2020-06-04,0
+Camden,Maine,2020-06-05,0
+Camden,New Jersey,2020-05-26,0
+Camden,New Jersey,2020-05-27,0
+Camden,New Jersey,2020-05-28,0
+Camden,New Jersey,2020-05-29,0
+Camden,New Jersey,2020-05-30,1
+Camden,New Jersey,2020-05-31,0
+Camden,New Jersey,2020-06-01,0
+Camden,New Jersey,2020-06-02,0
+Camden,New Jersey,2020-06-03,0
+Camden,New Jersey,2020-06-04,0
+Camden,New Jersey,2020-06-05,0
+Cape Girardeau,Missouri,2020-05-26,0
+Cape Girardeau,Missouri,2020-05-27,0
+Cape Girardeau,Missouri,2020-05-28,0
+Cape Girardeau,Missouri,2020-05-29,0
+Cape Girardeau,Missouri,2020-05-30,0
+Cape Girardeau,Missouri,2020-05-31,1
+Cape Girardeau,Missouri,2020-06-01,0
+Cape Girardeau,Missouri,2020-06-02,0
+Cape Girardeau,Missouri,2020-06-03,0
+Cape Girardeau,Missouri,2020-06-04,0
+Cape Girardeau,Missouri,2020-06-05,0
+Carlisle,Pennsylvania,2020-05-26,0
+Carlisle,Pennsylvania,2020-05-27,0
+Carlisle,Pennsylvania,2020-05-28,0
+Carlisle,Pennsylvania,2020-05-29,0
+Carlisle,Pennsylvania,2020-05-30,0
+Carlisle,Pennsylvania,2020-05-31,0
+Carlisle,Pennsylvania,2020-06-01,0
+Carlisle,Pennsylvania,2020-06-02,0
+Carlisle,Pennsylvania,2020-06-03,1
+Carlisle,Pennsylvania,2020-06-04,0
+Carlisle,Pennsylvania,2020-06-05,0
+Carlsbad,New Mexico,2020-05-26,0
+Carlsbad,New Mexico,2020-05-27,0
+Carlsbad,New Mexico,2020-05-28,0
+Carlsbad,New Mexico,2020-05-29,0
+Carlsbad,New Mexico,2020-05-30,1
+Carlsbad,New Mexico,2020-05-31,0
+Carlsbad,New Mexico,2020-06-01,0
+Carlsbad,New Mexico,2020-06-02,0
+Carlsbad,New Mexico,2020-06-03,0
+Carlsbad,New Mexico,2020-06-04,0
+Carlsbad,New Mexico,2020-06-05,0
+Carmel,Indiana,2020-05-26,0
+Carmel,Indiana,2020-05-27,0
+Carmel,Indiana,2020-05-28,0
+Carmel,Indiana,2020-05-29,0
+Carmel,Indiana,2020-05-30,0
+Carmel,Indiana,2020-05-31,0
+Carmel,Indiana,2020-06-01,1
+Carmel,Indiana,2020-06-02,0
+Carmel,Indiana,2020-06-03,0
+Carmel,Indiana,2020-06-04,0
+Carmel,Indiana,2020-06-05,0
+Cedar City,Utah,2020-05-26,0
+Cedar City,Utah,2020-05-27,0
+Cedar City,Utah,2020-05-28,0
+Cedar City,Utah,2020-05-29,0
+Cedar City,Utah,2020-05-30,0
+Cedar City,Utah,2020-05-31,1
+Cedar City,Utah,2020-06-01,0
+Cedar City,Utah,2020-06-02,0
+Cedar City,Utah,2020-06-03,0
+Cedar City,Utah,2020-06-04,0
+Cedar City,Utah,2020-06-05,0
+Cedar Rapids,Iowa,2020-05-26,0
+Cedar Rapids,Iowa,2020-05-27,0
+Cedar Rapids,Iowa,2020-05-28,0
+Cedar Rapids,Iowa,2020-05-29,1
+Cedar Rapids,Iowa,2020-05-30,0
+Cedar Rapids,Iowa,2020-05-31,0
+Cedar Rapids,Iowa,2020-06-01,0
+Cedar Rapids,Iowa,2020-06-02,0
+Cedar Rapids,Iowa,2020-06-03,0
+Cedar Rapids,Iowa,2020-06-04,0
+Cedar Rapids,Iowa,2020-06-05,0
+Chadron,Nebraska,2020-05-26,0
+Chadron,Nebraska,2020-05-27,0
+Chadron,Nebraska,2020-05-28,0
+Chadron,Nebraska,2020-05-29,0
+Chadron,Nebraska,2020-05-30,0
+Chadron,Nebraska,2020-05-31,0
+Chadron,Nebraska,2020-06-01,0
+Chadron,Nebraska,2020-06-02,0
+Chadron,Nebraska,2020-06-03,1
+Chadron,Nebraska,2020-06-04,0
+Chadron,Nebraska,2020-06-05,0
+Chagrin Falls,Ohio,2020-05-26,0
+Chagrin Falls,Ohio,2020-05-27,0
+Chagrin Falls,Ohio,2020-05-28,0
+Chagrin Falls,Ohio,2020-05-29,0
+Chagrin Falls,Ohio,2020-05-30,0
+Chagrin Falls,Ohio,2020-05-31,0
+Chagrin Falls,Ohio,2020-06-01,0
+Chagrin Falls,Ohio,2020-06-02,0
+Chagrin Falls,Ohio,2020-06-03,0
+Chagrin Falls,Ohio,2020-06-04,1
+Chagrin Falls,Ohio,2020-06-05,0
+Chapel Hill,North Carolina,2020-05-26,0
+Chapel Hill,North Carolina,2020-05-27,0
+Chapel Hill,North Carolina,2020-05-28,0
+Chapel Hill,North Carolina,2020-05-29,0
+Chapel Hill,North Carolina,2020-05-30,0
+Chapel Hill,North Carolina,2020-05-31,0
+Chapel Hill,North Carolina,2020-06-01,0
+Chapel Hill,North Carolina,2020-06-02,0
+Chapel Hill,North Carolina,2020-06-03,1
+Chapel Hill,North Carolina,2020-06-04,0
+Chapel Hill,North Carolina,2020-06-05,1
+Charleston,South Carolina,2020-05-26,0
+Charleston,South Carolina,2020-05-27,0
+Charleston,South Carolina,2020-05-28,0
+Charleston,South Carolina,2020-05-29,0
+Charleston,South Carolina,2020-05-30,0
+Charleston,South Carolina,2020-05-31,1
+Charleston,South Carolina,2020-06-01,0
+Charleston,South Carolina,2020-06-02,0
+Charleston,South Carolina,2020-06-03,0
+Charleston,South Carolina,2020-06-04,0
+Charleston,South Carolina,2020-06-05,0
+Charleston,West Virginia,2020-05-26,0
+Charleston,West Virginia,2020-05-27,0
+Charleston,West Virginia,2020-05-28,0
+Charleston,West Virginia,2020-05-29,0
+Charleston,West Virginia,2020-05-30,1
+Charleston,West Virginia,2020-05-31,1
+Charleston,West Virginia,2020-06-01,0
+Charleston,West Virginia,2020-06-02,0
+Charleston,West Virginia,2020-06-03,0
+Charleston,West Virginia,2020-06-04,0
+Charleston,West Virginia,2020-06-05,0
+Charlotte,North Carolina,2020-05-26,0
+Charlotte,North Carolina,2020-05-27,1
+Charlotte,North Carolina,2020-05-28,1
+Charlotte,North Carolina,2020-05-29,1
+Charlotte,North Carolina,2020-05-30,1
+Charlotte,North Carolina,2020-05-31,1
+Charlotte,North Carolina,2020-06-01,0
+Charlotte,North Carolina,2020-06-02,0
+Charlotte,North Carolina,2020-06-03,0
+Charlotte,North Carolina,2020-06-04,0
+Charlotte,North Carolina,2020-06-05,0
+Chattanooga,Tennessee,2020-05-26,0
+Chattanooga,Tennessee,2020-05-27,0
+Chattanooga,Tennessee,2020-05-28,0
+Chattanooga,Tennessee,2020-05-29,0
+Chattanooga,Tennessee,2020-05-30,1
+Chattanooga,Tennessee,2020-05-31,1
+Chattanooga,Tennessee,2020-06-01,0
+Chattanooga,Tennessee,2020-06-02,0
+Chattanooga,Tennessee,2020-06-03,1
+Chattanooga,Tennessee,2020-06-04,0
+Chattanooga,Tennessee,2020-06-05,0
+Cheyenne,Wyoming,2020-05-26,0
+Cheyenne,Wyoming,2020-05-27,0
+Cheyenne,Wyoming,2020-05-28,0
+Cheyenne,Wyoming,2020-05-29,1
+Cheyenne,Wyoming,2020-05-30,1
+Cheyenne,Wyoming,2020-05-31,1
+Cheyenne,Wyoming,2020-06-01,0
+Cheyenne,Wyoming,2020-06-02,0
+Cheyenne,Wyoming,2020-06-03,0
+Cheyenne,Wyoming,2020-06-04,0
+Cheyenne,Wyoming,2020-06-05,0
+Chicago,Illinois,2020-05-26,1
+Chicago,Illinois,2020-05-27,1
+Chicago,Illinois,2020-05-28,1
+Chicago,Illinois,2020-05-29,1
+Chicago,Illinois,2020-05-30,1
+Chicago,Illinois,2020-05-31,1
+Chicago,Illinois,2020-06-01,1
+Chicago,Illinois,2020-06-02,1
+Chicago,Illinois,2020-06-03,1
+Chicago,Illinois,2020-06-04,1
+Chicago,Illinois,2020-06-05,0
+Chula Vista,California,2020-05-26,0
+Chula Vista,California,2020-05-27,0
+Chula Vista,California,2020-05-28,0
+Chula Vista,California,2020-05-29,0
+Chula Vista,California,2020-05-30,0
+Chula Vista,California,2020-05-31,0
+Chula Vista,California,2020-06-01,0
+Chula Vista,California,2020-06-02,0
+Chula Vista,California,2020-06-03,0
+Chula Vista,California,2020-06-04,1
+Chula Vista,California,2020-06-05,0
+Cincinnati,Ohio,2020-05-26,0
+Cincinnati,Ohio,2020-05-27,1
+Cincinnati,Ohio,2020-05-28,1
+Cincinnati,Ohio,2020-05-29,1
+Cincinnati,Ohio,2020-05-30,1
+Cincinnati,Ohio,2020-05-31,1
+Cincinnati,Ohio,2020-06-01,0
+Cincinnati,Ohio,2020-06-02,0
+Cincinnati,Ohio,2020-06-03,0
+Cincinnati,Ohio,2020-06-04,0
+Cincinnati,Ohio,2020-06-05,0
+Coeur d’Alene,Idaho,2020-05-26,0
+Coeur d’Alene,Idaho,2020-05-27,0
+Coeur d’Alene,Idaho,2020-05-28,0
+Coeur d’Alene,Idaho,2020-05-29,0
+Coeur d’Alene,Idaho,2020-05-30,0
+Coeur d’Alene,Idaho,2020-05-31,0
+Coeur d’Alene,Idaho,2020-06-01,0
+Coeur d’Alene,Idaho,2020-06-02,1
+Coeur d’Alene,Idaho,2020-06-03,0
+Coeur d’Alene,Idaho,2020-06-04,0
+Coeur d’Alene,Idaho,2020-06-05,0
+Coffeyville,Kansas,2020-05-26,0
+Coffeyville,Kansas,2020-05-27,0
+Coffeyville,Kansas,2020-05-28,0
+Coffeyville,Kansas,2020-05-29,0
+Coffeyville,Kansas,2020-05-30,0
+Coffeyville,Kansas,2020-05-31,0
+Coffeyville,Kansas,2020-06-01,0
+Coffeyville,Kansas,2020-06-02,0
+Coffeyville,Kansas,2020-06-03,0
+Coffeyville,Kansas,2020-06-04,1
+Coffeyville,Kansas,2020-06-05,0
+Colorado Springs,Colorado,2020-05-26,0
+Colorado Springs,Colorado,2020-05-27,0
+Colorado Springs,Colorado,2020-05-28,0
+Colorado Springs,Colorado,2020-05-29,0
+Colorado Springs,Colorado,2020-05-30,0
+Colorado Springs,Colorado,2020-05-31,1
+Colorado Springs,Colorado,2020-06-01,0
+Colorado Springs,Colorado,2020-06-02,0
+Colorado Springs,Colorado,2020-06-03,0
+Colorado Springs,Colorado,2020-06-04,0
+Colorado Springs,Colorado,2020-06-05,0
+Columbia,South Carolina,2020-05-26,0
+Columbia,South Carolina,2020-05-27,1
+Columbia,South Carolina,2020-05-28,1
+Columbia,South Carolina,2020-05-29,1
+Columbia,South Carolina,2020-05-30,1
+Columbia,South Carolina,2020-05-31,1
+Columbia,South Carolina,2020-06-01,0
+Columbia,South Carolina,2020-06-02,0
+Columbia,South Carolina,2020-06-03,0
+Columbia,South Carolina,2020-06-04,0
+Columbia,South Carolina,2020-06-05,0
+Columbus,Ohio,2020-05-26,0
+Columbus,Ohio,2020-05-27,1
+Columbus,Ohio,2020-05-28,1
+Columbus,Ohio,2020-05-29,1
+Columbus,Ohio,2020-05-30,1
+Columbus,Ohio,2020-05-31,1
+Columbus,Ohio,2020-06-01,0
+Columbus,Ohio,2020-06-02,0
+Columbus,Ohio,2020-06-03,0
+Columbus,Ohio,2020-06-04,0
+Columbus,Ohio,2020-06-05,0
+Conway,Arkansas,2020-05-26,0
+Conway,Arkansas,2020-05-27,0
+Conway,Arkansas,2020-05-28,0
+Conway,Arkansas,2020-05-29,0
+Conway,Arkansas,2020-05-30,0
+Conway,Arkansas,2020-05-31,1
+Conway,Arkansas,2020-06-01,0
+Conway,Arkansas,2020-06-02,0
+Conway,Arkansas,2020-06-03,0
+Conway,Arkansas,2020-06-04,0
+Conway,Arkansas,2020-06-05,0
+Conway,New Hampshire,2020-05-26,0
+Conway,New Hampshire,2020-05-27,0
+Conway,New Hampshire,2020-05-28,0
+Conway,New Hampshire,2020-05-29,0
+Conway,New Hampshire,2020-05-30,0
+Conway,New Hampshire,2020-05-31,1
+Conway,New Hampshire,2020-06-01,0
+Conway,New Hampshire,2020-06-02,0
+Conway,New Hampshire,2020-06-03,0
+Conway,New Hampshire,2020-06-04,0
+Conway,New Hampshire,2020-06-05,0
+Covington,Kentucky,2020-05-26,0
+Covington,Kentucky,2020-05-27,0
+Covington,Kentucky,2020-05-28,0
+Covington,Kentucky,2020-05-29,0
+Covington,Kentucky,2020-05-30,0
+Covington,Kentucky,2020-05-31,1
+Covington,Kentucky,2020-06-01,0
+Covington,Kentucky,2020-06-02,0
+Covington,Kentucky,2020-06-03,0
+Covington,Kentucky,2020-06-04,0
+Covington,Kentucky,2020-06-05,0
+Dallas,Texas,2020-05-26,0
+Dallas,Texas,2020-05-27,1
+Dallas,Texas,2020-05-28,1
+Dallas,Texas,2020-05-29,1
+Dallas,Texas,2020-05-30,1
+Dallas,Texas,2020-05-31,1
+Dallas,Texas,2020-06-01,0
+Dallas,Texas,2020-06-02,0
+Dallas,Texas,2020-06-03,1
+Dallas,Texas,2020-06-04,0
+Dallas,Texas,2020-06-05,0
+Danbury,Connecticut,2020-05-26,0
+Danbury,Connecticut,2020-05-27,0
+Danbury,Connecticut,2020-05-28,0
+Danbury,Connecticut,2020-05-29,0
+Danbury,Connecticut,2020-05-30,0
+Danbury,Connecticut,2020-05-31,0
+Danbury,Connecticut,2020-06-01,0
+Danbury,Connecticut,2020-06-02,0
+Danbury,Connecticut,2020-06-03,1
+Danbury,Connecticut,2020-06-04,0
+Danbury,Connecticut,2020-06-05,0
+Davenport,Iowa,2020-05-26,0
+Davenport,Iowa,2020-05-27,0
+Davenport,Iowa,2020-05-28,0
+Davenport,Iowa,2020-05-29,0
+Davenport,Iowa,2020-05-30,1
+Davenport,Iowa,2020-05-31,1
+Davenport,Iowa,2020-06-01,0
+Davenport,Iowa,2020-06-02,0
+Davenport,Iowa,2020-06-03,0
+Davenport,Iowa,2020-06-04,0
+Davenport,Iowa,2020-06-05,0
+Decorah,Iowa,2020-05-26,0
+Decorah,Iowa,2020-05-27,0
+Decorah,Iowa,2020-05-28,0
+Decorah,Iowa,2020-05-29,0
+Decorah,Iowa,2020-05-30,0
+Decorah,Iowa,2020-05-31,1
+Decorah,Iowa,2020-06-01,0
+Decorah,Iowa,2020-06-02,0
+Decorah,Iowa,2020-06-03,0
+Decorah,Iowa,2020-06-04,0
+Decorah,Iowa,2020-06-05,0
+Denton,Texas,2020-05-26,0
+Denton,Texas,2020-05-27,0
+Denton,Texas,2020-05-28,0
+Denton,Texas,2020-05-29,0
+Denton,Texas,2020-05-30,0
+Denton,Texas,2020-05-31,0
+Denton,Texas,2020-06-01,0
+Denton,Texas,2020-06-02,0
+Denton,Texas,2020-06-03,1
+Denton,Texas,2020-06-04,0
+Denton,Texas,2020-06-05,0
+Denver,Colorado,2020-05-26,0
+Denver,Colorado,2020-05-27,1
+Denver,Colorado,2020-05-28,1
+Denver,Colorado,2020-05-29,1
+Denver,Colorado,2020-05-30,1
+Denver,Colorado,2020-05-31,1
+Denver,Colorado,2020-06-01,1
+Denver,Colorado,2020-06-02,0
+Denver,Colorado,2020-06-03,0
+Denver,Colorado,2020-06-04,1
+Denver,Colorado,2020-06-05,0
+Des Moines,Iowa,2020-05-26,0
+Des Moines,Iowa,2020-05-27,1
+Des Moines,Iowa,2020-05-28,1
+Des Moines,Iowa,2020-05-29,1
+Des Moines,Iowa,2020-05-30,1
+Des Moines,Iowa,2020-05-31,1
+Des Moines,Iowa,2020-06-01,0
+Des Moines,Iowa,2020-06-02,0
+Des Moines,Iowa,2020-06-03,0
+Des Moines,Iowa,2020-06-04,0
+Des Moines,Iowa,2020-06-05,0
+Detroit,Michigan,2020-05-26,0
+Detroit,Michigan,2020-05-27,1
+Detroit,Michigan,2020-05-28,1
+Detroit,Michigan,2020-05-29,1
+Detroit,Michigan,2020-05-30,1
+Detroit,Michigan,2020-05-31,1
+Detroit,Michigan,2020-06-01,1
+Detroit,Michigan,2020-06-02,0
+Detroit,Michigan,2020-06-03,0
+Detroit,Michigan,2020-06-04,0
+Detroit,Michigan,2020-06-05,0
+Diamond Bar,California,2020-05-26,0
+Diamond Bar,California,2020-05-27,0
+Diamond Bar,California,2020-05-28,0
+Diamond Bar,California,2020-05-29,0
+Diamond Bar,California,2020-05-30,0
+Diamond Bar,California,2020-05-31,0
+Diamond Bar,California,2020-06-01,0
+Diamond Bar,California,2020-06-02,0
+Diamond Bar,California,2020-06-03,0
+Diamond Bar,California,2020-06-04,1
+Diamond Bar,California,2020-06-05,0
+Dickinson,North Dakota,2020-05-26,0
+Dickinson,North Dakota,2020-05-27,0
+Dickinson,North Dakota,2020-05-28,0
+Dickinson,North Dakota,2020-05-29,0
+Dickinson,North Dakota,2020-05-30,0
+Dickinson,North Dakota,2020-05-31,0
+Dickinson,North Dakota,2020-06-01,0
+Dickinson,North Dakota,2020-06-02,1
+Dickinson,North Dakota,2020-06-03,0
+Dickinson,North Dakota,2020-06-04,0
+Dickinson,North Dakota,2020-06-05,0
+Dothan,Alabama,2020-05-26,0
+Dothan,Alabama,2020-05-27,0
+Dothan,Alabama,2020-05-28,0
+Dothan,Alabama,2020-05-29,0
+Dothan,Alabama,2020-05-30,0
+Dothan,Alabama,2020-05-31,1
+Dothan,Alabama,2020-06-01,0
+Dothan,Alabama,2020-06-02,0
+Dothan,Alabama,2020-06-03,0
+Dothan,Alabama,2020-06-04,0
+Dothan,Alabama,2020-06-05,0
+Dover,Delaware,2020-05-26,0
+Dover,Delaware,2020-05-27,0
+Dover,Delaware,2020-05-28,0
+Dover,Delaware,2020-05-29,0
+Dover,Delaware,2020-05-30,0
+Dover,Delaware,2020-05-31,1
+Dover,Delaware,2020-06-01,0
+Dover,Delaware,2020-06-02,0
+Dover,Delaware,2020-06-03,0
+Dover,Delaware,2020-06-04,0
+Dover,Delaware,2020-06-05,0
+Dover,New Hampshire,2020-05-26,0
+Dover,New Hampshire,2020-05-27,0
+Dover,New Hampshire,2020-05-28,0
+Dover,New Hampshire,2020-05-29,0
+Dover,New Hampshire,2020-05-30,0
+Dover,New Hampshire,2020-05-31,0
+Dover,New Hampshire,2020-06-01,1
+Dover,New Hampshire,2020-06-02,0
+Dover,New Hampshire,2020-06-03,0
+Dover,New Hampshire,2020-06-04,0
+Dover,New Hampshire,2020-06-05,0
+Dublin,California,2020-05-26,0
+Dublin,California,2020-05-27,0
+Dublin,California,2020-05-28,0
+Dublin,California,2020-05-29,0
+Dublin,California,2020-05-30,0
+Dublin,California,2020-05-31,0
+Dublin,California,2020-06-01,1
+Dublin,California,2020-06-02,0
+Dublin,California,2020-06-03,0
+Dublin,California,2020-06-04,0
+Dublin,California,2020-06-05,0
+Dublin,New Hampshire,2020-05-26,0
+Dublin,New Hampshire,2020-05-27,0
+Dublin,New Hampshire,2020-05-28,0
+Dublin,New Hampshire,2020-05-29,0
+Dublin,New Hampshire,2020-05-30,1
+Dublin,New Hampshire,2020-05-31,0
+Dublin,New Hampshire,2020-06-01,0
+Dublin,New Hampshire,2020-06-02,0
+Dublin,New Hampshire,2020-06-03,0
+Dublin,New Hampshire,2020-06-04,0
+Dublin,New Hampshire,2020-06-05,0
+Dubuque,Iowa,2020-05-26,0
+Dubuque,Iowa,2020-05-27,0
+Dubuque,Iowa,2020-05-28,0
+Dubuque,Iowa,2020-05-29,0
+Dubuque,Iowa,2020-05-30,0
+Dubuque,Iowa,2020-05-31,0
+Dubuque,Iowa,2020-06-01,1
+Dubuque,Iowa,2020-06-02,0
+Dubuque,Iowa,2020-06-03,0
+Dubuque,Iowa,2020-06-04,0
+Dubuque,Iowa,2020-06-05,0
+Duluth,Minnesota,2020-05-26,0
+Duluth,Minnesota,2020-05-27,1
+Duluth,Minnesota,2020-05-28,0
+Duluth,Minnesota,2020-05-29,0
+Duluth,Minnesota,2020-05-30,0
+Duluth,Minnesota,2020-05-31,0
+Duluth,Minnesota,2020-06-01,0
+Duluth,Minnesota,2020-06-02,0
+Duluth,Minnesota,2020-06-03,0
+Duluth,Minnesota,2020-06-04,0
+Duluth,Minnesota,2020-06-05,0
+Dunn,North Carolina,2020-05-26,0
+Dunn,North Carolina,2020-05-27,0
+Dunn,North Carolina,2020-05-28,0
+Dunn,North Carolina,2020-05-29,0
+Dunn,North Carolina,2020-05-30,0
+Dunn,North Carolina,2020-05-31,0
+Dunn,North Carolina,2020-06-01,0
+Dunn,North Carolina,2020-06-02,0
+Dunn,North Carolina,2020-06-03,0
+Dunn,North Carolina,2020-06-04,1
+Dunn,North Carolina,2020-06-05,0
+Durham,North Carolina,2020-05-26,0
+Durham,North Carolina,2020-05-27,0
+Durham,North Carolina,2020-05-28,0
+Durham,North Carolina,2020-05-29,0
+Durham,North Carolina,2020-05-30,1
+Durham,North Carolina,2020-05-31,0
+Durham,North Carolina,2020-06-01,1
+Durham,North Carolina,2020-06-02,0
+Durham,North Carolina,2020-06-03,0
+Durham,North Carolina,2020-06-04,0
+Durham,North Carolina,2020-06-05,0
+Eau Claire,Wisconsin,2020-05-26,0
+Eau Claire,Wisconsin,2020-05-27,0
+Eau Claire,Wisconsin,2020-05-28,0
+Eau Claire,Wisconsin,2020-05-29,0
+Eau Claire,Wisconsin,2020-05-30,0
+Eau Claire,Wisconsin,2020-05-31,1
+Eau Claire,Wisconsin,2020-06-01,0
+Eau Claire,Wisconsin,2020-06-02,0
+Eau Claire,Wisconsin,2020-06-03,0
+Eau Claire,Wisconsin,2020-06-04,0
+Eau Claire,Wisconsin,2020-06-05,0
+Elko,Nevada,2020-05-26,0
+Elko,Nevada,2020-05-27,0
+Elko,Nevada,2020-05-28,0
+Elko,Nevada,2020-05-29,0
+Elko,Nevada,2020-05-30,0
+Elko,Nevada,2020-05-31,0
+Elko,Nevada,2020-06-01,0
+Elko,Nevada,2020-06-02,0
+Elko,Nevada,2020-06-03,0
+Elko,Nevada,2020-06-04,1
+Elko,Nevada,2020-06-05,0
+Enfield,Connecticut,2020-05-26,0
+Enfield,Connecticut,2020-05-27,0
+Enfield,Connecticut,2020-05-28,0
+Enfield,Connecticut,2020-05-29,0
+Enfield,Connecticut,2020-05-30,0
+Enfield,Connecticut,2020-05-31,0
+Enfield,Connecticut,2020-06-01,0
+Enfield,Connecticut,2020-06-02,0
+Enfield,Connecticut,2020-06-03,0
+Enfield,Connecticut,2020-06-04,1
+Enfield,Connecticut,2020-06-05,0
+Enid,Oklahoma,2020-05-26,0
+Enid,Oklahoma,2020-05-27,0
+Enid,Oklahoma,2020-05-28,0
+Enid,Oklahoma,2020-05-29,0
+Enid,Oklahoma,2020-05-30,0
+Enid,Oklahoma,2020-05-31,0
+Enid,Oklahoma,2020-06-01,0
+Enid,Oklahoma,2020-06-02,1
+Enid,Oklahoma,2020-06-03,0
+Enid,Oklahoma,2020-06-04,0
+Enid,Oklahoma,2020-06-05,0
+Eugene,Oregon,2020-05-26,0
+Eugene,Oregon,2020-05-27,1
+Eugene,Oregon,2020-05-28,1
+Eugene,Oregon,2020-05-29,1
+Eugene,Oregon,2020-05-30,1
+Eugene,Oregon,2020-05-31,1
+Eugene,Oregon,2020-06-01,0
+Eugene,Oregon,2020-06-02,0
+Eugene,Oregon,2020-06-03,0
+Eugene,Oregon,2020-06-04,0
+Eugene,Oregon,2020-06-05,0
+Evansville,Indiana,2020-05-26,0
+Evansville,Indiana,2020-05-27,0
+Evansville,Indiana,2020-05-28,0
+Evansville,Indiana,2020-05-29,0
+Evansville,Indiana,2020-05-30,1
+Evansville,Indiana,2020-05-31,0
+Evansville,Indiana,2020-06-01,0
+Evansville,Indiana,2020-06-02,0
+Evansville,Indiana,2020-06-03,0
+Evansville,Indiana,2020-06-04,0
+Evansville,Indiana,2020-06-05,0
+Fairbanks,Alaska,2020-05-26,0
+Fairbanks,Alaska,2020-05-27,0
+Fairbanks,Alaska,2020-05-28,0
+Fairbanks,Alaska,2020-05-29,0
+Fairbanks,Alaska,2020-05-30,1
+Fairbanks,Alaska,2020-05-31,0
+Fairbanks,Alaska,2020-06-01,0
+Fairbanks,Alaska,2020-06-02,0
+Fairbanks,Alaska,2020-06-03,0
+Fairbanks,Alaska,2020-06-04,0
+Fairbanks,Alaska,2020-06-05,0
+Fairfield,Connecticut,2020-05-26,0
+Fairfield,Connecticut,2020-05-27,0
+Fairfield,Connecticut,2020-05-28,0
+Fairfield,Connecticut,2020-05-29,0
+Fairfield,Connecticut,2020-05-30,0
+Fairfield,Connecticut,2020-05-31,0
+Fairfield,Connecticut,2020-06-01,0
+Fairfield,Connecticut,2020-06-02,1
+Fairfield,Connecticut,2020-06-03,0
+Fairfield,Connecticut,2020-06-04,0
+Fairfield,Connecticut,2020-06-05,0
+Fairmont,West Virginia,2020-05-26,0
+Fairmont,West Virginia,2020-05-27,0
+Fairmont,West Virginia,2020-05-28,0
+Fairmont,West Virginia,2020-05-29,0
+Fairmont,West Virginia,2020-05-30,1
+Fairmont,West Virginia,2020-05-31,0
+Fairmont,West Virginia,2020-06-01,0
+Fairmont,West Virginia,2020-06-02,0
+Fairmont,West Virginia,2020-06-03,0
+Fairmont,West Virginia,2020-06-04,0
+Fairmont,West Virginia,2020-06-05,0
+Fargo,North Dakota,2020-05-26,0
+Fargo,North Dakota,2020-05-27,0
+Fargo,North Dakota,2020-05-28,0
+Fargo,North Dakota,2020-05-29,0
+Fargo,North Dakota,2020-05-30,1
+Fargo,North Dakota,2020-05-31,0
+Fargo,North Dakota,2020-06-01,0
+Fargo,North Dakota,2020-06-02,0
+Fargo,North Dakota,2020-06-03,0
+Fargo,North Dakota,2020-06-04,0
+Fargo,North Dakota,2020-06-05,0
+Farmington,New Mexico,2020-05-26,0
+Farmington,New Mexico,2020-05-27,0
+Farmington,New Mexico,2020-05-28,0
+Farmington,New Mexico,2020-05-29,0
+Farmington,New Mexico,2020-05-30,0
+Farmington,New Mexico,2020-05-31,0
+Farmington,New Mexico,2020-06-01,1
+Farmington,New Mexico,2020-06-02,0
+Farmington,New Mexico,2020-06-03,0
+Farmington,New Mexico,2020-06-04,0
+Farmington,New Mexico,2020-06-05,0
+Fayetteville,Arkansas,2020-05-26,0
+Fayetteville,Arkansas,2020-05-27,0
+Fayetteville,Arkansas,2020-05-28,0
+Fayetteville,Arkansas,2020-05-29,0
+Fayetteville,Arkansas,2020-05-30,1
+Fayetteville,Arkansas,2020-05-31,0
+Fayetteville,Arkansas,2020-06-01,0
+Fayetteville,Arkansas,2020-06-02,1
+Fayetteville,Arkansas,2020-06-03,0
+Fayetteville,Arkansas,2020-06-04,0
+Fayetteville,Arkansas,2020-06-05,0
+Fayetteville,North Carolina,2020-05-26,0
+Fayetteville,North Carolina,2020-05-27,0
+Fayetteville,North Carolina,2020-05-28,0
+Fayetteville,North Carolina,2020-05-29,0
+Fayetteville,North Carolina,2020-05-30,1
+Fayetteville,North Carolina,2020-05-31,0
+Fayetteville,North Carolina,2020-06-01,0
+Fayetteville,North Carolina,2020-06-02,0
+Fayetteville,North Carolina,2020-06-03,0
+Fayetteville,North Carolina,2020-06-04,0
+Fayetteville,North Carolina,2020-06-05,0
+Flagstaff,Arizona,2020-05-26,0
+Flagstaff,Arizona,2020-05-27,0
+Flagstaff,Arizona,2020-05-28,0
+Flagstaff,Arizona,2020-05-29,1
+Flagstaff,Arizona,2020-05-30,1
+Flagstaff,Arizona,2020-05-31,0
+Flagstaff,Arizona,2020-06-01,0
+Flagstaff,Arizona,2020-06-02,0
+Flagstaff,Arizona,2020-06-03,0
+Flagstaff,Arizona,2020-06-04,0
+Flagstaff,Arizona,2020-06-05,0
+Flint,Michigan,2020-05-26,0
+Flint,Michigan,2020-05-27,0
+Flint,Michigan,2020-05-28,0
+Flint,Michigan,2020-05-29,0
+Flint,Michigan,2020-05-30,1
+Flint,Michigan,2020-05-31,0
+Flint,Michigan,2020-06-01,0
+Flint,Michigan,2020-06-02,0
+Flint,Michigan,2020-06-03,0
+Flint,Michigan,2020-06-04,0
+Flint,Michigan,2020-06-05,0
+Fort Bragg,California,2020-05-26,0
+Fort Bragg,California,2020-05-27,0
+Fort Bragg,California,2020-05-28,0
+Fort Bragg,California,2020-05-29,0
+Fort Bragg,California,2020-05-30,0
+Fort Bragg,California,2020-05-31,0
+Fort Bragg,California,2020-06-01,0
+Fort Bragg,California,2020-06-02,1
+Fort Bragg,California,2020-06-03,0
+Fort Bragg,California,2020-06-04,0
+Fort Bragg,California,2020-06-05,0
+Fort Collins,Colorado,2020-05-26,0
+Fort Collins,Colorado,2020-05-27,0
+Fort Collins,Colorado,2020-05-28,1
+Fort Collins,Colorado,2020-05-29,0
+Fort Collins,Colorado,2020-05-30,0
+Fort Collins,Colorado,2020-05-31,0
+Fort Collins,Colorado,2020-06-01,1
+Fort Collins,Colorado,2020-06-02,0
+Fort Collins,Colorado,2020-06-03,0
+Fort Collins,Colorado,2020-06-04,0
+Fort Collins,Colorado,2020-06-05,0
+Fort Lauderdale,Florida,2020-05-26,0
+Fort Lauderdale,Florida,2020-05-27,0
+Fort Lauderdale,Florida,2020-05-28,0
+Fort Lauderdale,Florida,2020-05-29,0
+Fort Lauderdale,Florida,2020-05-30,0
+Fort Lauderdale,Florida,2020-05-31,1
+Fort Lauderdale,Florida,2020-06-01,0
+Fort Lauderdale,Florida,2020-06-02,0
+Fort Lauderdale,Florida,2020-06-03,0
+Fort Lauderdale,Florida,2020-06-04,0
+Fort Lauderdale,Florida,2020-06-05,0
+Fort Scott,Kansas,2020-05-26,0
+Fort Scott,Kansas,2020-05-27,0
+Fort Scott,Kansas,2020-05-28,0
+Fort Scott,Kansas,2020-05-29,0
+Fort Scott,Kansas,2020-05-30,0
+Fort Scott,Kansas,2020-05-31,1
+Fort Scott,Kansas,2020-06-01,0
+Fort Scott,Kansas,2020-06-02,0
+Fort Scott,Kansas,2020-06-03,0
+Fort Scott,Kansas,2020-06-04,0
+Fort Scott,Kansas,2020-06-05,0
+Fort Smith,Arkansas,2020-05-26,0
+Fort Smith,Arkansas,2020-05-27,0
+Fort Smith,Arkansas,2020-05-28,0
+Fort Smith,Arkansas,2020-05-29,0
+Fort Smith,Arkansas,2020-05-30,0
+Fort Smith,Arkansas,2020-05-31,1
+Fort Smith,Arkansas,2020-06-01,0
+Fort Smith,Arkansas,2020-06-02,0
+Fort Smith,Arkansas,2020-06-03,0
+Fort Smith,Arkansas,2020-06-04,0
+Fort Smith,Arkansas,2020-06-05,0
+Fort Wayne,Indiana,2020-05-26,0
+Fort Wayne,Indiana,2020-05-27,0
+Fort Wayne,Indiana,2020-05-28,0
+Fort Wayne,Indiana,2020-05-29,1
+Fort Wayne,Indiana,2020-05-30,0
+Fort Wayne,Indiana,2020-05-31,0
+Fort Wayne,Indiana,2020-06-01,0
+Fort Wayne,Indiana,2020-06-02,0
+Fort Wayne,Indiana,2020-06-03,0
+Fort Wayne,Indiana,2020-06-04,0
+Fort Wayne,Indiana,2020-06-05,0
+Fort Worth,Texas,2020-05-26,0
+Fort Worth,Texas,2020-05-27,0
+Fort Worth,Texas,2020-05-28,0
+Fort Worth,Texas,2020-05-29,1
+Fort Worth,Texas,2020-05-30,0
+Fort Worth,Texas,2020-05-31,0
+Fort Worth,Texas,2020-06-01,0
+Fort Worth,Texas,2020-06-02,0
+Fort Worth,Texas,2020-06-03,1
+Fort Worth,Texas,2020-06-04,0
+Fort Worth,Texas,2020-06-05,0
+Fountain Valley,California,2020-05-26,0
+Fountain Valley,California,2020-05-27,0
+Fountain Valley,California,2020-05-28,0
+Fountain Valley,California,2020-05-29,0
+Fountain Valley,California,2020-05-30,0
+Fountain Valley,California,2020-05-31,0
+Fountain Valley,California,2020-06-01,0
+Fountain Valley,California,2020-06-02,0
+Fountain Valley,California,2020-06-03,0
+Fountain Valley,California,2020-06-04,1
+Fountain Valley,California,2020-06-05,0
+Framingham,Massachusetts,2020-05-26,0
+Framingham,Massachusetts,2020-05-27,0
+Framingham,Massachusetts,2020-05-28,1
+Framingham,Massachusetts,2020-05-29,0
+Framingham,Massachusetts,2020-05-30,0
+Framingham,Massachusetts,2020-05-31,0
+Framingham,Massachusetts,2020-06-01,0
+Framingham,Massachusetts,2020-06-02,0
+Framingham,Massachusetts,2020-06-03,1
+Framingham,Massachusetts,2020-06-04,0
+Framingham,Massachusetts,2020-06-05,0
+Franklin,Massachusetts,2020-05-26,0
+Franklin,Massachusetts,2020-05-27,0
+Franklin,Massachusetts,2020-05-28,0
+Franklin,Massachusetts,2020-05-29,0
+Franklin,Massachusetts,2020-05-30,0
+Franklin,Massachusetts,2020-05-31,0
+Franklin,Massachusetts,2020-06-01,0
+Franklin,Massachusetts,2020-06-02,1
+Franklin,Massachusetts,2020-06-03,0
+Franklin,Massachusetts,2020-06-04,0
+Franklin,Massachusetts,2020-06-05,0
+Fredericksburg,Virginia,2020-05-26,0
+Fredericksburg,Virginia,2020-05-27,0
+Fredericksburg,Virginia,2020-05-28,0
+Fredericksburg,Virginia,2020-05-29,0
+Fredericksburg,Virginia,2020-05-30,0
+Fredericksburg,Virginia,2020-05-31,0
+Fredericksburg,Virginia,2020-06-01,0
+Fredericksburg,Virginia,2020-06-02,1
+Fredericksburg,Virginia,2020-06-03,0
+Fredericksburg,Virginia,2020-06-04,0
+Fredericksburg,Virginia,2020-06-05,0
+Frederiksted,U.S. Virgin Islands,2020-05-26,0
+Frederiksted,U.S. Virgin Islands,2020-05-27,0
+Frederiksted,U.S. Virgin Islands,2020-05-28,0
+Frederiksted,U.S. Virgin Islands,2020-05-29,0
+Frederiksted,U.S. Virgin Islands,2020-05-30,0
+Frederiksted,U.S. Virgin Islands,2020-05-31,0
+Frederiksted,U.S. Virgin Islands,2020-06-01,0
+Frederiksted,U.S. Virgin Islands,2020-06-02,0
+Frederiksted,U.S. Virgin Islands,2020-06-03,0
+Frederiksted,U.S. Virgin Islands,2020-06-04,1
+Frederiksted,U.S. Virgin Islands,2020-06-05,0
+Fremont,California,2020-05-26,0
+Fremont,California,2020-05-27,0
+Fremont,California,2020-05-28,0
+Fremont,California,2020-05-29,0
+Fremont,California,2020-05-30,0
+Fremont,California,2020-05-31,0
+Fremont,California,2020-06-01,0
+Fremont,California,2020-06-02,0
+Fremont,California,2020-06-03,0
+Fremont,California,2020-06-04,1
+Fremont,California,2020-06-05,0
+Gainesville,Florida,2020-05-26,0
+Gainesville,Florida,2020-05-27,0
+Gainesville,Florida,2020-05-28,0
+Gainesville,Florida,2020-05-29,0
+Gainesville,Florida,2020-05-30,1
+Gainesville,Florida,2020-05-31,1
+Gainesville,Florida,2020-06-01,0
+Gainesville,Florida,2020-06-02,0
+Gainesville,Florida,2020-06-03,1
+Gainesville,Florida,2020-06-04,0
+Gainesville,Florida,2020-06-05,0
+Garden Grove,California,2020-05-26,0
+Garden Grove,California,2020-05-27,0
+Garden Grove,California,2020-05-28,0
+Garden Grove,California,2020-05-29,0
+Garden Grove,California,2020-05-30,0
+Garden Grove,California,2020-05-31,0
+Garden Grove,California,2020-06-01,0
+Garden Grove,California,2020-06-02,0
+Garden Grove,California,2020-06-03,1
+Garden Grove,California,2020-06-04,0
+Garden Grove,California,2020-06-05,0
+Georgetown,Texas,2020-05-26,0
+Georgetown,Texas,2020-05-27,0
+Georgetown,Texas,2020-05-28,0
+Georgetown,Texas,2020-05-29,0
+Georgetown,Texas,2020-05-30,0
+Georgetown,Texas,2020-05-31,0
+Georgetown,Texas,2020-06-01,0
+Georgetown,Texas,2020-06-02,0
+Georgetown,Texas,2020-06-03,1
+Georgetown,Texas,2020-06-04,0
+Georgetown,Texas,2020-06-05,0
+Gillette,Wyoming,2020-05-26,0
+Gillette,Wyoming,2020-05-27,0
+Gillette,Wyoming,2020-05-28,0
+Gillette,Wyoming,2020-05-29,0
+Gillette,Wyoming,2020-05-30,0
+Gillette,Wyoming,2020-05-31,0
+Gillette,Wyoming,2020-06-01,0
+Gillette,Wyoming,2020-06-02,1
+Gillette,Wyoming,2020-06-03,0
+Gillette,Wyoming,2020-06-04,0
+Gillette,Wyoming,2020-06-05,0
+Glenwood Springs,Colorado,2020-05-26,0
+Glenwood Springs,Colorado,2020-05-27,0
+Glenwood Springs,Colorado,2020-05-28,0
+Glenwood Springs,Colorado,2020-05-29,0
+Glenwood Springs,Colorado,2020-05-30,0
+Glenwood Springs,Colorado,2020-05-31,0
+Glenwood Springs,Colorado,2020-06-01,1
+Glenwood Springs,Colorado,2020-06-02,0
+Glenwood Springs,Colorado,2020-06-03,0
+Glenwood Springs,Colorado,2020-06-04,0
+Glenwood Springs,Colorado,2020-06-05,0
+Goldsboro,North Carolina,2020-05-26,0
+Goldsboro,North Carolina,2020-05-27,0
+Goldsboro,North Carolina,2020-05-28,0
+Goldsboro,North Carolina,2020-05-29,0
+Goldsboro,North Carolina,2020-05-30,0
+Goldsboro,North Carolina,2020-05-31,1
+Goldsboro,North Carolina,2020-06-01,0
+Goldsboro,North Carolina,2020-06-02,0
+Goldsboro,North Carolina,2020-06-03,0
+Goldsboro,North Carolina,2020-06-04,0
+Goldsboro,North Carolina,2020-06-05,0
+Grafton,Massachusetts,2020-05-26,0
+Grafton,Massachusetts,2020-05-27,0
+Grafton,Massachusetts,2020-05-28,0
+Grafton,Massachusetts,2020-05-29,0
+Grafton,Massachusetts,2020-05-30,0
+Grafton,Massachusetts,2020-05-31,0
+Grafton,Massachusetts,2020-06-01,0
+Grafton,Massachusetts,2020-06-02,0
+Grafton,Massachusetts,2020-06-03,0
+Grafton,Massachusetts,2020-06-04,1
+Grafton,Massachusetts,2020-06-05,0
+Grand Forks,North Dakota,2020-05-26,0
+Grand Forks,North Dakota,2020-05-27,0
+Grand Forks,North Dakota,2020-05-28,0
+Grand Forks,North Dakota,2020-05-29,0
+Grand Forks,North Dakota,2020-05-30,0
+Grand Forks,North Dakota,2020-05-31,0
+Grand Forks,North Dakota,2020-06-01,0
+Grand Forks,North Dakota,2020-06-02,0
+Grand Forks,North Dakota,2020-06-03,0
+Grand Forks,North Dakota,2020-06-04,1
+Grand Forks,North Dakota,2020-06-05,0
+Grand Island,Nebraska,2020-05-26,0
+Grand Island,Nebraska,2020-05-27,0
+Grand Island,Nebraska,2020-05-28,0
+Grand Island,Nebraska,2020-05-29,0
+Grand Island,Nebraska,2020-05-30,0
+Grand Island,Nebraska,2020-05-31,0
+Grand Island,Nebraska,2020-06-01,1
+Grand Island,Nebraska,2020-06-02,0
+Grand Island,Nebraska,2020-06-03,1
+Grand Island,Nebraska,2020-06-04,1
+Grand Island,Nebraska,2020-06-05,0
+Grand Rapids,Michigan,2020-05-26,0
+Grand Rapids,Michigan,2020-05-27,0
+Grand Rapids,Michigan,2020-05-28,0
+Grand Rapids,Michigan,2020-05-29,0
+Grand Rapids,Michigan,2020-05-30,1
+Grand Rapids,Michigan,2020-05-31,0
+Grand Rapids,Michigan,2020-06-01,0
+Grand Rapids,Michigan,2020-06-02,0
+Grand Rapids,Michigan,2020-06-03,0
+Grand Rapids,Michigan,2020-06-04,0
+Grand Rapids,Michigan,2020-06-05,0
+Grayslake,Illinois,2020-05-26,0
+Grayslake,Illinois,2020-05-27,0
+Grayslake,Illinois,2020-05-28,0
+Grayslake,Illinois,2020-05-29,0
+Grayslake,Illinois,2020-05-30,0
+Grayslake,Illinois,2020-05-31,0
+Grayslake,Illinois,2020-06-01,0
+Grayslake,Illinois,2020-06-02,0
+Grayslake,Illinois,2020-06-03,0
+Grayslake,Illinois,2020-06-04,1
+Grayslake,Illinois,2020-06-05,0
+Great Bend,Kansas,2020-05-26,0
+Great Bend,Kansas,2020-05-27,0
+Great Bend,Kansas,2020-05-28,0
+Great Bend,Kansas,2020-05-29,0
+Great Bend,Kansas,2020-05-30,0
+Great Bend,Kansas,2020-05-31,0
+Great Bend,Kansas,2020-06-01,1
+Great Bend,Kansas,2020-06-02,0
+Great Bend,Kansas,2020-06-03,0
+Great Bend,Kansas,2020-06-04,0
+Great Bend,Kansas,2020-06-05,0
+Great Falls,Montana,2020-05-26,0
+Great Falls,Montana,2020-05-27,0
+Great Falls,Montana,2020-05-28,0
+Great Falls,Montana,2020-05-29,0
+Great Falls,Montana,2020-05-30,0
+Great Falls,Montana,2020-05-31,1
+Great Falls,Montana,2020-06-01,0
+Great Falls,Montana,2020-06-02,0
+Great Falls,Montana,2020-06-03,0
+Great Falls,Montana,2020-06-04,0
+Great Falls,Montana,2020-06-05,0
+Green Bay,Wisconsin,2020-05-26,0
+Green Bay,Wisconsin,2020-05-27,0
+Green Bay,Wisconsin,2020-05-28,0
+Green Bay,Wisconsin,2020-05-29,0
+Green Bay,Wisconsin,2020-05-30,1
+Green Bay,Wisconsin,2020-05-31,1
+Green Bay,Wisconsin,2020-06-01,0
+Green Bay,Wisconsin,2020-06-02,0
+Green Bay,Wisconsin,2020-06-03,0
+Green Bay,Wisconsin,2020-06-04,0
+Green Bay,Wisconsin,2020-06-05,0
+Greensboro,North Carolina,2020-05-26,0
+Greensboro,North Carolina,2020-05-27,0
+Greensboro,North Carolina,2020-05-28,0
+Greensboro,North Carolina,2020-05-29,0
+Greensboro,North Carolina,2020-05-30,1
+Greensboro,North Carolina,2020-05-31,0
+Greensboro,North Carolina,2020-06-01,1
+Greensboro,North Carolina,2020-06-02,0
+Greensboro,North Carolina,2020-06-03,0
+Greensboro,North Carolina,2020-06-04,0
+Greensboro,North Carolina,2020-06-05,0
+Greenville,North Carolina,2020-05-26,0
+Greenville,North Carolina,2020-05-27,0
+Greenville,North Carolina,2020-05-28,0
+Greenville,North Carolina,2020-05-29,0
+Greenville,North Carolina,2020-05-30,0
+Greenville,North Carolina,2020-05-31,1
+Greenville,North Carolina,2020-06-01,0
+Greenville,North Carolina,2020-06-02,0
+Greenville,North Carolina,2020-06-03,0
+Greenville,North Carolina,2020-06-04,0
+Greenville,North Carolina,2020-06-05,0
+Greenville,South Carolina,2020-05-26,0
+Greenville,South Carolina,2020-05-27,0
+Greenville,South Carolina,2020-05-28,0
+Greenville,South Carolina,2020-05-29,0
+Greenville,South Carolina,2020-05-30,1
+Greenville,South Carolina,2020-05-31,0
+Greenville,South Carolina,2020-06-01,0
+Greenville,South Carolina,2020-06-02,0
+Greenville,South Carolina,2020-06-03,0
+Greenville,South Carolina,2020-06-04,0
+Greenville,South Carolina,2020-06-05,0
+Greenwich,Connecticut,2020-05-26,0
+Greenwich,Connecticut,2020-05-27,0
+Greenwich,Connecticut,2020-05-28,0
+Greenwich,Connecticut,2020-05-29,0
+Greenwich,Connecticut,2020-05-30,0
+Greenwich,Connecticut,2020-05-31,0
+Greenwich,Connecticut,2020-06-01,1
+Greenwich,Connecticut,2020-06-02,0
+Greenwich,Connecticut,2020-06-03,0
+Greenwich,Connecticut,2020-06-04,0
+Greenwich,Connecticut,2020-06-05,0
+Haines,Alaska,2020-05-26,0
+Haines,Alaska,2020-05-27,0
+Haines,Alaska,2020-05-28,0
+Haines,Alaska,2020-05-29,0
+Haines,Alaska,2020-05-30,0
+Haines,Alaska,2020-05-31,0
+Haines,Alaska,2020-06-01,0
+Haines,Alaska,2020-06-02,1
+Haines,Alaska,2020-06-03,0
+Haines,Alaska,2020-06-04,0
+Haines,Alaska,2020-06-05,0
+Hammond,Indiana,2020-05-26,0
+Hammond,Indiana,2020-05-27,0
+Hammond,Indiana,2020-05-28,0
+Hammond,Indiana,2020-05-29,0
+Hammond,Indiana,2020-05-30,1
+Hammond,Indiana,2020-05-31,0
+Hammond,Indiana,2020-06-01,0
+Hammond,Indiana,2020-06-02,0
+Hammond,Indiana,2020-06-03,0
+Hammond,Indiana,2020-06-04,0
+Hammond,Indiana,2020-06-05,0
+Hampton,Virginia,2020-05-26,0
+Hampton,Virginia,2020-05-27,1
+Hampton,Virginia,2020-05-28,1
+Hampton,Virginia,2020-05-29,1
+Hampton,Virginia,2020-05-30,1
+Hampton,Virginia,2020-05-31,1
+Hampton,Virginia,2020-06-01,0
+Hampton,Virginia,2020-06-02,1
+Hampton,Virginia,2020-06-03,0
+Hampton,Virginia,2020-06-04,0
+Hampton,Virginia,2020-06-05,0
+Harrisburg,Pennsylvania,2020-05-26,0
+Harrisburg,Pennsylvania,2020-05-27,0
+Harrisburg,Pennsylvania,2020-05-28,0
+Harrisburg,Pennsylvania,2020-05-29,0
+Harrisburg,Pennsylvania,2020-05-30,1
+Harrisburg,Pennsylvania,2020-05-31,0
+Harrisburg,Pennsylvania,2020-06-01,0
+Harrisburg,Pennsylvania,2020-06-02,0
+Harrisburg,Pennsylvania,2020-06-03,0
+Harrisburg,Pennsylvania,2020-06-04,0
+Harrisburg,Pennsylvania,2020-06-05,0
+Hartford,Connecticut,2020-05-26,0
+Hartford,Connecticut,2020-05-27,0
+Hartford,Connecticut,2020-05-28,0
+Hartford,Connecticut,2020-05-29,1
+Hartford,Connecticut,2020-05-30,1
+Hartford,Connecticut,2020-05-31,0
+Hartford,Connecticut,2020-06-01,0
+Hartford,Connecticut,2020-06-02,0
+Hartford,Connecticut,2020-06-03,0
+Hartford,Connecticut,2020-06-04,0
+Hartford,Connecticut,2020-06-05,0
+Hartford,New York,2020-05-26,0
+Hartford,New York,2020-05-27,1
+Hartford,New York,2020-05-28,1
+Hartford,New York,2020-05-29,1
+Hartford,New York,2020-05-30,1
+Hartford,New York,2020-05-31,1
+Hartford,New York,2020-06-01,0
+Hartford,New York,2020-06-02,0
+Hartford,New York,2020-06-03,0
+Hartford,New York,2020-06-04,0
+Hartford,New York,2020-06-05,0
+Harvard,Nebraska,2020-05-26,0
+Harvard,Nebraska,2020-05-27,0
+Harvard,Nebraska,2020-05-28,0
+Harvard,Nebraska,2020-05-29,0
+Harvard,Nebraska,2020-05-30,0
+Harvard,Nebraska,2020-05-31,0
+Harvard,Nebraska,2020-06-01,0
+Harvard,Nebraska,2020-06-02,1
+Harvard,Nebraska,2020-06-03,0
+Harvard,Nebraska,2020-06-04,0
+Harvard,Nebraska,2020-06-05,0
+Havre,Montana,2020-05-26,0
+Havre,Montana,2020-05-27,0
+Havre,Montana,2020-05-28,0
+Havre,Montana,2020-05-29,0
+Havre,Montana,2020-05-30,0
+Havre,Montana,2020-05-31,1
+Havre,Montana,2020-06-01,0
+Havre,Montana,2020-06-02,0
+Havre,Montana,2020-06-03,0
+Havre,Montana,2020-06-04,0
+Havre,Montana,2020-06-05,0
+Helena,Montana,2020-05-26,0
+Helena,Montana,2020-05-27,0
+Helena,Montana,2020-05-28,0
+Helena,Montana,2020-05-29,1
+Helena,Montana,2020-05-30,0
+Helena,Montana,2020-05-31,1
+Helena,Montana,2020-06-01,0
+Helena,Montana,2020-06-02,0
+Helena,Montana,2020-06-03,0
+Helena,Montana,2020-06-04,0
+Helena,Montana,2020-06-05,0
+High Point,North Carolina,2020-05-26,0
+High Point,North Carolina,2020-05-27,0
+High Point,North Carolina,2020-05-28,0
+High Point,North Carolina,2020-05-29,0
+High Point,North Carolina,2020-05-30,0
+High Point,North Carolina,2020-05-31,1
+High Point,North Carolina,2020-06-01,1
+High Point,North Carolina,2020-06-02,0
+High Point,North Carolina,2020-06-03,0
+High Point,North Carolina,2020-06-04,0
+High Point,North Carolina,2020-06-05,0
+Hilo,Hawaii,2020-05-26,0
+Hilo,Hawaii,2020-05-27,0
+Hilo,Hawaii,2020-05-28,0
+Hilo,Hawaii,2020-05-29,0
+Hilo,Hawaii,2020-05-30,1
+Hilo,Hawaii,2020-05-31,0
+Hilo,Hawaii,2020-06-01,0
+Hilo,Hawaii,2020-06-02,1
+Hilo,Hawaii,2020-06-03,0
+Hilo,Hawaii,2020-06-04,0
+Hilo,Hawaii,2020-06-05,0
+Homer,Alaska,2020-05-26,0
+Homer,Alaska,2020-05-27,0
+Homer,Alaska,2020-05-28,0
+Homer,Alaska,2020-05-29,0
+Homer,Alaska,2020-05-30,0
+Homer,Alaska,2020-05-31,0
+Homer,Alaska,2020-06-01,1
+Homer,Alaska,2020-06-02,1
+Homer,Alaska,2020-06-03,0
+Homer,Alaska,2020-06-04,0
+Homer,Alaska,2020-06-05,0
+Honolulu,Hawaii,2020-05-26,0
+Honolulu,Hawaii,2020-05-27,0
+Honolulu,Hawaii,2020-05-28,0
+Honolulu,Hawaii,2020-05-29,0
+Honolulu,Hawaii,2020-05-30,1
+Honolulu,Hawaii,2020-05-31,0
+Honolulu,Hawaii,2020-06-01,0
+Honolulu,Hawaii,2020-06-02,0
+Honolulu,Hawaii,2020-06-03,0
+Honolulu,Hawaii,2020-06-04,0
+Honolulu,Hawaii,2020-06-05,1
+Hoover,Alabama,2020-05-26,0
+Hoover,Alabama,2020-05-27,0
+Hoover,Alabama,2020-05-28,0
+Hoover,Alabama,2020-05-29,0
+Hoover,Alabama,2020-05-30,1
+Hoover,Alabama,2020-05-31,0
+Hoover,Alabama,2020-06-01,0
+Hoover,Alabama,2020-06-02,0
+Hoover,Alabama,2020-06-03,0
+Hoover,Alabama,2020-06-04,0
+Hoover,Alabama,2020-06-05,0
+Houston,Texas,2020-05-26,0
+Houston,Texas,2020-05-27,1
+Houston,Texas,2020-05-28,1
+Houston,Texas,2020-05-29,1
+Houston,Texas,2020-05-30,1
+Houston,Texas,2020-05-31,1
+Houston,Texas,2020-06-01,0
+Houston,Texas,2020-06-02,1
+Houston,Texas,2020-06-03,0
+Houston,Texas,2020-06-04,0
+Houston,Texas,2020-06-05,0
+Howell,Michigan,2020-05-26,0
+Howell,Michigan,2020-05-27,0
+Howell,Michigan,2020-05-28,0
+Howell,Michigan,2020-05-29,0
+Howell,Michigan,2020-05-30,0
+Howell,Michigan,2020-05-31,0
+Howell,Michigan,2020-06-01,0
+Howell,Michigan,2020-06-02,0
+Howell,Michigan,2020-06-03,0
+Howell,Michigan,2020-06-04,1
+Howell,Michigan,2020-06-05,0
+Huntington,West Virginia,2020-05-26,0
+Huntington,West Virginia,2020-05-27,0
+Huntington,West Virginia,2020-05-28,0
+Huntington,West Virginia,2020-05-29,0
+Huntington,West Virginia,2020-05-30,1
+Huntington,West Virginia,2020-05-31,0
+Huntington,West Virginia,2020-06-01,0
+Huntington,West Virginia,2020-06-02,0
+Huntington,West Virginia,2020-06-03,0
+Huntington,West Virginia,2020-06-04,0
+Huntington,West Virginia,2020-06-05,0
+Huntington Beach,California,2020-05-26,0
+Huntington Beach,California,2020-05-27,0
+Huntington Beach,California,2020-05-28,0
+Huntington Beach,California,2020-05-29,0
+Huntington Beach,California,2020-05-30,0
+Huntington Beach,California,2020-05-31,1
+Huntington Beach,California,2020-06-01,1
+Huntington Beach,California,2020-06-02,0
+Huntington Beach,California,2020-06-03,0
+Huntington Beach,California,2020-06-04,0
+Huntington Beach,California,2020-06-05,0
+Huntsville,Alabama,2020-05-26,0
+Huntsville,Alabama,2020-05-27,0
+Huntsville,Alabama,2020-05-28,0
+Huntsville,Alabama,2020-05-29,0
+Huntsville,Alabama,2020-05-30,1
+Huntsville,Alabama,2020-05-31,0
+Huntsville,Alabama,2020-06-01,1
+Huntsville,Alabama,2020-06-02,0
+Huntsville,Alabama,2020-06-03,0
+Huntsville,Alabama,2020-06-04,0
+Huntsville,Alabama,2020-06-05,0
+Idaho Falls,Idaho,2020-05-26,0
+Idaho Falls,Idaho,2020-05-27,0
+Idaho Falls,Idaho,2020-05-28,0
+Idaho Falls,Idaho,2020-05-29,0
+Idaho Falls,Idaho,2020-05-30,1
+Idaho Falls,Idaho,2020-05-31,0
+Idaho Falls,Idaho,2020-06-01,0
+Idaho Falls,Idaho,2020-06-02,0
+Idaho Falls,Idaho,2020-06-03,0
+Idaho Falls,Idaho,2020-06-04,0
+Idaho Falls,Idaho,2020-06-05,0
+Indianapolis,Indiana,2020-05-26,0
+Indianapolis,Indiana,2020-05-27,1
+Indianapolis,Indiana,2020-05-28,1
+Indianapolis,Indiana,2020-05-29,1
+Indianapolis,Indiana,2020-05-30,1
+Indianapolis,Indiana,2020-05-31,1
+Indianapolis,Indiana,2020-06-01,0
+Indianapolis,Indiana,2020-06-02,0
+Indianapolis,Indiana,2020-06-03,0
+Indianapolis,Indiana,2020-06-04,0
+Indianapolis,Indiana,2020-06-05,0
+Iowa City,Iowa,2020-05-26,0
+Iowa City,Iowa,2020-05-27,0
+Iowa City,Iowa,2020-05-28,0
+Iowa City,Iowa,2020-05-29,0
+Iowa City,Iowa,2020-05-30,1
+Iowa City,Iowa,2020-05-31,0
+Iowa City,Iowa,2020-06-01,0
+Iowa City,Iowa,2020-06-02,0
+Iowa City,Iowa,2020-06-03,0
+Iowa City,Iowa,2020-06-04,0
+Iowa City,Iowa,2020-06-05,0
+Jackson,Mississippi,2020-05-26,0
+Jackson,Mississippi,2020-05-27,0
+Jackson,Mississippi,2020-05-28,0
+Jackson,Mississippi,2020-05-29,1
+Jackson,Mississippi,2020-05-30,0
+Jackson,Mississippi,2020-05-31,0
+Jackson,Mississippi,2020-06-01,0
+Jackson,Mississippi,2020-06-02,0
+Jackson,Mississippi,2020-06-03,0
+Jackson,Mississippi,2020-06-04,0
+Jackson,Mississippi,2020-06-05,0
+Jackson,Tennessee,2020-05-26,0
+Jackson,Tennessee,2020-05-27,0
+Jackson,Tennessee,2020-05-28,0
+Jackson,Tennessee,2020-05-29,0
+Jackson,Tennessee,2020-05-30,1
+Jackson,Tennessee,2020-05-31,0
+Jackson,Tennessee,2020-06-01,0
+Jackson,Tennessee,2020-06-02,0
+Jackson,Tennessee,2020-06-03,0
+Jackson,Tennessee,2020-06-04,0
+Jackson,Tennessee,2020-06-05,0
+Jackson,Wyoming,2020-05-26,0
+Jackson,Wyoming,2020-05-27,0
+Jackson,Wyoming,2020-05-28,0
+Jackson,Wyoming,2020-05-29,0
+Jackson,Wyoming,2020-05-30,0
+Jackson,Wyoming,2020-05-31,1
+Jackson,Wyoming,2020-06-01,0
+Jackson,Wyoming,2020-06-02,0
+Jackson,Wyoming,2020-06-03,0
+Jackson,Wyoming,2020-06-04,0
+Jackson,Wyoming,2020-06-05,0
+Jacksonville,Alabama,2020-05-26,0
+Jacksonville,Alabama,2020-05-27,0
+Jacksonville,Alabama,2020-05-28,0
+Jacksonville,Alabama,2020-05-29,0
+Jacksonville,Alabama,2020-05-30,0
+Jacksonville,Alabama,2020-05-31,0
+Jacksonville,Alabama,2020-06-01,1
+Jacksonville,Alabama,2020-06-02,0
+Jacksonville,Alabama,2020-06-03,0
+Jacksonville,Alabama,2020-06-04,0
+Jacksonville,Alabama,2020-06-05,0
+Jacksonville,Florida,2020-05-26,0
+Jacksonville,Florida,2020-05-27,0
+Jacksonville,Florida,2020-05-28,0
+Jacksonville,Florida,2020-05-29,0
+Jacksonville,Florida,2020-05-30,0
+Jacksonville,Florida,2020-05-31,1
+Jacksonville,Florida,2020-06-01,0
+Jacksonville,Florida,2020-06-02,0
+Jacksonville,Florida,2020-06-03,0
+Jacksonville,Florida,2020-06-04,0
+Jacksonville,Florida,2020-06-05,0
+Jonesboro,Arkansas,2020-05-26,0
+Jonesboro,Arkansas,2020-05-27,0
+Jonesboro,Arkansas,2020-05-28,0
+Jonesboro,Arkansas,2020-05-29,0
+Jonesboro,Arkansas,2020-05-30,0
+Jonesboro,Arkansas,2020-05-31,1
+Jonesboro,Arkansas,2020-06-01,1
+Jonesboro,Arkansas,2020-06-02,0
+Jonesboro,Arkansas,2020-06-03,0
+Jonesboro,Arkansas,2020-06-04,0
+Jonesboro,Arkansas,2020-06-05,0
+Juneau,Alaska,2020-05-26,0
+Juneau,Alaska,2020-05-27,0
+Juneau,Alaska,2020-05-28,0
+Juneau,Alaska,2020-05-29,0
+Juneau,Alaska,2020-05-30,1
+Juneau,Alaska,2020-05-31,0
+Juneau,Alaska,2020-06-01,0
+Juneau,Alaska,2020-06-02,0
+Juneau,Alaska,2020-06-03,0
+Juneau,Alaska,2020-06-04,0
+Juneau,Alaska,2020-06-05,0
+Kailua-Kona,Hawaii,2020-05-26,0
+Kailua-Kona,Hawaii,2020-05-27,0
+Kailua-Kona,Hawaii,2020-05-28,0
+Kailua-Kona,Hawaii,2020-05-29,1
+Kailua-Kona,Hawaii,2020-05-30,0
+Kailua-Kona,Hawaii,2020-05-31,1
+Kailua-Kona,Hawaii,2020-06-01,0
+Kailua-Kona,Hawaii,2020-06-02,0
+Kailua-Kona,Hawaii,2020-06-03,0
+Kailua-Kona,Hawaii,2020-06-04,0
+Kailua-Kona,Hawaii,2020-06-05,0
+Kansas City,Kansas,2020-05-26,0
+Kansas City,Kansas,2020-05-27,0
+Kansas City,Kansas,2020-05-28,0
+Kansas City,Kansas,2020-05-29,0
+Kansas City,Kansas,2020-05-30,1
+Kansas City,Kansas,2020-05-31,1
+Kansas City,Kansas,2020-06-01,0
+Kansas City,Kansas,2020-06-02,0
+Kansas City,Kansas,2020-06-03,0
+Kansas City,Kansas,2020-06-04,0
+Kansas City,Kansas,2020-06-05,0
+Kansas City,Missouri,2020-05-26,0
+Kansas City,Missouri,2020-05-27,1
+Kansas City,Missouri,2020-05-28,1
+Kansas City,Missouri,2020-05-29,1
+Kansas City,Missouri,2020-05-30,1
+Kansas City,Missouri,2020-05-31,1
+Kansas City,Missouri,2020-06-01,0
+Kansas City,Missouri,2020-06-02,0
+Kansas City,Missouri,2020-06-03,0
+Kansas City,Missouri,2020-06-04,0
+Kansas City,Missouri,2020-06-05,0
+Katy,Texas,2020-05-26,0
+Katy,Texas,2020-05-27,0
+Katy,Texas,2020-05-28,0
+Katy,Texas,2020-05-29,0
+Katy,Texas,2020-05-30,0
+Katy,Texas,2020-05-31,0
+Katy,Texas,2020-06-01,0
+Katy,Texas,2020-06-02,0
+Katy,Texas,2020-06-03,0
+Katy,Texas,2020-06-04,1
+Katy,Texas,2020-06-05,0
+Kearney,Nebraska,2020-05-26,0
+Kearney,Nebraska,2020-05-27,0
+Kearney,Nebraska,2020-05-28,0
+Kearney,Nebraska,2020-05-29,0
+Kearney,Nebraska,2020-05-30,1
+Kearney,Nebraska,2020-05-31,1
+Kearney,Nebraska,2020-06-01,0
+Kearney,Nebraska,2020-06-02,0
+Kearney,Nebraska,2020-06-03,0
+Kearney,Nebraska,2020-06-04,0
+Kearney,Nebraska,2020-06-05,0
+Keene,New Hampshire,2020-05-26,0
+Keene,New Hampshire,2020-05-27,0
+Keene,New Hampshire,2020-05-28,0
+Keene,New Hampshire,2020-05-29,0
+Keene,New Hampshire,2020-05-30,1
+Keene,New Hampshire,2020-05-31,0
+Keene,New Hampshire,2020-06-01,0
+Keene,New Hampshire,2020-06-02,0
+Keene,New Hampshire,2020-06-03,0
+Keene,New Hampshire,2020-06-04,0
+Keene,New Hampshire,2020-06-05,0
+Kennesaw,Georgia,2020-05-26,0
+Kennesaw,Georgia,2020-05-27,0
+Kennesaw,Georgia,2020-05-28,0
+Kennesaw,Georgia,2020-05-29,0
+Kennesaw,Georgia,2020-05-30,0
+Kennesaw,Georgia,2020-05-31,1
+Kennesaw,Georgia,2020-06-01,0
+Kennesaw,Georgia,2020-06-02,0
+Kennesaw,Georgia,2020-06-03,0
+Kennesaw,Georgia,2020-06-04,0
+Kennesaw,Georgia,2020-06-05,0
+Ketchikan,Alaska,2020-05-26,0
+Ketchikan,Alaska,2020-05-27,0
+Ketchikan,Alaska,2020-05-28,0
+Ketchikan,Alaska,2020-05-29,0
+Ketchikan,Alaska,2020-05-30,0
+Ketchikan,Alaska,2020-05-31,0
+Ketchikan,Alaska,2020-06-01,0
+Ketchikan,Alaska,2020-06-02,0
+Ketchikan,Alaska,2020-06-03,1
+Ketchikan,Alaska,2020-06-04,0
+Ketchikan,Alaska,2020-06-05,0
+Kingman,Arizona,2020-05-26,0
+Kingman,Arizona,2020-05-27,0
+Kingman,Arizona,2020-05-28,0
+Kingman,Arizona,2020-05-29,0
+Kingman,Arizona,2020-05-30,0
+Kingman,Arizona,2020-05-31,0
+Kingman,Arizona,2020-06-01,0
+Kingman,Arizona,2020-06-02,1
+Kingman,Arizona,2020-06-03,0
+Kingman,Arizona,2020-06-04,0
+Kingman,Arizona,2020-06-05,0
+Knoxville,Tennessee,2020-05-26,0
+Knoxville,Tennessee,2020-05-27,0
+Knoxville,Tennessee,2020-05-28,0
+Knoxville,Tennessee,2020-05-29,1
+Knoxville,Tennessee,2020-05-30,0
+Knoxville,Tennessee,2020-05-31,0
+Knoxville,Tennessee,2020-06-01,0
+Knoxville,Tennessee,2020-06-02,0
+Knoxville,Tennessee,2020-06-03,0
+Knoxville,Tennessee,2020-06-04,0
+Knoxville,Tennessee,2020-06-05,0
+Kodiak,Alaska,2020-05-26,0
+Kodiak,Alaska,2020-05-27,0
+Kodiak,Alaska,2020-05-28,0
+Kodiak,Alaska,2020-05-29,0
+Kodiak,Alaska,2020-05-30,0
+Kodiak,Alaska,2020-05-31,0
+Kodiak,Alaska,2020-06-01,0
+Kodiak,Alaska,2020-06-02,0
+Kodiak,Alaska,2020-06-03,0
+Kodiak,Alaska,2020-06-04,1
+Kodiak,Alaska,2020-06-05,0
+Kokomo,Indiana,2020-05-26,0
+Kokomo,Indiana,2020-05-27,0
+Kokomo,Indiana,2020-05-28,0
+Kokomo,Indiana,2020-05-29,0
+Kokomo,Indiana,2020-05-30,1
+Kokomo,Indiana,2020-05-31,0
+Kokomo,Indiana,2020-06-01,1
+Kokomo,Indiana,2020-06-02,0
+Kokomo,Indiana,2020-06-03,0
+Kokomo,Indiana,2020-06-04,0
+Kokomo,Indiana,2020-06-05,0
+Kotzebue,Alaska,2020-05-26,0
+Kotzebue,Alaska,2020-05-27,0
+Kotzebue,Alaska,2020-05-28,0
+Kotzebue,Alaska,2020-05-29,0
+Kotzebue,Alaska,2020-05-30,0
+Kotzebue,Alaska,2020-05-31,0
+Kotzebue,Alaska,2020-06-01,0
+Kotzebue,Alaska,2020-06-02,1
+Kotzebue,Alaska,2020-06-03,0
+Kotzebue,Alaska,2020-06-04,0
+Kotzebue,Alaska,2020-06-05,0
+La Crosse,Wisconsin,2020-05-26,0
+La Crosse,Wisconsin,2020-05-27,0
+La Crosse,Wisconsin,2020-05-28,0
+La Crosse,Wisconsin,2020-05-29,1
+La Crosse,Wisconsin,2020-05-30,1
+La Crosse,Wisconsin,2020-05-31,0
+La Crosse,Wisconsin,2020-06-01,0
+La Crosse,Wisconsin,2020-06-02,0
+La Crosse,Wisconsin,2020-06-03,0
+La Crosse,Wisconsin,2020-06-04,0
+La Crosse,Wisconsin,2020-06-05,0
+La Habra,California,2020-05-26,0
+La Habra,California,2020-05-27,0
+La Habra,California,2020-05-28,0
+La Habra,California,2020-05-29,0
+La Habra,California,2020-05-30,0
+La Habra,California,2020-05-31,0
+La Habra,California,2020-06-01,0
+La Habra,California,2020-06-02,0
+La Habra,California,2020-06-03,1
+La Habra,California,2020-06-04,0
+La Habra,California,2020-06-05,0
+La Mesa,California,2020-05-26,0
+La Mesa,California,2020-05-27,0
+La Mesa,California,2020-05-28,0
+La Mesa,California,2020-05-29,0
+La Mesa,California,2020-05-30,1
+La Mesa,California,2020-05-31,1
+La Mesa,California,2020-06-01,0
+La Mesa,California,2020-06-02,0
+La Mesa,California,2020-06-03,0
+La Mesa,California,2020-06-04,0
+La Mesa,California,2020-06-05,0
+Lafayette,Indiana,2020-05-26,0
+Lafayette,Indiana,2020-05-27,0
+Lafayette,Indiana,2020-05-28,0
+Lafayette,Indiana,2020-05-29,0
+Lafayette,Indiana,2020-05-30,0
+Lafayette,Indiana,2020-05-31,1
+Lafayette,Indiana,2020-06-01,0
+Lafayette,Indiana,2020-06-02,0
+Lafayette,Indiana,2020-06-03,0
+Lafayette,Indiana,2020-06-04,0
+Lafayette,Indiana,2020-06-05,0
+Lafayette,Louisiana,2020-05-26,0
+Lafayette,Louisiana,2020-05-27,0
+Lafayette,Louisiana,2020-05-28,0
+Lafayette,Louisiana,2020-05-29,0
+Lafayette,Louisiana,2020-05-30,0
+Lafayette,Louisiana,2020-05-31,1
+Lafayette,Louisiana,2020-06-01,0
+Lafayette,Louisiana,2020-06-02,0
+Lafayette,Louisiana,2020-06-03,0
+Lafayette,Louisiana,2020-06-04,0
+Lafayette,Louisiana,2020-06-05,0
+Lake Charles,Louisiana,2020-05-26,0
+Lake Charles,Louisiana,2020-05-27,0
+Lake Charles,Louisiana,2020-05-28,0
+Lake Charles,Louisiana,2020-05-29,0
+Lake Charles,Louisiana,2020-05-30,0
+Lake Charles,Louisiana,2020-05-31,1
+Lake Charles,Louisiana,2020-06-01,0
+Lake Charles,Louisiana,2020-06-02,0
+Lake Charles,Louisiana,2020-06-03,0
+Lake Charles,Louisiana,2020-06-04,0
+Lake Charles,Louisiana,2020-06-05,0
+Lake Havasu City,Arizona,2020-05-26,0
+Lake Havasu City,Arizona,2020-05-27,0
+Lake Havasu City,Arizona,2020-05-28,0
+Lake Havasu City,Arizona,2020-05-29,0
+Lake Havasu City,Arizona,2020-05-30,0
+Lake Havasu City,Arizona,2020-05-31,0
+Lake Havasu City,Arizona,2020-06-01,0
+Lake Havasu City,Arizona,2020-06-02,0
+Lake Havasu City,Arizona,2020-06-03,1
+Lake Havasu City,Arizona,2020-06-04,0
+Lake Havasu City,Arizona,2020-06-05,0
+Lake Zurich,Illinois,2020-05-26,0
+Lake Zurich,Illinois,2020-05-27,0
+Lake Zurich,Illinois,2020-05-28,0
+Lake Zurich,Illinois,2020-05-29,0
+Lake Zurich,Illinois,2020-05-30,0
+Lake Zurich,Illinois,2020-05-31,0
+Lake Zurich,Illinois,2020-06-01,0
+Lake Zurich,Illinois,2020-06-02,0
+Lake Zurich,Illinois,2020-06-03,0
+Lake Zurich,Illinois,2020-06-04,1
+Lake Zurich,Illinois,2020-06-05,0
+Lambertville,Michigan,2020-05-26,0
+Lambertville,Michigan,2020-05-27,0
+Lambertville,Michigan,2020-05-28,0
+Lambertville,Michigan,2020-05-29,0
+Lambertville,Michigan,2020-05-30,0
+Lambertville,Michigan,2020-05-31,0
+Lambertville,Michigan,2020-06-01,0
+Lambertville,Michigan,2020-06-02,0
+Lambertville,Michigan,2020-06-03,1
+Lambertville,Michigan,2020-06-04,0
+Lambertville,Michigan,2020-06-05,0
+Lancaster,Pennsylvania,2020-05-26,0
+Lancaster,Pennsylvania,2020-05-27,0
+Lancaster,Pennsylvania,2020-05-28,0
+Lancaster,Pennsylvania,2020-05-29,1
+Lancaster,Pennsylvania,2020-05-30,1
+Lancaster,Pennsylvania,2020-05-31,1
+Lancaster,Pennsylvania,2020-06-01,0
+Lancaster,Pennsylvania,2020-06-02,0
+Lancaster,Pennsylvania,2020-06-03,0
+Lancaster,Pennsylvania,2020-06-04,0
+Lancaster,Pennsylvania,2020-06-05,0
+Lansing,Michigan,2020-05-26,0
+Lansing,Michigan,2020-05-27,0
+Lansing,Michigan,2020-05-28,0
+Lansing,Michigan,2020-05-29,0
+Lansing,Michigan,2020-05-30,0
+Lansing,Michigan,2020-05-31,1
+Lansing,Michigan,2020-06-01,0
+Lansing,Michigan,2020-06-02,0
+Lansing,Michigan,2020-06-03,0
+Lansing,Michigan,2020-06-04,0
+Lansing,Michigan,2020-06-05,0
+Laramie,Wyoming,2020-05-26,0
+Laramie,Wyoming,2020-05-27,0
+Laramie,Wyoming,2020-05-28,0
+Laramie,Wyoming,2020-05-29,0
+Laramie,Wyoming,2020-05-30,0
+Laramie,Wyoming,2020-05-31,0
+Laramie,Wyoming,2020-06-01,0
+Laramie,Wyoming,2020-06-02,1
+Laramie,Wyoming,2020-06-03,0
+Laramie,Wyoming,2020-06-04,1
+Laramie,Wyoming,2020-06-05,0
+Laredo,Texas,2020-05-26,0
+Laredo,Texas,2020-05-27,0
+Laredo,Texas,2020-05-28,0
+Laredo,Texas,2020-05-29,0
+Laredo,Texas,2020-05-30,0
+Laredo,Texas,2020-05-31,0
+Laredo,Texas,2020-06-01,0
+Laredo,Texas,2020-06-02,0
+Laredo,Texas,2020-06-03,0
+Laredo,Texas,2020-06-04,1
+Laredo,Texas,2020-06-05,0
+Las Cruces,New Mexico,2020-05-26,0
+Las Cruces,New Mexico,2020-05-27,0
+Las Cruces,New Mexico,2020-05-28,0
+Las Cruces,New Mexico,2020-05-29,0
+Las Cruces,New Mexico,2020-05-30,1
+Las Cruces,New Mexico,2020-05-31,0
+Las Cruces,New Mexico,2020-06-01,0
+Las Cruces,New Mexico,2020-06-02,0
+Las Cruces,New Mexico,2020-06-03,0
+Las Cruces,New Mexico,2020-06-04,0
+Las Cruces,New Mexico,2020-06-05,0
+Las Vegas,Nevada,2020-05-26,0
+Las Vegas,Nevada,2020-05-27,1
+Las Vegas,Nevada,2020-05-28,1
+Las Vegas,Nevada,2020-05-29,1
+Las Vegas,Nevada,2020-05-30,1
+Las Vegas,Nevada,2020-05-31,1
+Las Vegas,Nevada,2020-06-01,0
+Las Vegas,Nevada,2020-06-02,1
+Las Vegas,Nevada,2020-06-03,1
+Las Vegas,Nevada,2020-06-04,0
+Las Vegas,Nevada,2020-06-05,0
+Lawrence,Kansas,2020-05-26,0
+Lawrence,Kansas,2020-05-27,0
+Lawrence,Kansas,2020-05-28,0
+Lawrence,Kansas,2020-05-29,0
+Lawrence,Kansas,2020-05-30,0
+Lawrence,Kansas,2020-05-31,1
+Lawrence,Kansas,2020-06-01,0
+Lawrence,Kansas,2020-06-02,0
+Lawrence,Kansas,2020-06-03,0
+Lawrence,Kansas,2020-06-04,0
+Lawrence,Kansas,2020-06-05,0
+Lawton,Oklahoma,2020-05-26,0
+Lawton,Oklahoma,2020-05-27,0
+Lawton,Oklahoma,2020-05-28,0
+Lawton,Oklahoma,2020-05-29,0
+Lawton,Oklahoma,2020-05-30,0
+Lawton,Oklahoma,2020-05-31,1
+Lawton,Oklahoma,2020-06-01,0
+Lawton,Oklahoma,2020-06-02,0
+Lawton,Oklahoma,2020-06-03,0
+Lawton,Oklahoma,2020-06-04,0
+Lawton,Oklahoma,2020-06-05,0
+Lewiston,Maine,2020-05-26,0
+Lewiston,Maine,2020-05-27,0
+Lewiston,Maine,2020-05-28,0
+Lewiston,Maine,2020-05-29,0
+Lewiston,Maine,2020-05-30,0
+Lewiston,Maine,2020-05-31,0
+Lewiston,Maine,2020-06-01,1
+Lewiston,Maine,2020-06-02,0
+Lewiston,Maine,2020-06-03,0
+Lewiston,Maine,2020-06-04,1
+Lewiston,Maine,2020-06-05,0
+Lexington,Kentucky,2020-05-26,0
+Lexington,Kentucky,2020-05-27,1
+Lexington,Kentucky,2020-05-28,1
+Lexington,Kentucky,2020-05-29,1
+Lexington,Kentucky,2020-05-30,1
+Lexington,Kentucky,2020-05-31,1
+Lexington,Kentucky,2020-06-01,0
+Lexington,Kentucky,2020-06-02,0
+Lexington,Kentucky,2020-06-03,0
+Lexington,Kentucky,2020-06-04,0
+Lexington,Kentucky,2020-06-05,0
+Lincoln,Nebraska,2020-05-26,0
+Lincoln,Nebraska,2020-05-27,1
+Lincoln,Nebraska,2020-05-28,1
+Lincoln,Nebraska,2020-05-29,1
+Lincoln,Nebraska,2020-05-30,1
+Lincoln,Nebraska,2020-05-31,1
+Lincoln,Nebraska,2020-06-01,1
+Lincoln,Nebraska,2020-06-02,0
+Lincoln,Nebraska,2020-06-03,0
+Lincoln,Nebraska,2020-06-04,0
+Lincoln,Nebraska,2020-06-05,0
+Little Rock,Arkansas,2020-05-26,0
+Little Rock,Arkansas,2020-05-27,0
+Little Rock,Arkansas,2020-05-28,0
+Little Rock,Arkansas,2020-05-29,0
+Little Rock,Arkansas,2020-05-30,1
+Little Rock,Arkansas,2020-05-31,1
+Little Rock,Arkansas,2020-06-01,1
+Little Rock,Arkansas,2020-06-02,1
+Little Rock,Arkansas,2020-06-03,0
+Little Rock,Arkansas,2020-06-04,0
+Little Rock,Arkansas,2020-06-05,0
+Livermore,California,2020-05-26,0
+Livermore,California,2020-05-27,0
+Livermore,California,2020-05-28,0
+Livermore,California,2020-05-29,0
+Livermore,California,2020-05-30,0
+Livermore,California,2020-05-31,0
+Livermore,California,2020-06-01,0
+Livermore,California,2020-06-02,1
+Livermore,California,2020-06-03,0
+Livermore,California,2020-06-04,0
+Livermore,California,2020-06-05,0
+Lockport,New York,2020-05-26,0
+Lockport,New York,2020-05-27,0
+Lockport,New York,2020-05-28,0
+Lockport,New York,2020-05-29,0
+Lockport,New York,2020-05-30,0
+Lockport,New York,2020-05-31,0
+Lockport,New York,2020-06-01,1
+Lockport,New York,2020-06-02,0
+Lockport,New York,2020-06-03,0
+Lockport,New York,2020-06-04,0
+Lockport,New York,2020-06-05,0
+Loíza,Puerto Rico,2020-05-26,0
+Loíza,Puerto Rico,2020-05-27,0
+Loíza,Puerto Rico,2020-05-28,0
+Loíza,Puerto Rico,2020-05-29,0
+Loíza,Puerto Rico,2020-05-30,0
+Loíza,Puerto Rico,2020-05-31,0
+Loíza,Puerto Rico,2020-06-01,1
+Loíza,Puerto Rico,2020-06-02,0
+Loíza,Puerto Rico,2020-06-03,0
+Loíza,Puerto Rico,2020-06-04,0
+Loíza,Puerto Rico,2020-06-05,0
+Long Beach,California,2020-05-26,0
+Long Beach,California,2020-05-27,0
+Long Beach,California,2020-05-28,0
+Long Beach,California,2020-05-29,0
+Long Beach,California,2020-05-30,0
+Long Beach,California,2020-05-31,1
+Long Beach,California,2020-06-01,0
+Long Beach,California,2020-06-02,0
+Long Beach,California,2020-06-03,0
+Long Beach,California,2020-06-04,0
+Long Beach,California,2020-06-05,0
+Los Angeles,California,2020-05-26,0
+Los Angeles,California,2020-05-27,1
+Los Angeles,California,2020-05-28,1
+Los Angeles,California,2020-05-29,1
+Los Angeles,California,2020-05-30,1
+Los Angeles,California,2020-05-31,1
+Los Angeles,California,2020-06-01,1
+Los Angeles,California,2020-06-02,1
+Los Angeles,California,2020-06-03,0
+Los Angeles,California,2020-06-04,1
+Los Angeles,California,2020-06-05,0
+Louisville,Kentucky,2020-05-26,0
+Louisville,Kentucky,2020-05-27,1
+Louisville,Kentucky,2020-05-28,1
+Louisville,Kentucky,2020-05-29,1
+Louisville,Kentucky,2020-05-30,1
+Louisville,Kentucky,2020-05-31,1
+Louisville,Kentucky,2020-06-01,1
+Louisville,Kentucky,2020-06-02,0
+Louisville,Kentucky,2020-06-03,0
+Louisville,Kentucky,2020-06-04,0
+Louisville,Kentucky,2020-06-05,0
+Madison,Wisconsin,2020-05-26,0
+Madison,Wisconsin,2020-05-27,0
+Madison,Wisconsin,2020-05-28,0
+Madison,Wisconsin,2020-05-29,0
+Madison,Wisconsin,2020-05-30,1
+Madison,Wisconsin,2020-05-31,0
+Madison,Wisconsin,2020-06-01,0
+Madison,Wisconsin,2020-06-02,0
+Madison,Wisconsin,2020-06-03,0
+Madison,Wisconsin,2020-06-04,0
+Madison,Wisconsin,2020-06-05,0
+Manchester,New Hampshire,2020-05-26,0
+Manchester,New Hampshire,2020-05-27,0
+Manchester,New Hampshire,2020-05-28,0
+Manchester,New Hampshire,2020-05-29,0
+Manchester,New Hampshire,2020-05-30,1
+Manchester,New Hampshire,2020-05-31,0
+Manchester,New Hampshire,2020-06-01,0
+Manchester,New Hampshire,2020-06-02,0
+Manchester,New Hampshire,2020-06-03,0
+Manchester,New Hampshire,2020-06-04,0
+Manchester,New Hampshire,2020-06-05,0
+Manhattan,Kansas,2020-05-26,0
+Manhattan,Kansas,2020-05-27,0
+Manhattan,Kansas,2020-05-28,0
+Manhattan,Kansas,2020-05-29,0
+Manhattan,Kansas,2020-05-30,1
+Manhattan,Kansas,2020-05-31,0
+Manhattan,Kansas,2020-06-01,1
+Manhattan,Kansas,2020-06-02,0
+Manhattan,Kansas,2020-06-03,0
+Manhattan,Kansas,2020-06-04,0
+Manhattan,Kansas,2020-06-05,0
+Marinette,Wisconsin,2020-05-26,0
+Marinette,Wisconsin,2020-05-27,0
+Marinette,Wisconsin,2020-05-28,0
+Marinette,Wisconsin,2020-05-29,0
+Marinette,Wisconsin,2020-05-30,0
+Marinette,Wisconsin,2020-05-31,0
+Marinette,Wisconsin,2020-06-01,0
+Marinette,Wisconsin,2020-06-02,0
+Marinette,Wisconsin,2020-06-03,1
+Marinette,Wisconsin,2020-06-04,0
+Marinette,Wisconsin,2020-06-05,0
+Marion,Indiana,2020-05-26,0
+Marion,Indiana,2020-05-27,0
+Marion,Indiana,2020-05-28,0
+Marion,Indiana,2020-05-29,1
+Marion,Indiana,2020-05-30,1
+Marion,Indiana,2020-05-31,1
+Marion,Indiana,2020-06-01,0
+Marion,Indiana,2020-06-02,0
+Marion,Indiana,2020-06-03,0
+Marion,Indiana,2020-06-04,0
+Marion,Indiana,2020-06-05,0
+Memphis,Tennessee,2020-05-26,0
+Memphis,Tennessee,2020-05-27,1
+Memphis,Tennessee,2020-05-28,1
+Memphis,Tennessee,2020-05-29,1
+Memphis,Tennessee,2020-05-30,1
+Memphis,Tennessee,2020-05-31,1
+Memphis,Tennessee,2020-06-01,1
+Memphis,Tennessee,2020-06-02,0
+Memphis,Tennessee,2020-06-03,0
+Memphis,Tennessee,2020-06-04,0
+Memphis,Tennessee,2020-06-05,0
+Merrick,New York,2020-05-26,0
+Merrick,New York,2020-05-27,0
+Merrick,New York,2020-05-28,0
+Merrick,New York,2020-05-29,0
+Merrick,New York,2020-05-30,0
+Merrick,New York,2020-05-31,0
+Merrick,New York,2020-06-01,0
+Merrick,New York,2020-06-02,1
+Merrick,New York,2020-06-03,0
+Merrick,New York,2020-06-04,0
+Merrick,New York,2020-06-05,0
+Miami,Florida,2020-05-26,0
+Miami,Florida,2020-05-27,1
+Miami,Florida,2020-05-28,1
+Miami,Florida,2020-05-29,1
+Miami,Florida,2020-05-30,1
+Miami,Florida,2020-05-31,1
+Miami,Florida,2020-06-01,0
+Miami,Florida,2020-06-02,0
+Miami,Florida,2020-06-03,0
+Miami,Florida,2020-06-04,0
+Miami,Florida,2020-06-05,0
+Middlebury,Vermont,2020-05-26,0
+Middlebury,Vermont,2020-05-27,0
+Middlebury,Vermont,2020-05-28,0
+Middlebury,Vermont,2020-05-29,0
+Middlebury,Vermont,2020-05-30,1
+Middlebury,Vermont,2020-05-31,0
+Middlebury,Vermont,2020-06-01,0
+Middlebury,Vermont,2020-06-02,0
+Middlebury,Vermont,2020-06-03,0
+Middlebury,Vermont,2020-06-04,0
+Middlebury,Vermont,2020-06-05,0
+Middletown,Connecticut,2020-05-26,0
+Middletown,Connecticut,2020-05-27,0
+Middletown,Connecticut,2020-05-28,0
+Middletown,Connecticut,2020-05-29,0
+Middletown,Connecticut,2020-05-30,1
+Middletown,Connecticut,2020-05-31,0
+Middletown,Connecticut,2020-06-01,0
+Middletown,Connecticut,2020-06-02,0
+Middletown,Connecticut,2020-06-03,0
+Middletown,Connecticut,2020-06-04,0
+Middletown,Connecticut,2020-06-05,0
+Midland,Texas,2020-05-26,0
+Midland,Texas,2020-05-27,0
+Midland,Texas,2020-05-28,0
+Midland,Texas,2020-05-29,0
+Midland,Texas,2020-05-30,0
+Midland,Texas,2020-05-31,0
+Midland,Texas,2020-06-01,1
+Midland,Texas,2020-06-02,1
+Midland,Texas,2020-06-03,0
+Midland,Texas,2020-06-04,0
+Midland,Texas,2020-06-05,0
+Milwaukee,Wisconsin,2020-05-26,0
+Milwaukee,Wisconsin,2020-05-27,1
+Milwaukee,Wisconsin,2020-05-28,1
+Milwaukee,Wisconsin,2020-05-29,1
+Milwaukee,Wisconsin,2020-05-30,1
+Milwaukee,Wisconsin,2020-05-31,1
+Milwaukee,Wisconsin,2020-06-01,0
+Milwaukee,Wisconsin,2020-06-02,0
+Milwaukee,Wisconsin,2020-06-03,0
+Milwaukee,Wisconsin,2020-06-04,0
+Milwaukee,Wisconsin,2020-06-05,0
+Minneapolis,Minnesota,2020-05-26,1
+Minneapolis,Minnesota,2020-05-27,1
+Minneapolis,Minnesota,2020-05-28,1
+Minneapolis,Minnesota,2020-05-29,1
+Minneapolis,Minnesota,2020-05-30,1
+Minneapolis,Minnesota,2020-05-31,1
+Minneapolis,Minnesota,2020-06-01,1
+Minneapolis,Minnesota,2020-06-02,0
+Minneapolis,Minnesota,2020-06-03,0
+Minneapolis,Minnesota,2020-06-04,1
+Minneapolis,Minnesota,2020-06-05,0
+Minot,North Dakota,2020-05-26,0
+Minot,North Dakota,2020-05-27,0
+Minot,North Dakota,2020-05-28,0
+Minot,North Dakota,2020-05-29,0
+Minot,North Dakota,2020-05-30,0
+Minot,North Dakota,2020-05-31,1
+Minot,North Dakota,2020-06-01,0
+Minot,North Dakota,2020-06-02,0
+Minot,North Dakota,2020-06-03,0
+Minot,North Dakota,2020-06-04,0
+Minot,North Dakota,2020-06-05,0
+Missoula,Montana,2020-05-26,0
+Missoula,Montana,2020-05-27,1
+Missoula,Montana,2020-05-28,1
+Missoula,Montana,2020-05-29,1
+Missoula,Montana,2020-05-30,1
+Missoula,Montana,2020-05-31,1
+Missoula,Montana,2020-06-01,0
+Missoula,Montana,2020-06-02,0
+Missoula,Montana,2020-06-03,0
+Missoula,Montana,2020-06-04,0
+Missoula,Montana,2020-06-05,0
+Mitchell,South Dakota,2020-05-26,0
+Mitchell,South Dakota,2020-05-27,0
+Mitchell,South Dakota,2020-05-28,0
+Mitchell,South Dakota,2020-05-29,0
+Mitchell,South Dakota,2020-05-30,0
+Mitchell,South Dakota,2020-05-31,0
+Mitchell,South Dakota,2020-06-01,0
+Mitchell,South Dakota,2020-06-02,0
+Mitchell,South Dakota,2020-06-03,1
+Mitchell,South Dakota,2020-06-04,0
+Mitchell,South Dakota,2020-06-05,0
+Mobile,Alabama,2020-05-26,0
+Mobile,Alabama,2020-05-27,0
+Mobile,Alabama,2020-05-28,0
+Mobile,Alabama,2020-05-29,0
+Mobile,Alabama,2020-05-30,0
+Mobile,Alabama,2020-05-31,1
+Mobile,Alabama,2020-06-01,0
+Mobile,Alabama,2020-06-02,0
+Mobile,Alabama,2020-06-03,0
+Mobile,Alabama,2020-06-04,0
+Mobile,Alabama,2020-06-05,0
+Modesto,California,2020-05-26,0
+Modesto,California,2020-05-27,0
+Modesto,California,2020-05-28,0
+Modesto,California,2020-05-29,0
+Modesto,California,2020-05-30,1
+Modesto,California,2020-05-31,1
+Modesto,California,2020-06-01,0
+Modesto,California,2020-06-02,0
+Modesto,California,2020-06-03,0
+Modesto,California,2020-06-04,0
+Modesto,California,2020-06-05,0
+Monroe,Louisiana,2020-05-26,0
+Monroe,Louisiana,2020-05-27,0
+Monroe,Louisiana,2020-05-28,0
+Monroe,Louisiana,2020-05-29,0
+Monroe,Louisiana,2020-05-30,0
+Monroe,Louisiana,2020-05-31,1
+Monroe,Louisiana,2020-06-01,0
+Monroe,Louisiana,2020-06-02,0
+Monroe,Louisiana,2020-06-03,0
+Monroe,Louisiana,2020-06-04,0
+Monroe,Louisiana,2020-06-05,0
+Monroe,Michigan,2020-05-26,0
+Monroe,Michigan,2020-05-27,0
+Monroe,Michigan,2020-05-28,0
+Monroe,Michigan,2020-05-29,0
+Monroe,Michigan,2020-05-30,0
+Monroe,Michigan,2020-05-31,0
+Monroe,Michigan,2020-06-01,0
+Monroe,Michigan,2020-06-02,0
+Monroe,Michigan,2020-06-03,0
+Monroe,Michigan,2020-06-04,1
+Monroe,Michigan,2020-06-05,0
+Montgomery,Alabama,2020-05-26,0
+Montgomery,Alabama,2020-05-27,0
+Montgomery,Alabama,2020-05-28,0
+Montgomery,Alabama,2020-05-29,0
+Montgomery,Alabama,2020-05-30,1
+Montgomery,Alabama,2020-05-31,0
+Montgomery,Alabama,2020-06-01,0
+Montgomery,Alabama,2020-06-02,0
+Montgomery,Alabama,2020-06-03,0
+Montgomery,Alabama,2020-06-04,0
+Montgomery,Alabama,2020-06-05,0
+Montpelier,Vermont,2020-05-26,0
+Montpelier,Vermont,2020-05-27,0
+Montpelier,Vermont,2020-05-28,0
+Montpelier,Vermont,2020-05-29,0
+Montpelier,Vermont,2020-05-30,1
+Montpelier,Vermont,2020-05-31,0
+Montpelier,Vermont,2020-06-01,0
+Montpelier,Vermont,2020-06-02,0
+Montpelier,Vermont,2020-06-03,0
+Montpelier,Vermont,2020-06-04,0
+Montpelier,Vermont,2020-06-05,0
+Morehead City,North Carolina,2020-05-26,0
+Morehead City,North Carolina,2020-05-27,0
+Morehead City,North Carolina,2020-05-28,0
+Morehead City,North Carolina,2020-05-29,0
+Morehead City,North Carolina,2020-05-30,0
+Morehead City,North Carolina,2020-05-31,1
+Morehead City,North Carolina,2020-06-01,0
+Morehead City,North Carolina,2020-06-02,0
+Morehead City,North Carolina,2020-06-03,0
+Morehead City,North Carolina,2020-06-04,0
+Morehead City,North Carolina,2020-06-05,1
+Morgantown,West Virginia,2020-05-26,0
+Morgantown,West Virginia,2020-05-27,0
+Morgantown,West Virginia,2020-05-28,0
+Morgantown,West Virginia,2020-05-29,0
+Morgantown,West Virginia,2020-05-30,1
+Morgantown,West Virginia,2020-05-31,0
+Morgantown,West Virginia,2020-06-01,0
+Morgantown,West Virginia,2020-06-02,0
+Morgantown,West Virginia,2020-06-03,0
+Morgantown,West Virginia,2020-06-04,0
+Morgantown,West Virginia,2020-06-05,0
+Muncie,Indiana,2020-05-26,0
+Muncie,Indiana,2020-05-27,0
+Muncie,Indiana,2020-05-28,0
+Muncie,Indiana,2020-05-29,0
+Muncie,Indiana,2020-05-30,0
+Muncie,Indiana,2020-05-31,0
+Muncie,Indiana,2020-06-01,0
+Muncie,Indiana,2020-06-02,0
+Muncie,Indiana,2020-06-03,0
+Muncie,Indiana,2020-06-04,1
+Muncie,Indiana,2020-06-05,0
+Murfreesboro,Tennessee,2020-05-26,0
+Murfreesboro,Tennessee,2020-05-27,0
+Murfreesboro,Tennessee,2020-05-28,0
+Murfreesboro,Tennessee,2020-05-29,0
+Murfreesboro,Tennessee,2020-05-30,0
+Murfreesboro,Tennessee,2020-05-31,1
+Murfreesboro,Tennessee,2020-06-01,1
+Murfreesboro,Tennessee,2020-06-02,0
+Murfreesboro,Tennessee,2020-06-03,0
+Murfreesboro,Tennessee,2020-06-04,0
+Murfreesboro,Tennessee,2020-06-05,0
+Myrtle Beach,South Carolina,2020-05-26,0
+Myrtle Beach,South Carolina,2020-05-27,0
+Myrtle Beach,South Carolina,2020-05-28,0
+Myrtle Beach,South Carolina,2020-05-29,0
+Myrtle Beach,South Carolina,2020-05-30,0
+Myrtle Beach,South Carolina,2020-05-31,1
+Myrtle Beach,South Carolina,2020-06-01,0
+Myrtle Beach,South Carolina,2020-06-02,0
+Myrtle Beach,South Carolina,2020-06-03,0
+Myrtle Beach,South Carolina,2020-06-04,0
+Myrtle Beach,South Carolina,2020-06-05,0
+Nashville,Tennessee,2020-05-26,0
+Nashville,Tennessee,2020-05-27,0
+Nashville,Tennessee,2020-05-28,0
+Nashville,Tennessee,2020-05-29,0
+Nashville,Tennessee,2020-05-30,1
+Nashville,Tennessee,2020-05-31,0
+Nashville,Tennessee,2020-06-01,0
+Nashville,Tennessee,2020-06-02,0
+Nashville,Tennessee,2020-06-03,0
+Nashville,Tennessee,2020-06-04,1
+Nashville,Tennessee,2020-06-05,0
+New Canaan,Connecticut,2020-05-26,0
+New Canaan,Connecticut,2020-05-27,0
+New Canaan,Connecticut,2020-05-28,0
+New Canaan,Connecticut,2020-05-29,0
+New Canaan,Connecticut,2020-05-30,0
+New Canaan,Connecticut,2020-05-31,0
+New Canaan,Connecticut,2020-06-01,0
+New Canaan,Connecticut,2020-06-02,0
+New Canaan,Connecticut,2020-06-03,0
+New Canaan,Connecticut,2020-06-04,1
+New Canaan,Connecticut,2020-06-05,0
+New Haven,Connecticut,2020-05-26,0
+New Haven,Connecticut,2020-05-27,0
+New Haven,Connecticut,2020-05-28,0
+New Haven,Connecticut,2020-05-29,0
+New Haven,Connecticut,2020-05-30,0
+New Haven,Connecticut,2020-05-31,1
+New Haven,Connecticut,2020-06-01,0
+New Haven,Connecticut,2020-06-02,0
+New Haven,Connecticut,2020-06-03,1
+New Haven,Connecticut,2020-06-04,0
+New Haven,Connecticut,2020-06-05,1
+New Iberia,Louisiana,2020-05-26,0
+New Iberia,Louisiana,2020-05-27,0
+New Iberia,Louisiana,2020-05-28,0
+New Iberia,Louisiana,2020-05-29,0
+New Iberia,Louisiana,2020-05-30,1
+New Iberia,Louisiana,2020-05-31,0
+New Iberia,Louisiana,2020-06-01,0
+New Iberia,Louisiana,2020-06-02,0
+New Iberia,Louisiana,2020-06-03,0
+New Iberia,Louisiana,2020-06-04,0
+New Iberia,Louisiana,2020-06-05,0
+New London,Connecticut,2020-05-26,0
+New London,Connecticut,2020-05-27,0
+New London,Connecticut,2020-05-28,0
+New London,Connecticut,2020-05-29,0
+New London,Connecticut,2020-05-30,1
+New London,Connecticut,2020-05-31,0
+New London,Connecticut,2020-06-01,0
+New London,Connecticut,2020-06-02,0
+New London,Connecticut,2020-06-03,0
+New London,Connecticut,2020-06-04,0
+New London,Connecticut,2020-06-05,0
+New Orleans,Louisiana,2020-05-26,0
+New Orleans,Louisiana,2020-05-27,1
+New Orleans,Louisiana,2020-05-28,1
+New Orleans,Louisiana,2020-05-29,1
+New Orleans,Louisiana,2020-05-30,1
+New Orleans,Louisiana,2020-05-31,1
+New Orleans,Louisiana,2020-06-01,0
+New Orleans,Louisiana,2020-06-02,1
+New Orleans,Louisiana,2020-06-03,0
+New Orleans,Louisiana,2020-06-04,0
+New Orleans,Louisiana,2020-06-05,0
+New York City,New York,2020-05-26,0
+New York City,New York,2020-05-27,1
+New York City,New York,2020-05-28,1
+New York City,New York,2020-05-29,1
+New York City,New York,2020-05-30,1
+New York City,New York,2020-05-31,1
+New York City,New York,2020-06-01,1
+New York City,New York,2020-06-02,1
+New York City,New York,2020-06-03,1
+New York City,New York,2020-06-04,1
+New York City,New York,2020-06-05,0
+Newark,New Jersey,2020-05-26,0
+Newark,New Jersey,2020-05-27,0
+Newark,New Jersey,2020-05-28,0
+Newark,New Jersey,2020-05-29,0
+Newark,New Jersey,2020-05-30,1
+Newark,New Jersey,2020-05-31,0
+Newark,New Jersey,2020-06-01,0
+Newark,New Jersey,2020-06-02,1
+Newark,New Jersey,2020-06-03,0
+Newark,New Jersey,2020-06-04,0
+Newark,New Jersey,2020-06-05,0
+Newport,Rhode Island,2020-05-26,0
+Newport,Rhode Island,2020-05-27,0
+Newport,Rhode Island,2020-05-28,0
+Newport,Rhode Island,2020-05-29,0
+Newport,Rhode Island,2020-05-30,0
+Newport,Rhode Island,2020-05-31,0
+Newport,Rhode Island,2020-06-01,1
+Newport,Rhode Island,2020-06-02,0
+Newport,Rhode Island,2020-06-03,0
+Newport,Rhode Island,2020-06-04,0
+Newport,Rhode Island,2020-06-05,0
+Newport Beach,California,2020-05-26,0
+Newport Beach,California,2020-05-27,0
+Newport Beach,California,2020-05-28,0
+Newport Beach,California,2020-05-29,0
+Newport Beach,California,2020-05-30,0
+Newport Beach,California,2020-05-31,0
+Newport Beach,California,2020-06-01,0
+Newport Beach,California,2020-06-02,0
+Newport Beach,California,2020-06-03,1
+Newport Beach,California,2020-06-04,0
+Newport Beach,California,2020-06-05,0
+Newton,North Carolina,2020-05-26,0
+Newton,North Carolina,2020-05-27,0
+Newton,North Carolina,2020-05-28,0
+Newton,North Carolina,2020-05-29,0
+Newton,North Carolina,2020-05-30,0
+Newton,North Carolina,2020-05-31,0
+Newton,North Carolina,2020-06-01,1
+Newton,North Carolina,2020-06-02,0
+Newton,North Carolina,2020-06-03,0
+Newton,North Carolina,2020-06-04,0
+Newton,North Carolina,2020-06-05,0
+Norfolk,Nebraska,2020-05-26,0
+Norfolk,Nebraska,2020-05-27,0
+Norfolk,Nebraska,2020-05-28,0
+Norfolk,Nebraska,2020-05-29,0
+Norfolk,Nebraska,2020-05-30,0
+Norfolk,Nebraska,2020-05-31,0
+Norfolk,Nebraska,2020-06-01,0
+Norfolk,Nebraska,2020-06-02,0
+Norfolk,Nebraska,2020-06-03,1
+Norfolk,Nebraska,2020-06-04,0
+Norfolk,Nebraska,2020-06-05,0
+Norfolk,Virginia,2020-05-26,0
+Norfolk,Virginia,2020-05-27,1
+Norfolk,Virginia,2020-05-28,1
+Norfolk,Virginia,2020-05-29,1
+Norfolk,Virginia,2020-05-30,1
+Norfolk,Virginia,2020-05-31,1
+Norfolk,Virginia,2020-06-01,0
+Norfolk,Virginia,2020-06-02,0
+Norfolk,Virginia,2020-06-03,0
+Norfolk,Virginia,2020-06-04,0
+Norfolk,Virginia,2020-06-05,0
+Norman,Oklahoma,2020-05-26,0
+Norman,Oklahoma,2020-05-27,0
+Norman,Oklahoma,2020-05-28,0
+Norman,Oklahoma,2020-05-29,0
+Norman,Oklahoma,2020-05-30,0
+Norman,Oklahoma,2020-05-31,0
+Norman,Oklahoma,2020-06-01,1
+Norman,Oklahoma,2020-06-02,0
+Norman,Oklahoma,2020-06-03,0
+Norman,Oklahoma,2020-06-04,0
+Norman,Oklahoma,2020-06-05,0
+Oak Park,Illinois,2020-05-26,0
+Oak Park,Illinois,2020-05-27,0
+Oak Park,Illinois,2020-05-28,0
+Oak Park,Illinois,2020-05-29,0
+Oak Park,Illinois,2020-05-30,1
+Oak Park,Illinois,2020-05-31,0
+Oak Park,Illinois,2020-06-01,0
+Oak Park,Illinois,2020-06-02,0
+Oak Park,Illinois,2020-06-03,0
+Oak Park,Illinois,2020-06-04,0
+Oak Park,Illinois,2020-06-05,0
+Oakdale,California,2020-05-26,0
+Oakdale,California,2020-05-27,0
+Oakdale,California,2020-05-28,0
+Oakdale,California,2020-05-29,0
+Oakdale,California,2020-05-30,0
+Oakdale,California,2020-05-31,0
+Oakdale,California,2020-06-01,0
+Oakdale,California,2020-06-02,0
+Oakdale,California,2020-06-03,1
+Oakdale,California,2020-06-04,0
+Oakdale,California,2020-06-05,0
+Oakdale,Minnesota,2020-05-26,0
+Oakdale,Minnesota,2020-05-27,1
+Oakdale,Minnesota,2020-05-28,1
+Oakdale,Minnesota,2020-05-29,0
+Oakdale,Minnesota,2020-05-30,0
+Oakdale,Minnesota,2020-05-31,0
+Oakdale,Minnesota,2020-06-01,0
+Oakdale,Minnesota,2020-06-02,0
+Oakdale,Minnesota,2020-06-03,0
+Oakdale,Minnesota,2020-06-04,0
+Oakdale,Minnesota,2020-06-05,0
+Oakland,California,2020-05-26,0
+Oakland,California,2020-05-27,1
+Oakland,California,2020-05-28,1
+Oakland,California,2020-05-29,1
+Oakland,California,2020-05-30,1
+Oakland,California,2020-05-31,1
+Oakland,California,2020-06-01,1
+Oakland,California,2020-06-02,0
+Oakland,California,2020-06-03,1
+Oakland,California,2020-06-04,0
+Oakland,California,2020-06-05,0
+Ocean City,New Jersey,2020-05-26,0
+Ocean City,New Jersey,2020-05-27,0
+Ocean City,New Jersey,2020-05-28,0
+Ocean City,New Jersey,2020-05-29,0
+Ocean City,New Jersey,2020-05-30,0
+Ocean City,New Jersey,2020-05-31,0
+Ocean City,New Jersey,2020-06-01,0
+Ocean City,New Jersey,2020-06-02,1
+Ocean City,New Jersey,2020-06-03,0
+Ocean City,New Jersey,2020-06-04,0
+Ocean City,New Jersey,2020-06-05,0
+Oklahoma City,Oklahoma,2020-05-26,0
+Oklahoma City,Oklahoma,2020-05-27,1
+Oklahoma City,Oklahoma,2020-05-28,1
+Oklahoma City,Oklahoma,2020-05-29,1
+Oklahoma City,Oklahoma,2020-05-30,1
+Oklahoma City,Oklahoma,2020-05-31,1
+Oklahoma City,Oklahoma,2020-06-01,1
+Oklahoma City,Oklahoma,2020-06-02,0
+Oklahoma City,Oklahoma,2020-06-03,0
+Oklahoma City,Oklahoma,2020-06-04,0
+Oklahoma City,Oklahoma,2020-06-05,0
+Omaha,Nebraska,2020-05-26,0
+Omaha,Nebraska,2020-05-27,0
+Omaha,Nebraska,2020-05-28,0
+Omaha,Nebraska,2020-05-29,1
+Omaha,Nebraska,2020-05-30,0
+Omaha,Nebraska,2020-05-31,0
+Omaha,Nebraska,2020-06-01,1
+Omaha,Nebraska,2020-06-02,0
+Omaha,Nebraska,2020-06-03,0
+Omaha,Nebraska,2020-06-04,0
+Omaha,Nebraska,2020-06-05,0
+Opelika,Alabama,2020-05-26,0
+Opelika,Alabama,2020-05-27,0
+Opelika,Alabama,2020-05-28,0
+Opelika,Alabama,2020-05-29,0
+Opelika,Alabama,2020-05-30,1
+Opelika,Alabama,2020-05-31,0
+Opelika,Alabama,2020-06-01,0
+Opelika,Alabama,2020-06-02,0
+Opelika,Alabama,2020-06-03,0
+Opelika,Alabama,2020-06-04,0
+Opelika,Alabama,2020-06-05,0
+Orlando,Florida,2020-05-26,0
+Orlando,Florida,2020-05-27,1
+Orlando,Florida,2020-05-28,1
+Orlando,Florida,2020-05-29,1
+Orlando,Florida,2020-05-30,1
+Orlando,Florida,2020-05-31,1
+Orlando,Florida,2020-06-01,0
+Orlando,Florida,2020-06-02,0
+Orlando,Florida,2020-06-03,0
+Orlando,Florida,2020-06-04,0
+Orlando,Florida,2020-06-05,0
+Perrysburg,Ohio,2020-05-26,0
+Perrysburg,Ohio,2020-05-27,0
+Perrysburg,Ohio,2020-05-28,0
+Perrysburg,Ohio,2020-05-29,0
+Perrysburg,Ohio,2020-05-30,0
+Perrysburg,Ohio,2020-05-31,0
+Perrysburg,Ohio,2020-06-01,0
+Perrysburg,Ohio,2020-06-02,0
+Perrysburg,Ohio,2020-06-03,0
+Perrysburg,Ohio,2020-06-04,1
+Perrysburg,Ohio,2020-06-05,0
+Petal,Mississippi,2020-05-26,0
+Petal,Mississippi,2020-05-27,0
+Petal,Mississippi,2020-05-28,1
+Petal,Mississippi,2020-05-29,0
+Petal,Mississippi,2020-05-30,0
+Petal,Mississippi,2020-05-31,0
+Petal,Mississippi,2020-06-01,0
+Petal,Mississippi,2020-06-02,1
+Petal,Mississippi,2020-06-03,0
+Petal,Mississippi,2020-06-04,0
+Petal,Mississippi,2020-06-05,0
+Peterborough,New Hampshire,2020-05-26,0
+Peterborough,New Hampshire,2020-05-27,0
+Peterborough,New Hampshire,2020-05-28,0
+Peterborough,New Hampshire,2020-05-29,0
+Peterborough,New Hampshire,2020-05-30,1
+Peterborough,New Hampshire,2020-05-31,0
+Peterborough,New Hampshire,2020-06-01,0
+Peterborough,New Hampshire,2020-06-02,0
+Peterborough,New Hampshire,2020-06-03,0
+Peterborough,New Hampshire,2020-06-04,0
+Peterborough,New Hampshire,2020-06-05,0
+Philadelphia,Pennsylvania,2020-05-26,0
+Philadelphia,Pennsylvania,2020-05-27,1
+Philadelphia,Pennsylvania,2020-05-28,1
+Philadelphia,Pennsylvania,2020-05-29,1
+Philadelphia,Pennsylvania,2020-05-30,1
+Philadelphia,Pennsylvania,2020-05-31,1
+Philadelphia,Pennsylvania,2020-06-01,1
+Philadelphia,Pennsylvania,2020-06-02,1
+Philadelphia,Pennsylvania,2020-06-03,0
+Philadelphia,Pennsylvania,2020-06-04,0
+Philadelphia,Pennsylvania,2020-06-05,0
+Phoenix,Arizona,2020-05-26,0
+Phoenix,Arizona,2020-05-27,1
+Phoenix,Arizona,2020-05-28,1
+Phoenix,Arizona,2020-05-29,1
+Phoenix,Arizona,2020-05-30,1
+Phoenix,Arizona,2020-05-31,1
+Phoenix,Arizona,2020-06-01,0
+Phoenix,Arizona,2020-06-02,0
+Phoenix,Arizona,2020-06-03,0
+Phoenix,Arizona,2020-06-04,0
+Phoenix,Arizona,2020-06-05,0
+Piedmont,California,2020-05-26,0
+Piedmont,California,2020-05-27,0
+Piedmont,California,2020-05-28,0
+Piedmont,California,2020-05-29,0
+Piedmont,California,2020-05-30,0
+Piedmont,California,2020-05-31,0
+Piedmont,California,2020-06-01,0
+Piedmont,California,2020-06-02,0
+Piedmont,California,2020-06-03,1
+Piedmont,California,2020-06-04,0
+Piedmont,California,2020-06-05,0
+Pierre,South Dakota,2020-05-26,0
+Pierre,South Dakota,2020-05-27,0
+Pierre,South Dakota,2020-05-28,0
+Pierre,South Dakota,2020-05-29,0
+Pierre,South Dakota,2020-05-30,0
+Pierre,South Dakota,2020-05-31,0
+Pierre,South Dakota,2020-06-01,0
+Pierre,South Dakota,2020-06-02,0
+Pierre,South Dakota,2020-06-03,0
+Pierre,South Dakota,2020-06-04,1
+Pierre,South Dakota,2020-06-05,0
+Pine Ridge,South Dakota,2020-05-26,0
+Pine Ridge,South Dakota,2020-05-27,0
+Pine Ridge,South Dakota,2020-05-28,0
+Pine Ridge,South Dakota,2020-05-29,0
+Pine Ridge,South Dakota,2020-05-30,0
+Pine Ridge,South Dakota,2020-05-31,0
+Pine Ridge,South Dakota,2020-06-01,0
+Pine Ridge,South Dakota,2020-06-02,0
+Pine Ridge,South Dakota,2020-06-03,0
+Pine Ridge,South Dakota,2020-06-04,1
+Pine Ridge,South Dakota,2020-06-05,0
+Pittsburgh,Pennsylvania,2020-05-26,0
+Pittsburgh,Pennsylvania,2020-05-27,0
+Pittsburgh,Pennsylvania,2020-05-28,0
+Pittsburgh,Pennsylvania,2020-05-29,0
+Pittsburgh,Pennsylvania,2020-05-30,1
+Pittsburgh,Pennsylvania,2020-05-31,0
+Pittsburgh,Pennsylvania,2020-06-01,1
+Pittsburgh,Pennsylvania,2020-06-02,0
+Pittsburgh,Pennsylvania,2020-06-03,0
+Pittsburgh,Pennsylvania,2020-06-04,0
+Pittsburgh,Pennsylvania,2020-06-05,0
+Plano,Texas,2020-05-26,0
+Plano,Texas,2020-05-27,0
+Plano,Texas,2020-05-28,0
+Plano,Texas,2020-05-29,0
+Plano,Texas,2020-05-30,0
+Plano,Texas,2020-05-31,0
+Plano,Texas,2020-06-01,0
+Plano,Texas,2020-06-02,0
+Plano,Texas,2020-06-03,1
+Plano,Texas,2020-06-04,0
+Plano,Texas,2020-06-05,0
+Pocatello,Idaho,2020-05-26,0
+Pocatello,Idaho,2020-05-27,0
+Pocatello,Idaho,2020-05-28,0
+Pocatello,Idaho,2020-05-29,0
+Pocatello,Idaho,2020-05-30,0
+Pocatello,Idaho,2020-05-31,0
+Pocatello,Idaho,2020-06-01,0
+Pocatello,Idaho,2020-06-02,0
+Pocatello,Idaho,2020-06-03,1
+Pocatello,Idaho,2020-06-04,0
+Pocatello,Idaho,2020-06-05,0
+Pomona,California,2020-05-26,0
+Pomona,California,2020-05-27,0
+Pomona,California,2020-05-28,0
+Pomona,California,2020-05-29,0
+Pomona,California,2020-05-30,1
+Pomona,California,2020-05-31,0
+Pomona,California,2020-06-01,0
+Pomona,California,2020-06-02,0
+Pomona,California,2020-06-03,0
+Pomona,California,2020-06-04,0
+Pomona,California,2020-06-05,0
+Pontiac,Michigan,2020-05-26,0
+Pontiac,Michigan,2020-05-27,0
+Pontiac,Michigan,2020-05-28,0
+Pontiac,Michigan,2020-05-29,0
+Pontiac,Michigan,2020-05-30,0
+Pontiac,Michigan,2020-05-31,0
+Pontiac,Michigan,2020-06-01,0
+Pontiac,Michigan,2020-06-02,0
+Pontiac,Michigan,2020-06-03,0
+Pontiac,Michigan,2020-06-04,1
+Pontiac,Michigan,2020-06-05,0
+Portland,Maine,2020-05-26,0
+Portland,Maine,2020-05-27,1
+Portland,Maine,2020-05-28,1
+Portland,Maine,2020-05-29,1
+Portland,Maine,2020-05-30,1
+Portland,Maine,2020-05-31,1
+Portland,Maine,2020-06-01,0
+Portland,Maine,2020-06-02,0
+Portland,Maine,2020-06-03,0
+Portland,Maine,2020-06-04,0
+Portland,Maine,2020-06-05,0
+Portland,Oregon,2020-05-26,0
+Portland,Oregon,2020-05-27,1
+Portland,Oregon,2020-05-28,1
+Portland,Oregon,2020-05-29,1
+Portland,Oregon,2020-05-30,1
+Portland,Oregon,2020-05-31,1
+Portland,Oregon,2020-06-01,1
+Portland,Oregon,2020-06-02,0
+Portland,Oregon,2020-06-03,0
+Portland,Oregon,2020-06-04,1
+Portland,Oregon,2020-06-05,0
+Portsmouth,New Hampshire,2020-05-26,0
+Portsmouth,New Hampshire,2020-05-27,0
+Portsmouth,New Hampshire,2020-05-28,0
+Portsmouth,New Hampshire,2020-05-29,0
+Portsmouth,New Hampshire,2020-05-30,0
+Portsmouth,New Hampshire,2020-05-31,0
+Portsmouth,New Hampshire,2020-06-01,0
+Portsmouth,New Hampshire,2020-06-02,0
+Portsmouth,New Hampshire,2020-06-03,0
+Portsmouth,New Hampshire,2020-06-04,1
+Portsmouth,New Hampshire,2020-06-05,0
+Prescott,Arizona,2020-05-26,0
+Prescott,Arizona,2020-05-27,0
+Prescott,Arizona,2020-05-28,0
+Prescott,Arizona,2020-05-29,0
+Prescott,Arizona,2020-05-30,1
+Prescott,Arizona,2020-05-31,0
+Prescott,Arizona,2020-06-01,0
+Prescott,Arizona,2020-06-02,0
+Prescott,Arizona,2020-06-03,0
+Prescott,Arizona,2020-06-04,0
+Prescott,Arizona,2020-06-05,0
+Providence,Rhode Island,2020-05-26,0
+Providence,Rhode Island,2020-05-27,0
+Providence,Rhode Island,2020-05-28,0
+Providence,Rhode Island,2020-05-29,0
+Providence,Rhode Island,2020-05-30,1
+Providence,Rhode Island,2020-05-31,0
+Providence,Rhode Island,2020-06-01,1
+Providence,Rhode Island,2020-06-02,1
+Providence,Rhode Island,2020-06-03,0
+Providence,Rhode Island,2020-06-04,0
+Providence,Rhode Island,2020-06-05,0
+Provo,Utah,2020-05-26,0
+Provo,Utah,2020-05-27,0
+Provo,Utah,2020-05-28,0
+Provo,Utah,2020-05-29,0
+Provo,Utah,2020-05-30,1
+Provo,Utah,2020-05-31,0
+Provo,Utah,2020-06-01,0
+Provo,Utah,2020-06-02,0
+Provo,Utah,2020-06-03,0
+Provo,Utah,2020-06-04,0
+Provo,Utah,2020-06-05,0
+Raleigh,North Carolina,2020-05-26,0
+Raleigh,North Carolina,2020-05-27,0
+Raleigh,North Carolina,2020-05-28,0
+Raleigh,North Carolina,2020-05-29,0
+Raleigh,North Carolina,2020-05-30,1
+Raleigh,North Carolina,2020-05-31,1
+Raleigh,North Carolina,2020-06-01,1
+Raleigh,North Carolina,2020-06-02,0
+Raleigh,North Carolina,2020-06-03,0
+Raleigh,North Carolina,2020-06-04,0
+Raleigh,North Carolina,2020-06-05,0
+Rancho Cucamonga,California,2020-05-26,0
+Rancho Cucamonga,California,2020-05-27,0
+Rancho Cucamonga,California,2020-05-28,0
+Rancho Cucamonga,California,2020-05-29,0
+Rancho Cucamonga,California,2020-05-30,1
+Rancho Cucamonga,California,2020-05-31,0
+Rancho Cucamonga,California,2020-06-01,0
+Rancho Cucamonga,California,2020-06-02,0
+Rancho Cucamonga,California,2020-06-03,0
+Rancho Cucamonga,California,2020-06-04,0
+Rancho Cucamonga,California,2020-06-05,0
+Rapid City,South Dakota,2020-05-26,0
+Rapid City,South Dakota,2020-05-27,0
+Rapid City,South Dakota,2020-05-28,0
+Rapid City,South Dakota,2020-05-29,1
+Rapid City,South Dakota,2020-05-30,0
+Rapid City,South Dakota,2020-05-31,0
+Rapid City,South Dakota,2020-06-01,0
+Rapid City,South Dakota,2020-06-02,0
+Rapid City,South Dakota,2020-06-03,1
+Rapid City,South Dakota,2020-06-04,0
+Rapid City,South Dakota,2020-06-05,0
+Rehoboth Beach,Delaware,2020-05-26,0
+Rehoboth Beach,Delaware,2020-05-27,0
+Rehoboth Beach,Delaware,2020-05-28,0
+Rehoboth Beach,Delaware,2020-05-29,0
+Rehoboth Beach,Delaware,2020-05-30,0
+Rehoboth Beach,Delaware,2020-05-31,0
+Rehoboth Beach,Delaware,2020-06-01,1
+Rehoboth Beach,Delaware,2020-06-02,0
+Rehoboth Beach,Delaware,2020-06-03,0
+Rehoboth Beach,Delaware,2020-06-04,0
+Rehoboth Beach,Delaware,2020-06-05,1
+Reno,Nevada,2020-05-26,0
+Reno,Nevada,2020-05-27,0
+Reno,Nevada,2020-05-28,0
+Reno,Nevada,2020-05-29,0
+Reno,Nevada,2020-05-30,1
+Reno,Nevada,2020-05-31,0
+Reno,Nevada,2020-06-01,0
+Reno,Nevada,2020-06-02,0
+Reno,Nevada,2020-06-03,0
+Reno,Nevada,2020-06-04,0
+Reno,Nevada,2020-06-05,0
+Richmond,Virginia,2020-05-26,0
+Richmond,Virginia,2020-05-27,1
+Richmond,Virginia,2020-05-28,1
+Richmond,Virginia,2020-05-29,1
+Richmond,Virginia,2020-05-30,1
+Richmond,Virginia,2020-05-31,1
+Richmond,Virginia,2020-06-01,0
+Richmond,Virginia,2020-06-02,0
+Richmond,Virginia,2020-06-03,0
+Richmond,Virginia,2020-06-04,0
+Richmond,Virginia,2020-06-05,0
+Riverside,California,2020-05-26,0
+Riverside,California,2020-05-27,0
+Riverside,California,2020-05-28,0
+Riverside,California,2020-05-29,0
+Riverside,California,2020-05-30,1
+Riverside,California,2020-05-31,0
+Riverside,California,2020-06-01,1
+Riverside,California,2020-06-02,0
+Riverside,California,2020-06-03,0
+Riverside,California,2020-06-04,0
+Riverside,California,2020-06-05,0
+Riverton,Wyoming,2020-05-26,0
+Riverton,Wyoming,2020-05-27,0
+Riverton,Wyoming,2020-05-28,0
+Riverton,Wyoming,2020-05-29,0
+Riverton,Wyoming,2020-05-30,0
+Riverton,Wyoming,2020-05-31,0
+Riverton,Wyoming,2020-06-01,1
+Riverton,Wyoming,2020-06-02,0
+Riverton,Wyoming,2020-06-03,0
+Riverton,Wyoming,2020-06-04,0
+Riverton,Wyoming,2020-06-05,0
+Roswell,New Mexico,2020-05-26,0
+Roswell,New Mexico,2020-05-27,0
+Roswell,New Mexico,2020-05-28,0
+Roswell,New Mexico,2020-05-29,0
+Roswell,New Mexico,2020-05-30,1
+Roswell,New Mexico,2020-05-31,0
+Roswell,New Mexico,2020-06-01,0
+Roswell,New Mexico,2020-06-02,0
+Roswell,New Mexico,2020-06-03,0
+Roswell,New Mexico,2020-06-04,0
+Roswell,New Mexico,2020-06-05,0
+Sacramento,California,2020-05-26,0
+Sacramento,California,2020-05-27,1
+Sacramento,California,2020-05-28,1
+Sacramento,California,2020-05-29,1
+Sacramento,California,2020-05-30,1
+Sacramento,California,2020-05-31,1
+Sacramento,California,2020-06-01,0
+Sacramento,California,2020-06-02,0
+Sacramento,California,2020-06-03,0
+Sacramento,California,2020-06-04,0
+Sacramento,California,2020-06-05,0
+Saint George,Utah,2020-05-26,0
+Saint George,Utah,2020-05-27,0
+Saint George,Utah,2020-05-28,0
+Saint George,Utah,2020-05-29,0
+Saint George,Utah,2020-05-30,1
+Saint George,Utah,2020-05-31,0
+Saint George,Utah,2020-06-01,0
+Saint George,Utah,2020-06-02,0
+Saint George,Utah,2020-06-03,0
+Saint George,Utah,2020-06-04,0
+Saint George,Utah,2020-06-05,0
+Saint Paul,Minnesota,2020-05-26,0
+Saint Paul,Minnesota,2020-05-27,1
+Saint Paul,Minnesota,2020-05-28,1
+Saint Paul,Minnesota,2020-05-29,1
+Saint Paul,Minnesota,2020-05-30,1
+Saint Paul,Minnesota,2020-05-31,1
+Saint Paul,Minnesota,2020-06-01,0
+Saint Paul,Minnesota,2020-06-02,0
+Saint Paul,Minnesota,2020-06-03,0
+Saint Paul,Minnesota,2020-06-04,0
+Saint Paul,Minnesota,2020-06-05,0
+Salem,Oregon,2020-05-26,0
+Salem,Oregon,2020-05-27,0
+Salem,Oregon,2020-05-28,0
+Salem,Oregon,2020-05-29,0
+Salem,Oregon,2020-05-30,0
+Salem,Oregon,2020-05-31,0
+Salem,Oregon,2020-06-01,0
+Salem,Oregon,2020-06-02,0
+Salem,Oregon,2020-06-03,1
+Salem,Oregon,2020-06-04,0
+Salem,Oregon,2020-06-05,0
+Salt Lake City,Utah,2020-05-26,0
+Salt Lake City,Utah,2020-05-27,1
+Salt Lake City,Utah,2020-05-28,1
+Salt Lake City,Utah,2020-05-29,1
+Salt Lake City,Utah,2020-05-30,1
+Salt Lake City,Utah,2020-05-31,1
+Salt Lake City,Utah,2020-06-01,0
+Salt Lake City,Utah,2020-06-02,0
+Salt Lake City,Utah,2020-06-03,0
+Salt Lake City,Utah,2020-06-04,0
+Salt Lake City,Utah,2020-06-05,0
+San Antonio,Texas,2020-05-26,0
+San Antonio,Texas,2020-05-27,0
+San Antonio,Texas,2020-05-28,0
+San Antonio,Texas,2020-05-29,0
+San Antonio,Texas,2020-05-30,1
+San Antonio,Texas,2020-05-31,0
+San Antonio,Texas,2020-06-01,0
+San Antonio,Texas,2020-06-02,0
+San Antonio,Texas,2020-06-03,0
+San Antonio,Texas,2020-06-04,0
+San Antonio,Texas,2020-06-05,0
+San Diego,California,2020-05-26,0
+San Diego,California,2020-05-27,1
+San Diego,California,2020-05-28,1
+San Diego,California,2020-05-29,1
+San Diego,California,2020-05-30,1
+San Diego,California,2020-05-31,1
+San Diego,California,2020-06-01,1
+San Diego,California,2020-06-02,0
+San Diego,California,2020-06-03,0
+San Diego,California,2020-06-04,0
+San Diego,California,2020-06-05,0
+San Francisco,California,2020-05-26,0
+San Francisco,California,2020-05-27,0
+San Francisco,California,2020-05-28,0
+San Francisco,California,2020-05-29,0
+San Francisco,California,2020-05-30,0
+San Francisco,California,2020-05-31,0
+San Francisco,California,2020-06-01,0
+San Francisco,California,2020-06-02,0
+San Francisco,California,2020-06-03,1
+San Francisco,California,2020-06-04,0
+San Francisco,California,2020-06-05,0
+San Francisco,Florida,2020-05-26,0
+San Francisco,Florida,2020-05-27,0
+San Francisco,Florida,2020-05-28,0
+San Francisco,Florida,2020-05-29,0
+San Francisco,Florida,2020-05-30,0
+San Francisco,Florida,2020-05-31,0
+San Francisco,Florida,2020-06-01,1
+San Francisco,Florida,2020-06-02,0
+San Francisco,Florida,2020-06-03,0
+San Francisco,Florida,2020-06-04,0
+San Francisco,Florida,2020-06-05,0
+San Jose,California,2020-05-26,0
+San Jose,California,2020-05-27,1
+San Jose,California,2020-05-28,1
+San Jose,California,2020-05-29,1
+San Jose,California,2020-05-30,1
+San Jose,California,2020-05-31,1
+San Jose,California,2020-06-01,0
+San Jose,California,2020-06-02,0
+San Jose,California,2020-06-03,1
+San Jose,California,2020-06-04,0
+San Jose,California,2020-06-05,0
+San Juan,Puerto Rico,2020-05-26,0
+San Juan,Puerto Rico,2020-05-27,0
+San Juan,Puerto Rico,2020-05-28,0
+San Juan,Puerto Rico,2020-05-29,0
+San Juan,Puerto Rico,2020-05-30,0
+San Juan,Puerto Rico,2020-05-31,0
+San Juan,Puerto Rico,2020-06-01,0
+San Juan,Puerto Rico,2020-06-02,1
+San Juan,Puerto Rico,2020-06-03,0
+San Juan,Puerto Rico,2020-06-04,0
+San Juan,Puerto Rico,2020-06-05,0
+San Luis Obispo,California,2020-05-26,0
+San Luis Obispo,California,2020-05-27,0
+San Luis Obispo,California,2020-05-28,0
+San Luis Obispo,California,2020-05-29,0
+San Luis Obispo,California,2020-05-30,0
+San Luis Obispo,California,2020-05-31,0
+San Luis Obispo,California,2020-06-01,0
+San Luis Obispo,California,2020-06-02,0
+San Luis Obispo,California,2020-06-03,1
+San Luis Obispo,California,2020-06-04,0
+San Luis Obispo,California,2020-06-05,0
+San Ramon,California,2020-05-26,0
+San Ramon,California,2020-05-27,0
+San Ramon,California,2020-05-28,0
+San Ramon,California,2020-05-29,0
+San Ramon,California,2020-05-30,0
+San Ramon,California,2020-05-31,0
+San Ramon,California,2020-06-01,0
+San Ramon,California,2020-06-02,1
+San Ramon,California,2020-06-03,0
+San Ramon,California,2020-06-04,0
+San Ramon,California,2020-06-05,0
+Sandpoint,Idaho,2020-05-26,0
+Sandpoint,Idaho,2020-05-27,0
+Sandpoint,Idaho,2020-05-28,0
+Sandpoint,Idaho,2020-05-29,0
+Sandpoint,Idaho,2020-05-30,0
+Sandpoint,Idaho,2020-05-31,0
+Sandpoint,Idaho,2020-06-01,0
+Sandpoint,Idaho,2020-06-02,0
+Sandpoint,Idaho,2020-06-03,0
+Sandpoint,Idaho,2020-06-04,1
+Sandpoint,Idaho,2020-06-05,0
+Santa Ana,California,2020-05-26,0
+Santa Ana,California,2020-05-27,0
+Santa Ana,California,2020-05-28,0
+Santa Ana,California,2020-05-29,0
+Santa Ana,California,2020-05-30,1
+Santa Ana,California,2020-05-31,0
+Santa Ana,California,2020-06-01,0
+Santa Ana,California,2020-06-02,0
+Santa Ana,California,2020-06-03,0
+Santa Ana,California,2020-06-04,0
+Santa Ana,California,2020-06-05,0
+Santa Fe,New Mexico,2020-05-26,0
+Santa Fe,New Mexico,2020-05-27,1
+Santa Fe,New Mexico,2020-05-28,1
+Santa Fe,New Mexico,2020-05-29,1
+Santa Fe,New Mexico,2020-05-30,1
+Santa Fe,New Mexico,2020-05-31,1
+Santa Fe,New Mexico,2020-06-01,0
+Santa Fe,New Mexico,2020-06-02,0
+Santa Fe,New Mexico,2020-06-03,0
+Santa Fe,New Mexico,2020-06-04,0
+Santa Fe,New Mexico,2020-06-05,0
+Savannah,Georgia,2020-05-26,0
+Savannah,Georgia,2020-05-27,0
+Savannah,Georgia,2020-05-28,0
+Savannah,Georgia,2020-05-29,0
+Savannah,Georgia,2020-05-30,0
+Savannah,Georgia,2020-05-31,1
+Savannah,Georgia,2020-06-01,0
+Savannah,Georgia,2020-06-02,0
+Savannah,Georgia,2020-06-03,0
+Savannah,Georgia,2020-06-04,0
+Savannah,Georgia,2020-06-05,0
+Seattle,Washington,2020-05-26,0
+Seattle,Washington,2020-05-27,1
+Seattle,Washington,2020-05-28,1
+Seattle,Washington,2020-05-29,1
+Seattle,Washington,2020-05-30,1
+Seattle,Washington,2020-05-31,1
+Seattle,Washington,2020-06-01,1
+Seattle,Washington,2020-06-02,1
+Seattle,Washington,2020-06-03,1
+Seattle,Washington,2020-06-04,1
+Seattle,Washington,2020-06-05,0
+Shreveport,Louisiana,2020-05-26,0
+Shreveport,Louisiana,2020-05-27,0
+Shreveport,Louisiana,2020-05-28,0
+Shreveport,Louisiana,2020-05-29,0
+Shreveport,Louisiana,2020-05-30,0
+Shreveport,Louisiana,2020-05-31,1
+Shreveport,Louisiana,2020-06-01,0
+Shreveport,Louisiana,2020-06-02,0
+Shreveport,Louisiana,2020-06-03,0
+Shreveport,Louisiana,2020-06-04,0
+Shreveport,Louisiana,2020-06-05,0
+Sioux City,Iowa,2020-05-26,0
+Sioux City,Iowa,2020-05-27,0
+Sioux City,Iowa,2020-05-28,0
+Sioux City,Iowa,2020-05-29,1
+Sioux City,Iowa,2020-05-30,0
+Sioux City,Iowa,2020-05-31,0
+Sioux City,Iowa,2020-06-01,0
+Sioux City,Iowa,2020-06-02,0
+Sioux City,Iowa,2020-06-03,0
+Sioux City,Iowa,2020-06-04,0
+Sioux City,Iowa,2020-06-05,0
+Sioux Falls,South Dakota,2020-05-26,0
+Sioux Falls,South Dakota,2020-05-27,0
+Sioux Falls,South Dakota,2020-05-28,0
+Sioux Falls,South Dakota,2020-05-29,0
+Sioux Falls,South Dakota,2020-05-30,0
+Sioux Falls,South Dakota,2020-05-31,1
+Sioux Falls,South Dakota,2020-06-01,1
+Sioux Falls,South Dakota,2020-06-02,0
+Sioux Falls,South Dakota,2020-06-03,0
+Sioux Falls,South Dakota,2020-06-04,0
+Sioux Falls,South Dakota,2020-06-05,0
+Sitka,Alaska,2020-05-26,0
+Sitka,Alaska,2020-05-27,0
+Sitka,Alaska,2020-05-28,0
+Sitka,Alaska,2020-05-29,0
+Sitka,Alaska,2020-05-30,0
+Sitka,Alaska,2020-05-31,0
+Sitka,Alaska,2020-06-01,1
+Sitka,Alaska,2020-06-02,0
+Sitka,Alaska,2020-06-03,0
+Sitka,Alaska,2020-06-04,0
+Sitka,Alaska,2020-06-05,0
+Sonora,California,2020-05-26,0
+Sonora,California,2020-05-27,0
+Sonora,California,2020-05-28,0
+Sonora,California,2020-05-29,0
+Sonora,California,2020-05-30,0
+Sonora,California,2020-05-31,0
+Sonora,California,2020-06-01,0
+Sonora,California,2020-06-02,0
+Sonora,California,2020-06-03,1
+Sonora,California,2020-06-04,0
+Sonora,California,2020-06-05,0
+South Bend,Indiana,2020-05-26,0
+South Bend,Indiana,2020-05-27,0
+South Bend,Indiana,2020-05-28,0
+South Bend,Indiana,2020-05-29,0
+South Bend,Indiana,2020-05-30,1
+South Bend,Indiana,2020-05-31,0
+South Bend,Indiana,2020-06-01,0
+South Bend,Indiana,2020-06-02,0
+South Bend,Indiana,2020-06-03,0
+South Bend,Indiana,2020-06-04,0
+South Bend,Indiana,2020-06-05,0
+Spotsylvania County,Virginia,2020-05-26,0
+Spotsylvania County,Virginia,2020-05-27,0
+Spotsylvania County,Virginia,2020-05-28,0
+Spotsylvania County,Virginia,2020-05-29,0
+Spotsylvania County,Virginia,2020-05-30,0
+Spotsylvania County,Virginia,2020-05-31,0
+Spotsylvania County,Virginia,2020-06-01,0
+Spotsylvania County,Virginia,2020-06-02,0
+Spotsylvania County,Virginia,2020-06-03,0
+Spotsylvania County,Virginia,2020-06-04,1
+Spotsylvania County,Virginia,2020-06-05,0
+Springfield,Illinois,2020-05-26,0
+Springfield,Illinois,2020-05-27,0
+Springfield,Illinois,2020-05-28,0
+Springfield,Illinois,2020-05-29,0
+Springfield,Illinois,2020-05-30,0
+Springfield,Illinois,2020-05-31,0
+Springfield,Illinois,2020-06-01,1
+Springfield,Illinois,2020-06-02,0
+Springfield,Illinois,2020-06-03,0
+Springfield,Illinois,2020-06-04,0
+Springfield,Illinois,2020-06-05,0
+Springfield,Massachusetts,2020-05-26,0
+Springfield,Massachusetts,2020-05-27,0
+Springfield,Massachusetts,2020-05-28,0
+Springfield,Massachusetts,2020-05-29,0
+Springfield,Massachusetts,2020-05-30,0
+Springfield,Massachusetts,2020-05-31,0
+Springfield,Massachusetts,2020-06-01,0
+Springfield,Massachusetts,2020-06-02,0
+Springfield,Massachusetts,2020-06-03,1
+Springfield,Massachusetts,2020-06-04,0
+Springfield,Massachusetts,2020-06-05,0
+Springfield,Missouri,2020-05-26,0
+Springfield,Missouri,2020-05-27,0
+Springfield,Missouri,2020-05-28,0
+Springfield,Missouri,2020-05-29,0
+Springfield,Missouri,2020-05-30,1
+Springfield,Missouri,2020-05-31,1
+Springfield,Missouri,2020-06-01,0
+Springfield,Missouri,2020-06-02,0
+Springfield,Missouri,2020-06-03,0
+Springfield,Missouri,2020-06-04,0
+Springfield,Missouri,2020-06-05,0
+St. Albans,Vermont,2020-05-26,0
+St. Albans,Vermont,2020-05-27,0
+St. Albans,Vermont,2020-05-28,0
+St. Albans,Vermont,2020-05-29,0
+St. Albans,Vermont,2020-05-30,0
+St. Albans,Vermont,2020-05-31,0
+St. Albans,Vermont,2020-06-01,0
+St. Albans,Vermont,2020-06-02,1
+St. Albans,Vermont,2020-06-03,0
+St. Albans,Vermont,2020-06-04,0
+St. Albans,Vermont,2020-06-05,0
+St. Johnsbury,Vermont,2020-05-26,0
+St. Johnsbury,Vermont,2020-05-27,0
+St. Johnsbury,Vermont,2020-05-28,0
+St. Johnsbury,Vermont,2020-05-29,0
+St. Johnsbury,Vermont,2020-05-30,0
+St. Johnsbury,Vermont,2020-05-31,0
+St. Johnsbury,Vermont,2020-06-01,0
+St. Johnsbury,Vermont,2020-06-02,0
+St. Johnsbury,Vermont,2020-06-03,1
+St. Johnsbury,Vermont,2020-06-04,0
+St. Johnsbury,Vermont,2020-06-05,0
+St. Louis,Missouri,2020-05-26,0
+St. Louis,Missouri,2020-05-27,0
+St. Louis,Missouri,2020-05-28,0
+St. Louis,Missouri,2020-05-29,1
+St. Louis,Missouri,2020-05-30,1
+St. Louis,Missouri,2020-05-31,0
+St. Louis,Missouri,2020-06-01,1
+St. Louis,Missouri,2020-06-02,0
+St. Louis,Missouri,2020-06-03,0
+St. Louis,Missouri,2020-06-04,0
+St. Louis,Missouri,2020-06-05,0
+Stamford,Connecticut,2020-05-26,0
+Stamford,Connecticut,2020-05-27,0
+Stamford,Connecticut,2020-05-28,0
+Stamford,Connecticut,2020-05-29,0
+Stamford,Connecticut,2020-05-30,0
+Stamford,Connecticut,2020-05-31,1
+Stamford,Connecticut,2020-06-01,0
+Stamford,Connecticut,2020-06-02,0
+Stamford,Connecticut,2020-06-03,0
+Stamford,Connecticut,2020-06-04,0
+Stamford,Connecticut,2020-06-05,0
+Stratford,Connecticut,2020-05-26,0
+Stratford,Connecticut,2020-05-27,0
+Stratford,Connecticut,2020-05-28,0
+Stratford,Connecticut,2020-05-29,0
+Stratford,Connecticut,2020-05-30,1
+Stratford,Connecticut,2020-05-31,0
+Stratford,Connecticut,2020-06-01,0
+Stratford,Connecticut,2020-06-02,0
+Stratford,Connecticut,2020-06-03,0
+Stratford,Connecticut,2020-06-04,0
+Stratford,Connecticut,2020-06-05,0
+Swampscott,Massachusetts,2020-05-26,0
+Swampscott,Massachusetts,2020-05-27,0
+Swampscott,Massachusetts,2020-05-28,0
+Swampscott,Massachusetts,2020-05-29,0
+Swampscott,Massachusetts,2020-05-30,0
+Swampscott,Massachusetts,2020-05-31,0
+Swampscott,Massachusetts,2020-06-01,0
+Swampscott,Massachusetts,2020-06-02,1
+Swampscott,Massachusetts,2020-06-03,0
+Swampscott,Massachusetts,2020-06-04,0
+Swampscott,Massachusetts,2020-06-05,0
+Tacoma,Washington,2020-05-26,0
+Tacoma,Washington,2020-05-27,0
+Tacoma,Washington,2020-05-28,0
+Tacoma,Washington,2020-05-29,0
+Tacoma,Washington,2020-05-30,0
+Tacoma,Washington,2020-05-31,0
+Tacoma,Washington,2020-06-01,1
+Tacoma,Washington,2020-06-02,0
+Tacoma,Washington,2020-06-03,0
+Tacoma,Washington,2020-06-04,0
+Tacoma,Washington,2020-06-05,0
+Tallahassee,Florida,2020-05-26,0
+Tallahassee,Florida,2020-05-27,1
+Tallahassee,Florida,2020-05-28,1
+Tallahassee,Florida,2020-05-29,1
+Tallahassee,Florida,2020-05-30,1
+Tallahassee,Florida,2020-05-31,1
+Tallahassee,Florida,2020-06-01,0
+Tallahassee,Florida,2020-06-02,0
+Tallahassee,Florida,2020-06-03,0
+Tallahassee,Florida,2020-06-04,0
+Tallahassee,Florida,2020-06-05,0
+Tampa,Florida,2020-05-26,0
+Tampa,Florida,2020-05-27,1
+Tampa,Florida,2020-05-28,1
+Tampa,Florida,2020-05-29,1
+Tampa,Florida,2020-05-30,1
+Tampa,Florida,2020-05-31,1
+Tampa,Florida,2020-06-01,0
+Tampa,Florida,2020-06-02,0
+Tampa,Florida,2020-06-03,0
+Tampa,Florida,2020-06-04,0
+Tampa,Florida,2020-06-05,0
+Temecula,California,2020-05-26,0
+Temecula,California,2020-05-27,0
+Temecula,California,2020-05-28,0
+Temecula,California,2020-05-29,0
+Temecula,California,2020-05-30,1
+Temecula,California,2020-05-31,0
+Temecula,California,2020-06-01,0
+Temecula,California,2020-06-02,0
+Temecula,California,2020-06-03,0
+Temecula,California,2020-06-04,0
+Temecula,California,2020-06-05,0
+Texarkana,Arkansas,2020-05-26,0
+Texarkana,Arkansas,2020-05-27,0
+Texarkana,Arkansas,2020-05-28,0
+Texarkana,Arkansas,2020-05-29,0
+Texarkana,Arkansas,2020-05-30,1
+Texarkana,Arkansas,2020-05-31,0
+Texarkana,Arkansas,2020-06-01,0
+Texarkana,Arkansas,2020-06-02,0
+Texarkana,Arkansas,2020-06-03,0
+Texarkana,Arkansas,2020-06-04,0
+Texarkana,Arkansas,2020-06-05,0
+Toledo,Ohio,2020-05-26,0
+Toledo,Ohio,2020-05-27,0
+Toledo,Ohio,2020-05-28,0
+Toledo,Ohio,2020-05-29,0
+Toledo,Ohio,2020-05-30,1
+Toledo,Ohio,2020-05-31,0
+Toledo,Ohio,2020-06-01,0
+Toledo,Ohio,2020-06-02,0
+Toledo,Ohio,2020-06-03,0
+Toledo,Ohio,2020-06-04,0
+Toledo,Ohio,2020-06-05,0
+Topeka,Kansas,2020-05-26,0
+Topeka,Kansas,2020-05-27,0
+Topeka,Kansas,2020-05-28,0
+Topeka,Kansas,2020-05-29,0
+Topeka,Kansas,2020-05-30,1
+Topeka,Kansas,2020-05-31,0
+Topeka,Kansas,2020-06-01,0
+Topeka,Kansas,2020-06-02,0
+Topeka,Kansas,2020-06-03,0
+Topeka,Kansas,2020-06-04,0
+Topeka,Kansas,2020-06-05,0
+Torrance,California,2020-05-26,0
+Torrance,California,2020-05-27,0
+Torrance,California,2020-05-28,0
+Torrance,California,2020-05-29,0
+Torrance,California,2020-05-30,0
+Torrance,California,2020-05-31,1
+Torrance,California,2020-06-01,0
+Torrance,California,2020-06-02,0
+Torrance,California,2020-06-03,0
+Torrance,California,2020-06-04,0
+Torrance,California,2020-06-05,0
+Troy,Alabama,2020-05-26,0
+Troy,Alabama,2020-05-27,0
+Troy,Alabama,2020-05-28,0
+Troy,Alabama,2020-05-29,1
+Troy,Alabama,2020-05-30,0
+Troy,Alabama,2020-05-31,0
+Troy,Alabama,2020-06-01,0
+Troy,Alabama,2020-06-02,0
+Troy,Alabama,2020-06-03,0
+Troy,Alabama,2020-06-04,0
+Troy,Alabama,2020-06-05,0
+Tucson,Arizona,2020-05-26,0
+Tucson,Arizona,2020-05-27,1
+Tucson,Arizona,2020-05-28,1
+Tucson,Arizona,2020-05-29,1
+Tucson,Arizona,2020-05-30,1
+Tucson,Arizona,2020-05-31,1
+Tucson,Arizona,2020-06-01,0
+Tucson,Arizona,2020-06-02,0
+Tucson,Arizona,2020-06-03,0
+Tucson,Arizona,2020-06-04,0
+Tucson,Arizona,2020-06-05,0
+Tulsa,Oklahoma,2020-05-26,0
+Tulsa,Oklahoma,2020-05-27,1
+Tulsa,Oklahoma,2020-05-28,1
+Tulsa,Oklahoma,2020-05-29,1
+Tulsa,Oklahoma,2020-05-30,1
+Tulsa,Oklahoma,2020-05-31,1
+Tulsa,Oklahoma,2020-06-01,0
+Tulsa,Oklahoma,2020-06-02,0
+Tulsa,Oklahoma,2020-06-03,0
+Tulsa,Oklahoma,2020-06-04,0
+Tulsa,Oklahoma,2020-06-05,0
+Tupelo,Mississippi,2020-05-26,0
+Tupelo,Mississippi,2020-05-27,0
+Tupelo,Mississippi,2020-05-28,0
+Tupelo,Mississippi,2020-05-29,0
+Tupelo,Mississippi,2020-05-30,1
+Tupelo,Mississippi,2020-05-31,0
+Tupelo,Mississippi,2020-06-01,0
+Tupelo,Mississippi,2020-06-02,0
+Tupelo,Mississippi,2020-06-03,0
+Tupelo,Mississippi,2020-06-04,0
+Tupelo,Mississippi,2020-06-05,0
+Tuscaloosa,Alabama,2020-05-26,0
+Tuscaloosa,Alabama,2020-05-27,0
+Tuscaloosa,Alabama,2020-05-28,0
+Tuscaloosa,Alabama,2020-05-29,0
+Tuscaloosa,Alabama,2020-05-30,0
+Tuscaloosa,Alabama,2020-05-31,1
+Tuscaloosa,Alabama,2020-06-01,0
+Tuscaloosa,Alabama,2020-06-02,0
+Tuscaloosa,Alabama,2020-06-03,1
+Tuscaloosa,Alabama,2020-06-04,0
+Tuscaloosa,Alabama,2020-06-05,0
+Twin Falls,Idaho,2020-05-26,0
+Twin Falls,Idaho,2020-05-27,0
+Twin Falls,Idaho,2020-05-28,0
+Twin Falls,Idaho,2020-05-29,0
+Twin Falls,Idaho,2020-05-30,0
+Twin Falls,Idaho,2020-05-31,0
+Twin Falls,Idaho,2020-06-01,0
+Twin Falls,Idaho,2020-06-02,1
+Twin Falls,Idaho,2020-06-03,0
+Twin Falls,Idaho,2020-06-04,0
+Twin Falls,Idaho,2020-06-05,0
+Warren Township,New Jersey,2020-05-26,0
+Warren Township,New Jersey,2020-05-27,0
+Warren Township,New Jersey,2020-05-28,0
+Warren Township,New Jersey,2020-05-29,0
+Warren Township,New Jersey,2020-05-30,0
+Warren Township,New Jersey,2020-05-31,0
+Warren Township,New Jersey,2020-06-01,0
+Warren Township,New Jersey,2020-06-02,0
+Warren Township,New Jersey,2020-06-03,1
+Warren Township,New Jersey,2020-06-04,0
+Warren Township,New Jersey,2020-06-05,0
+Warsaw,Indiana,2020-05-26,0
+Warsaw,Indiana,2020-05-27,0
+Warsaw,Indiana,2020-05-28,0
+Warsaw,Indiana,2020-05-29,0
+Warsaw,Indiana,2020-05-30,0
+Warsaw,Indiana,2020-05-31,0
+Warsaw,Indiana,2020-06-01,0
+Warsaw,Indiana,2020-06-02,0
+Warsaw,Indiana,2020-06-03,0
+Warsaw,Indiana,2020-06-04,1
+Warsaw,Indiana,2020-06-05,0
+Washington,D.C.,2020-05-26,0
+Washington,D.C.,2020-05-27,0
+Washington,D.C.,2020-05-28,0
+Washington,D.C.,2020-05-29,1
+Washington,D.C.,2020-05-30,1
+Washington,D.C.,2020-05-31,1
+Washington,D.C.,2020-06-01,1
+Washington,D.C.,2020-06-02,0
+Washington,D.C.,2020-06-03,1
+Washington,D.C.,2020-06-04,0
+Washington,D.C.,2020-06-05,0
+Washington,"Washington, D.C.",2020-05-26,0
+Washington,"Washington, D.C.",2020-05-27,1
+Washington,"Washington, D.C.",2020-05-28,1
+Washington,"Washington, D.C.",2020-05-29,1
+Washington,"Washington, D.C.",2020-05-30,1
+Washington,"Washington, D.C.",2020-05-31,1
+Washington,"Washington, D.C.",2020-06-01,0
+Washington,"Washington, D.C.",2020-06-02,1
+Washington,"Washington, D.C.",2020-06-03,1
+Washington,"Washington, D.C.",2020-06-04,1
+Washington,"Washington, D.C.",2020-06-05,0
+Watferloo,Iowa,2020-05-26,0
+Watferloo,Iowa,2020-05-27,0
+Watferloo,Iowa,2020-05-28,0
+Watferloo,Iowa,2020-05-29,1
+Watferloo,Iowa,2020-05-30,0
+Watferloo,Iowa,2020-05-31,0
+Watferloo,Iowa,2020-06-01,0
+Watferloo,Iowa,2020-06-02,0
+Watferloo,Iowa,2020-06-03,0
+Watferloo,Iowa,2020-06-04,0
+Watferloo,Iowa,2020-06-05,0
+Waukesha,Wisconsin,2020-05-26,0
+Waukesha,Wisconsin,2020-05-27,0
+Waukesha,Wisconsin,2020-05-28,0
+Waukesha,Wisconsin,2020-05-29,0
+Waukesha,Wisconsin,2020-05-30,0
+Waukesha,Wisconsin,2020-05-31,0
+Waukesha,Wisconsin,2020-06-01,1
+Waukesha,Wisconsin,2020-06-02,0
+Waukesha,Wisconsin,2020-06-03,0
+Waukesha,Wisconsin,2020-06-04,0
+Waukesha,Wisconsin,2020-06-05,0
+Wausau,Wisconsin,2020-05-26,0
+Wausau,Wisconsin,2020-05-27,0
+Wausau,Wisconsin,2020-05-28,0
+Wausau,Wisconsin,2020-05-29,1
+Wausau,Wisconsin,2020-05-30,0
+Wausau,Wisconsin,2020-05-31,0
+Wausau,Wisconsin,2020-06-01,0
+Wausau,Wisconsin,2020-06-02,0
+Wausau,Wisconsin,2020-06-03,0
+Wausau,Wisconsin,2020-06-04,0
+Wausau,Wisconsin,2020-06-05,0
+West Hollywood,California,2020-05-26,0
+West Hollywood,California,2020-05-27,0
+West Hollywood,California,2020-05-28,0
+West Hollywood,California,2020-05-29,0
+West Hollywood,California,2020-05-30,0
+West Hollywood,California,2020-05-31,0
+West Hollywood,California,2020-06-01,0
+West Hollywood,California,2020-06-02,0
+West Hollywood,California,2020-06-03,1
+West Hollywood,California,2020-06-04,0
+West Hollywood,California,2020-06-05,0
+Westport,Connecticut,2020-05-26,0
+Westport,Connecticut,2020-05-27,0
+Westport,Connecticut,2020-05-28,0
+Westport,Connecticut,2020-05-29,0
+Westport,Connecticut,2020-05-30,0
+Westport,Connecticut,2020-05-31,1
+Westport,Connecticut,2020-06-01,0
+Westport,Connecticut,2020-06-02,0
+Westport,Connecticut,2020-06-03,0
+Westport,Connecticut,2020-06-04,0
+Westport,Connecticut,2020-06-05,0
+Wheeling,West Virginia,2020-05-26,0
+Wheeling,West Virginia,2020-05-27,0
+Wheeling,West Virginia,2020-05-28,0
+Wheeling,West Virginia,2020-05-29,0
+Wheeling,West Virginia,2020-05-30,0
+Wheeling,West Virginia,2020-05-31,1
+Wheeling,West Virginia,2020-06-01,0
+Wheeling,West Virginia,2020-06-02,0
+Wheeling,West Virginia,2020-06-03,0
+Wheeling,West Virginia,2020-06-04,0
+Wheeling,West Virginia,2020-06-05,0
+Wichita,Kansas,2020-05-26,0
+Wichita,Kansas,2020-05-27,0
+Wichita,Kansas,2020-05-28,0
+Wichita,Kansas,2020-05-29,0
+Wichita,Kansas,2020-05-30,1
+Wichita,Kansas,2020-05-31,0
+Wichita,Kansas,2020-06-01,0
+Wichita,Kansas,2020-06-02,0
+Wichita,Kansas,2020-06-03,0
+Wichita,Kansas,2020-06-04,0
+Wichita,Kansas,2020-06-05,0
+Wilkes-Barre,Pennsylvania,2020-05-26,0
+Wilkes-Barre,Pennsylvania,2020-05-27,0
+Wilkes-Barre,Pennsylvania,2020-05-28,0
+Wilkes-Barre,Pennsylvania,2020-05-29,0
+Wilkes-Barre,Pennsylvania,2020-05-30,0
+Wilkes-Barre,Pennsylvania,2020-05-31,0
+Wilkes-Barre,Pennsylvania,2020-06-01,0
+Wilkes-Barre,Pennsylvania,2020-06-02,0
+Wilkes-Barre,Pennsylvania,2020-06-03,1
+Wilkes-Barre,Pennsylvania,2020-06-04,0
+Wilkes-Barre,Pennsylvania,2020-06-05,0
+Williamsburg,Virginia,2020-05-26,0
+Williamsburg,Virginia,2020-05-27,0
+Williamsburg,Virginia,2020-05-28,0
+Williamsburg,Virginia,2020-05-29,0
+Williamsburg,Virginia,2020-05-30,0
+Williamsburg,Virginia,2020-05-31,0
+Williamsburg,Virginia,2020-06-01,1
+Williamsburg,Virginia,2020-06-02,0
+Williamsburg,Virginia,2020-06-03,0
+Williamsburg,Virginia,2020-06-04,0
+Williamsburg,Virginia,2020-06-05,0
+Wilmington,Delaware,2020-05-26,0
+Wilmington,Delaware,2020-05-27,0
+Wilmington,Delaware,2020-05-28,0
+Wilmington,Delaware,2020-05-29,0
+Wilmington,Delaware,2020-05-30,1
+Wilmington,Delaware,2020-05-31,1
+Wilmington,Delaware,2020-06-01,0
+Wilmington,Delaware,2020-06-02,0
+Wilmington,Delaware,2020-06-03,0
+Wilmington,Delaware,2020-06-04,0
+Wilmington,Delaware,2020-06-05,0
+Wilmington,North Carolina,2020-05-26,0
+Wilmington,North Carolina,2020-05-27,0
+Wilmington,North Carolina,2020-05-28,0
+Wilmington,North Carolina,2020-05-29,0
+Wilmington,North Carolina,2020-05-30,0
+Wilmington,North Carolina,2020-05-31,1
+Wilmington,North Carolina,2020-06-01,0
+Wilmington,North Carolina,2020-06-02,0
+Wilmington,North Carolina,2020-06-03,0
+Wilmington,North Carolina,2020-06-04,0
+Wilmington,North Carolina,2020-06-05,0
+Winston-Salem,North Carolina,2020-05-26,0
+Winston-Salem,North Carolina,2020-05-27,0
+Winston-Salem,North Carolina,2020-05-28,0
+Winston-Salem,North Carolina,2020-05-29,0
+Winston-Salem,North Carolina,2020-05-30,0
+Winston-Salem,North Carolina,2020-05-31,1
+Winston-Salem,North Carolina,2020-06-01,0
+Winston-Salem,North Carolina,2020-06-02,0
+Winston-Salem,North Carolina,2020-06-03,0
+Winston-Salem,North Carolina,2020-06-04,0
+Winston-Salem,North Carolina,2020-06-05,0
+York,Pennsylvania,2020-05-26,0
+York,Pennsylvania,2020-05-27,0
+York,Pennsylvania,2020-05-28,0
+York,Pennsylvania,2020-05-29,0
+York,Pennsylvania,2020-05-30,0
+York,Pennsylvania,2020-05-31,0
+York,Pennsylvania,2020-06-01,1
+York,Pennsylvania,2020-06-02,1
+York,Pennsylvania,2020-06-03,0
+York,Pennsylvania,2020-06-04,0
+York,Pennsylvania,2020-06-05,0
+Youngstown,Ohio,2020-05-26,0
+Youngstown,Ohio,2020-05-27,0
+Youngstown,Ohio,2020-05-28,0
+Youngstown,Ohio,2020-05-29,0
+Youngstown,Ohio,2020-05-30,0
+Youngstown,Ohio,2020-05-31,1
+Youngstown,Ohio,2020-06-01,0
+Youngstown,Ohio,2020-06-02,0
+Youngstown,Ohio,2020-06-03,0
+Youngstown,Ohio,2020-06-04,0
+Youngstown,Ohio,2020-06-05,0
+Ypsilanti,Michigan,2020-05-26,0
+Ypsilanti,Michigan,2020-05-27,0
+Ypsilanti,Michigan,2020-05-28,1
+Ypsilanti,Michigan,2020-05-29,0
+Ypsilanti,Michigan,2020-05-30,0
+Ypsilanti,Michigan,2020-05-31,0
+Ypsilanti,Michigan,2020-06-01,0
+Ypsilanti,Michigan,2020-06-02,0
+Ypsilanti,Michigan,2020-06-03,0
+Ypsilanti,Michigan,2020-06-04,0
+Ypsilanti,Michigan,2020-06-05,0
+Yuma,Arizona,2020-05-26,0
+Yuma,Arizona,2020-05-27,0
+Yuma,Arizona,2020-05-28,0
+Yuma,Arizona,2020-05-29,0
+Yuma,Arizona,2020-05-30,1
+Yuma,Arizona,2020-05-31,0
+Yuma,Arizona,2020-06-01,0
+Yuma,Arizona,2020-06-02,0
+Yuma,Arizona,2020-06-03,0
+Yuma,Arizona,2020-06-04,0
+Yuma,Arizona,2020-06-05,0
